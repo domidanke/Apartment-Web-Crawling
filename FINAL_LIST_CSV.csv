@@ -1,0 +1,838 @@
+Apartment Name,Apartment Type,Available Room,Price,,,Lower Bound,Upper Bound,Price Mean in $,Area,Area in sqft Cleaned,#Beds,#Beds Cleaned,#Baths,#Baths Cleaned,Availability,Ratings,Ratings in starts
+Thirty 43 by the Greene,1 Bed 2nd Floor,3024-2F,$859 ,859,859,859,859,859,600 sqft,600,1 Bed,1,1 Bath,1 ,Today,90%,4.5
+Thirty 43 by the Greene,1 Bed 2nd Floor,3024-2A,$859 ,859,859,859,859,859,600 sqft,600,1 Bed,1,1 Bath,1 ,Jun 11,90%,4.5
+Thirty 43 by the Greene,2 TH Balcony,2901C,$929 ,929,929,929,929,929,1090 sqft,1090,2 Beds,2,1.5 Bath,1.5 ,May 11,90%,4.5
+Thirty 43 by the Greene,2 TH Patio,3038H,$979 ,979,979,979,979,979,1090 sqft,1090,2 Beds,2,1.5 Bath,1.5 ,Jun 11,90%,4.5
+Thirty 43 by the Greene,1 Bed 3rd Floor,3024-3D,$889 ,889,889,889,889,889,600 sqft,600,1 Bed,1,1 Bath,1 ,Jul 09,90%,4.5
+Thirty 43 by the Greene,1 Bed 1st Floor,NA,$839 ,839,839,839,839,839,600+ sqft,600,1 Bed,1,1 Bath,1 ,Contact,90%,4.5
+Thirty 43 by the Greene,2 TH Balcony Phase 1,NA,$939 ,939,939,939,939,939,1090+ sqft,1090,2 Beds,2,1.5 Bath,1.5 ,Contact,90%,4.5
+Thirty 43 by the Greene,2TH Balcony WD H-up,NA,$959 ,959,959,959,959,959,1090+ sqft,1090,2 Beds,2,1.5 Bath,1.5 ,Contact,90%,4.5
+Thirty 43 by the Greene,2 TH Carport,NA,$999 ,999,999,999,999,999,1090+ sqft,1090,2 Beds,2,1.5 Bath,1.5 ,Contact,90%,4.5
+Thirty 43 by the Greene,2 TH Patio WD H-up,NA,$979 ,979,979,979,979,979,1090+ sqft,1090,2 Beds,2,1.5 Bath,1.5 ,Contact,90%,4.5
+The Landing,1 Bed 1 Bath,1-901,"$1,199 ",1199,1199,1199,1199,1199,601 sqft,601,1 Bed,1,1 Bath,1 ,Today,80%,4
+The Landing,1 Bed 1 Bath,1-701,$899 ,899,899,899,899,899,601 sqft,601,1 Bed,1,1 Bath,1 ,Jun 12,80%,4
+The Landing,1 Bed 1 Bath,212LIB,"$1,049 ",1049,1049,1049,1049,1049,794 sqft,794,1 Bed,1,1 Bath,1 ,Today,80%,4
+The Landing,1 Bed 1 Bath,242LIB,"$1,049 ",1049,1049,1049,1049,1049,794 sqft,794,1 Bed,1,1 Bath,1 ,Today,80%,4
+The Landing,1 Bed 1 Bath,272LIB,"$1,049 ",1049,1049,1049,1049,1049,794 sqft,794,1 Bed,1,1 Bath,1 ,Today,80%,4
+The Landing,1 Bed 1 Bath,222LIB,"$1,049 ",1049,1049,1049,1049,1049,794 sqft,794,1 Bed,1,1 Bath,1 ,Jul 10,80%,4
+The Landing,2 Bed 2 Bath,223MON,"$1,349 ",1349,1349,1349,1349,1349,1036 sqft,1036,2 Beds,2,2 Bath,2 ,Today,80%,4
+The Landing,2 Bed 2 Bath,307WIL,"$1,349 ",1349,1349,1349,1349,1349,1036 sqft,1036,2 Beds,2,2 Bath,2 ,Today,80%,4
+The Landing,2 Bed 2 Bath,315WIL,"$1,499 ",1499,1499,1499,1499,1499,1036 sqft,1036,2 Beds,2,2 Bath,2 ,Today,80%,4
+The Landing,2 Bed 2 Bath,233MON,$999 ,999,999,999,999,999,1036 sqft,1036,2 Beds,2,2 Bath,2 ,Today,80%,4
+The Landing,2 Bed 2 Bath,207MON,"$1,324 ",1324,1324,1324,1324,1324,1065 sqft,1065,2 Beds,2,2 Bath,2 ,Today,80%,4
+The Landing,2 Bed 2 Bath,1-904,"$1,399 ",1399,1399,1399,1399,1399,1065 sqft,1065,2 Beds,2,2 Bath,2 ,Today,80%,4
+The Landing,2 Bed 2 Bath,225MON,"$1,299 ",1299,1299,1299,1299,1299,1065 sqft,1065,2 Beds,2,2 Bath,2 ,Apr 10,80%,4
+The Landing,2 Bed 2 Bath,1-102,"$1,199 ",1199,1199,1199,1199,1199,1065 sqft,1065,2 Beds,2,2 Bath,2 ,May 10,80%,4
+The Landing,2 Bed 2 Bath,1-604,"$1,199 ",1199,1199,1199,1199,1199,1065 sqft,1065,2 Beds,2,2 Bath,2 ,Jun 12,80%,4
+The Landing,2 Bed 2 Bath,306LAW,"$1,299 ",1299,1299,1299,1299,1299,1070 sqft,1070,2 Beds,2,2 Bath,2 ,Today,80%,4
+The Landing,2 Bed 2 Bath,307MON,"$1,299 ",1299,1299,1299,1299,1299,1070 sqft,1070,2 Beds,2,2 Bath,2 ,Today,80%,4
+The Landing,2 Bed 2 Bath,325MON,"$1,299 ",1299,1299,1299,1299,1299,1070 sqft,1070,2 Beds,2,2 Bath,2 ,Today,80%,4
+The Landing,2 Bed 2 Bath,319MON,$999 ,999,999,999,999,999,1070 sqft,1070,2 Beds,2,2 Bath,2 ,Today,80%,4
+The Landing,2 Bed 2.5 Bath,305MON,"$1,399 ",1399,1399,1399,1399,1399,1062 sqft,1062,2 Beds,2,2.5 Bath,2.5 ,Today,80%,4
+The Landing,2 Bed 2.5 Bath,308LAW,"$1,399 ",1399,1399,1399,1399,1399,1062 sqft,1062,2 Beds,2,2.5 Bath,2.5 ,Today,80%,4
+The Landing,2 Bed 2.5 Bath,311MON,"$1,399 ",1399,1399,1399,1399,1399,1062 sqft,1062,2 Beds,2,2.5 Bath,2.5 ,Today,80%,4
+The Landing,2 Bed 2.5 Bath,314LAW,"$1,399 ",1399,1399,1399,1399,1399,1062 sqft,1062,2 Beds,2,2.5 Bath,2.5 ,Today,80%,4
+The Landing,2 Bed 2.5 Bath,317MON,"$1,399 ",1399,1399,1399,1399,1399,1062 sqft,1062,2 Beds,2,2.5 Bath,2.5 ,Today,80%,4
+The Landing,1 Bed 1 Bath,1-206,"$1,699 ",1699,1699,1699,1699,1699,1101 sqft,1101,1 Bed,1,1 Bath,1 ,Apr 09,80%,4
+The Landing,1 Bed 1 Bath,1-307,$999 ,999,999,999,999,999,794 sqft,794,1 Bed,1,1 Bath,1 ,Apr 10,80%,4
+The Landing,3 Bed 2 Bath,1-101,"$2,499 ",2499,2499,2499,2499,2499,1079 sqft,1079,3 Beds,3,2 Bath,2 ,May 10,80%,4
+The Landing,2 Bed 2 Bath,1-109,"$1,999 ",1999,1999,1999,1999,1999,1060 sqft,1060,2 Beds,2,2 Bath,2 ,May 14,80%,4
+The Landing,1 Bed 1 Bath,1-402,$975 ,975,975,975,975,975,750 sqft,750,1 Bed,1,1 Bath,1 ,Jun 12,80%,4
+The Landing,1 Bed 1 Bath,1-1102,$999 ,999,999,999,999,999,750 sqft,750,1 Bed,1,1 Bath,1 ,Jun 12,80%,4
+The Landing,2 Bed 2.5 Bath,219LIB,"$1,200 ",1200,1200,1200,1200,1200,1506 sqft,1506,2 Beds,2,2.5 Bath,2.5 ,Jul 10,80%,4
+The Landing,2 Bed 2 Bath,NA,"$1,165 ",1165,1165,1165,1165,1165,1200+ sqft,1200,2 Beds,2,2 Bath,2 ,Contact,80%,4
+The Landing,2 Bed 2.5 Bath,NA,"$1,415 ",1415,1415,1415,1415,1415,1762+ sqft,1762,2 Beds,2,2.5 Bath,2.5 ,Contact,80%,4
+The Landing,3 Bed 2.5 Bath,NA,"$1,485 ",1485,1485,1485,1485,1485,2005+ sqft,2005,3 Beds,3,2.5 Bath,2.5 ,Contact,80%,4
+Yorktown Colony,Hawthorne,NA,$790 ,790,790,790,790,790,1062+ sqft,1062,2 Beds,2,1.5 Bath,1.5 ,1 Available,70%,3.5
+Yorktown Colony,Huntington,NA,$805 ,805,805,805,805,805,1089+ sqft,1089,2 Beds,2,1.5 Bath,1.5 ,1 Available,70%,3.5
+Yorktown Colony,Remington,NA,$930 ,930,930,930,930,930,1253+ sqft,1253,3 Beds,3,1.5 Bath,1.5 ,3 Available,70%,3.5
+Yorktown Colony,Waverly,NA,$960 ,960,960,960,960,960,1285+ sqft,1285,3 Beds,3,1.5 Bath,1.5 ,4 Available,70%,3.5
+Yorktown Colony,Wentworth,NA,"$920–$1,015","920–1,015","920–1,015",920,"1,015",967.5,1350+ sqft,1350,3 Beds,3,1.5 Bath,1.5 ,1 Available,70%,3.5
+Yorktown Colony,Worthington,NA,"$1,075 ",1075,1075,1075,1075,1075,1350+ sqft,1350,4 Beds,4,2 Bath,2 ,3 Available,70%,3.5
+Yorktown Colony,Dorchester,NA,$755–$785,755–785,755–785,755,785,770,922+ sqft,922,2 Beds,2,2 Bath,2 ,May 11,70%,3.5
+Yorktown Colony,Buchanan,NA,$599 ,599,599,599,599,599,576+ sqft,576,1 Bed,1,1 Bath,1 ,Jun 11,70%,3.5
+Yorktown Colony,Cambridge,NA,$625 ,625,625,625,625,625,635+ sqft,635,1 Bed,1,1 Bath,1 ,Jun 12,70%,3.5
+Yorktown Colony,Hanover,NA,$735–$765,735–765,735–765,735,765,750,1037+ sqft,1037,2 Beds,2,1.5 Bath,1.5 ,Jun 13,70%,3.5
+Yorktown Colony,Wellington,NA,$890 ,890,890,890,890,890,1285+ sqft,1285,3 Beds,3,2 Bath,2 ,Jun 13,70%,3.5
+Yorktown Colony,Bancroft,NA,$535 ,535,535,535,535,535,486+ sqft,486,Studio,Studio,1 Bath,1 ,Jul 06,70%,3.5
+Yorktown Colony,Charleston,NA,$709 ,709,709,709,709,709,864+ sqft,864,2 Beds,2,1 Bath,1 ,Jul 11,70%,3.5
+Yorktown Colony,Fairmont,NA,$765 ,765,765,765,765,765,956+ sqft,956,2 Beds,2,2 Bath,2 ,Jul 12,70%,3.5
+Yorktown Colony,McKinley,NA,$790–$875,790–875,790–875,790,875,832.5,1173+ sqft,1173,2 Beds,2,1.5 Bath,1.5 ,Jul 18,70%,3.5
+Georgetown Of Kettering,Fairfax,NA,From $675,From 675, 675, 675, 675,675,750+ sqft,750,1 Bed,1,1 Bath,1 ,Contact,60%,3
+Georgetown Of Kettering,Franklin,NA,From $675,From 675, 675, 675, 675,675,750+ sqft,750,1 Bed,1,1 Bath,1 ,Contact,60%,3
+Georgetown Of Kettering,Emerson,NA,From $720,From 720, 720, 720, 720,720,800+ sqft,800,1 Bed,1,1 Bath,1 ,Contact,60%,3
+Georgetown Of Kettering,Hawthorne,NA,From $792,From 792, 792, 792, 792,792,950+ sqft,950,1 Bed,1,1 Bath,1 ,Contact,60%,3
+Georgetown Of Kettering,Smithville,NA,$792–$815,792–815,792–815,792,815,803.5,900+ sqft,900,1 Bed,1,1.5 Bath,1.5 ,Contact,60%,3
+Georgetown Of Kettering,Webster,NA,From $800,From 800, 800, 800, 800,800,950+ sqft,950,2 Beds,2,1 Bath,1 ,Contact,60%,3
+Georgetown Of Kettering,Essex,NA,From $820,From 820, 820, 820, 820,820,950+ sqft,950,2 Beds,2,1 Bath,1 ,Contact,60%,3
+Georgetown Of Kettering,Williamsburg,NA,$848–$949,848–949,848–949,848,949,898.5,1050+ sqft,1050,2 Beds,2,1.5 Bath,1.5 ,Contact,60%,3
+Georgetown Of Kettering,Monticello,NA,From $999,From 999, 999, 999, 999,999,1225+ sqft,1225,2 Beds,2,1.5 Bath,1.5 ,Contact,60%,3
+Georgetown Of Kettering,Columbia,NA,From $924,From 924, 924, 924, 924,924,1225+ sqft,1225,2 Beds,2,2 Bath,2 ,Contact,60%,3
+Georgetown Of Kettering,Astor,NA,From $999,From 999, 999, 999, 999,999,1225+ sqft,1225,2 Beds,2,2 Bath,2 ,Contact,60%,3
+Georgetown Of Kettering,Danbury,NA,From $999,From 999, 999, 999, 999,999,1281+ sqft,1281,2 Beds,2,2 Bath,2 ,Contact,60%,3
+Georgetown Of Kettering,Addison,NA,"$1,045–$1,180","1,045–1,180","1,045–1,180","1,045","1,180",1112.5,1300+ sqft,1300,3 Beds,3,1.5 Bath,1.5 ,Contact,60%,3
+Georgetown Of Kettering,Princeton,NA,"From $1,025","From 1,025"," 1,025"," 1,025"," 1,025",1025,1100+ sqft,1100,3 Beds,3,2.5 Bath,2.5 ,Contact,60%,3
+Georgetown Of Kettering,Hampton,NA,"From $1,200","From 1,200"," 1,200"," 1,200"," 1,200",1200,1500+ sqft,1500,3 Beds,3,2.5 Bath,2.5 ,Contact,60%,3
+Georgetown Of Kettering,Granville,NA,"From $1,299","From 1,299"," 1,299"," 1,299"," 1,299",1299,1300+ sqft,1300,3 Beds,3,3 Bath,3 ,Contact,60%,3
+Fieldstone,The Orchid I,685H,"$1,099 ",1099,1099,1099,1099,1099,1046 sqft,1046,2 Beds,2,2 Bath,2 ,May 07,90%,4.5
+Fieldstone,The Aster I,NA,$789 ,789,789,789,789,789,597+ sqft,597,1 Bed,1,1 Bath,1 ,Contact,90%,4.5
+Fieldstone,The Aster II,NA,$799 ,799,799,799,799,799,604+ sqft,604,1 Bed,1,1 Bath,1 ,Contact,90%,4.5
+Fieldstone,The Aster III,NA,$809 ,809,809,809,809,809,666+ sqft,666,1 Bed,1,1 Bath,1 ,Contact,90%,4.5
+Fieldstone,The Aster IV,NA,"$1,658 ",1658,1658,1658,1658,1658,674+ sqft,674,1 Bed,1,1 Bath,1 ,Contact,90%,4.5
+Fieldstone,The Lilac,NA,$839 ,839,839,839,839,839,677+ sqft,677,1 Bed,1,1 Bath,1 ,Contact,90%,4.5
+Fieldstone,The Lilac I,NA,$879 ,879,879,879,879,879,707+ sqft,707,1 Bed,1,1 Bath,1 ,Contact,90%,4.5
+Fieldstone,The Lilac II,NA,$949 ,949,949,949,949,949,757+ sqft,757,1 Bed,1,1 Bath,1 ,Contact,90%,4.5
+Fieldstone,The Clover II,NA,$969 ,969,969,969,969,969,974+ sqft,974,2 Beds,2,2 Bath,2 ,Contact,90%,4.5
+Fieldstone,The Clover III,NA,$979 ,979,979,979,979,979,1037+ sqft,1037,2 Beds,2,2 Bath,2 ,Contact,90%,4.5
+Fieldstone,The Clover IV,NA,$999 ,999,999,999,999,999,1068+ sqft,1068,2 Beds,2,2 Bath,2 ,Contact,90%,4.5
+Fieldstone,The Orchid II,NA,"$1,149 ",1149,1149,1149,1149,1149,1117+ sqft,1117,2 Beds,2,2 Bath,2 ,Contact,90%,4.5
+Fieldstone,The Heather,NA,"$1,239–$1,320","1,239–1,320","1,239–1,320","1,239","1,320",1279.5,1198+ sqft,1198,3 Beds,3,2 Bath,2 ,Contact,90%,4.5
+Water Street Apartments,Orville,525-301,"$1,915 ",1915,1915,1915,1915,1915,1256 sqft,1256,3 Beds,3,2 Bath,2 ,Today,100,5
+Water Street Apartments,Orville,541-106,"$1,865 ",1865,1865,1865,1865,1865,1256 sqft,1256,3 Beds,3,2 Bath,2 ,May 15,100,5
+Water Street Apartments,Orville,525-201,"$2,068 ",2068,2068,2068,2068,2068,1256 sqft,1256,3 Beds,3,2 Bath,2 ,Jun 12,100,5
+Water Street Apartments,Jackson,NA,$880–$954,880–954,880–954,880,954,917,533+ sqft,533,1 Bed,1,1 Bath,1 ,Contact,100,5
+Water Street Apartments,Greene,NA,$980 ,980,980,980,980,980,658+ sqft,658,1 Bed,1,1 Bath,1 ,Contact,100,5
+Water Street Apartments,Armstrong,NA,"$1,030–$1,084","1,030–1,084","1,030–1,084","1,030","1,084",1057,694+ sqft,694,1 Bed,1,1 Bath,1 ,Contact,100,5
+Water Street Apartments,Carter,NA,"$1,030–$1,084","1,030–1,084","1,030–1,084","1,030","1,084",1057,699+ sqft,699,1 Bed,1,1 Bath,1 ,Contact,100,5
+Water Street Apartments,Wilber,NA,"$1,254–$1,354","1,254–1,354","1,254–1,354","1,254","1,354",1304,804+ sqft,804,1 Bed,1,1 Bath,1 ,Contact,100,5
+Water Street Apartments,Bombeck,NA,"$1,120–$1,254","1,120–1,254","1,120–1,254","1,120","1,254",1187,811+ sqft,811,1 Bed,1,1 Bath,1 ,Contact,100,5
+Water Street Apartments,Oakley,NA,"$1,330 ",1330,1330,1330,1330,1330,827+ sqft,827,1 Bed,1,1 Bath,1 ,Contact,100,5
+Water Street Apartments,Hamilton,NA,"$1,145 ",1145,1145,1145,1145,1145,876+ sqft,876,1 Bed,1,1 Bath,1 ,Contact,100,5
+Water Street Apartments,Fisher,NA,"$1,280–$1,389","1,280–1,389","1,280–1,389","1,280","1,389",1334.5,950+ sqft,950,1 Bed,1,1 Bath,1 ,Contact,100,5
+Water Street Apartments,Schmidt,NA,"$1,295 ",1295,1295,1295,1295,1295,923+ sqft,923,2 Beds,2,2 Bath,2 ,Contact,100,5
+Water Street Apartments,Stanton,NA,"$1,315 ",1315,1315,1315,1315,1315,952+ sqft,952,2 Beds,2,2 Bath,2 ,Contact,100,5
+Water Street Apartments,Milton,NA,"$1,574–$1,674","1,574–1,674","1,574–1,674","1,574","1,674",1624,1011+ sqft,1011,2 Beds,2,2 Bath,2 ,Contact,100,5
+Water Street Apartments,Parson,NA,"$1,500 ",1500,1500,1500,1500,1500,1040+ sqft,1040,2 Beds,2,2 Bath,2 ,Contact,100,5
+Water Street Apartments,Sherman,NA,"$1,350–$1,374","1,350–1,374","1,350–1,374","1,350","1,374",1362,1052+ sqft,1052,2 Beds,2,2 Bath,2 ,Contact,100,5
+Water Street Apartments,Patterson,NA,"$1,475–$1,590","1,475–1,590","1,475–1,590","1,475","1,590",1532.5,1156+ sqft,1156,2 Beds,2,2 Bath,2 ,Contact,100,5
+Water Street Apartments,Sinclair,NA,"$1,545–$1,674","1,545–1,674","1,545–1,674","1,545","1,674",1609.5,1165+ sqft,1165,2 Beds,2,2 Bath,2 ,Contact,100,5
+Water Street Apartments,Webster,NA,"$1,740–$1,840","1,740–1,840","1,740–1,840","1,740","1,840",1790,1200+ sqft,1200,2 Beds,2,2 Bath,2 ,Contact,100,5
+Water Street Apartments,Woodward I,NA,"$1,874–$1,950","1,874–1,950","1,874–1,950","1,874","1,950",1912,1242+ sqft,1242,2 Beds,2,2 Bath,2 ,Contact,100,5
+Water Street Apartments,Wright,NA,"$1,825 ",1825,1825,1825,1825,1825,1271+ sqft,1271,2 Beds,2,2 Bath,2 ,Contact,100,5
+Water Street Apartments,Woodward II,NA,"$1,874 ",1874,1874,1874,1874,1874,1305+ sqft,1305,2 Beds,2,2 Bath,2 ,Contact,100,5
+Oakwood Apartments,Apartment,NA,$745–$765,745–765,745–765,745,765,755,1000+ sqft,1000,2 Beds,2,2 Bath,2 ,3 Available,60%,3
+The Voyageur Apartments,One Bedroom,1755A,$664 ,664,664,664,664,664,700 sqft,700,1 Bed,1,1 Bath,1 ,Today,NA,NA
+The Voyageur Apartments,One Bedroom,1756C,$664 ,664,664,664,664,664,700 sqft,700,1 Bed,1,1 Bath,1 ,Today,NA,NA
+The Voyageur Apartments,One Bedroom,820D,$664 ,664,664,664,664,664,700 sqft,700,1 Bed,1,1 Bath,1 ,Today,NA,NA
+The Voyageur Apartments,Two Bedroom Townhome,831,$783 ,783,783,783,783,783,1000 sqft,1000,2 Beds,2,1.5 Bath,1.5 ,Today,NA,NA
+The Voyageur Apartments,Two Bedroom Townhome,846,$783 ,783,783,783,783,783,1000 sqft,1000,2 Beds,2,1.5 Bath,1.5 ,Today,NA,NA
+The Voyageur Apartments,Two Bedroom Townhome,919,$783 ,783,783,783,783,783,1000 sqft,1000,2 Beds,2,1.5 Bath,1.5 ,Today,NA,NA
+The Voyageur Apartments,Two Bedroom Townhome - Platinum,836,$825 ,825,825,825,825,825,1000 sqft,1000,2 Beds,2,1.5 Bath,1.5 ,Today,NA,NA
+The Voyageur Apartments,Two Bedroom Townhome - Platinum,937,$825 ,825,825,825,825,825,1000 sqft,1000,2 Beds,2,1.5 Bath,1.5 ,Today,NA,NA
+The Voyageur Apartments,Three Bedroom Townhome,1810,$894 ,894,894,894,894,894,1200 sqft,1200,3 Beds,3,2 Bath,2 ,Today,NA,NA
+The Voyageur Apartments,Three Bedroom Townhome,1833,$894 ,894,894,894,894,894,1200 sqft,1200,3 Beds,3,2 Bath,2 ,Today,NA,NA
+The Voyageur Apartments,Three Bedroom Townhome,1806,$894 ,894,894,894,894,894,1200 sqft,1200,3 Beds,3,2 Bath,2 ,Apr 30,NA,NA
+The Voyageur Apartments,One Bedroom - Platinum,NA,$715 ,715,715,715,715,715,700+ sqft,700,1 Bed,1,1 Bath,1 ,Contact,NA,NA
+The Voyageur Apartments,Three Bedroom Townhome - Platinum,NA,$975 ,975,975,975,975,975,1200+ sqft,1200,3 Beds,3,2 Bath,2 ,Contact,NA,NA
+St. Clair Lofts,Carillon,NA,$775 ,775,775,775,775,775,492+ sqft,492,1 Bed,1,1 Bath,1 ,Contact,90%,4.5
+St. Clair Lofts,Patterson,NA,$799–$840,799–840,799–840,799,840,819.5,604+ sqft,604,1 Bed,1,1 Bath,1 ,Contact,90%,4.5
+St. Clair Lofts,Small Merchant,NA,$839 ,839,839,839,839,839,667+ sqft,667,1 Bed,1,1 Bath,1 ,Contact,90%,4.5
+St. Clair Lofts,Large Merchant,NA,$910 ,910,910,910,910,910,755+ sqft,755,1 Bed,1,1 Bath,1 ,Contact,90%,4.5
+St. Clair Lofts,Delco,NA,$905–$945,905–945,905–945,905,945,925,875+ sqft,875,2 Beds,2,2 Bath,2 ,Contact,90%,4.5
+St. Clair Lofts,Buckeye,NA,$975–$990,975–990,975–990,975,990,982.5,995+ sqft,995,2 Beds,2,2 Bath,2 ,Contact,90%,4.5
+St. Clair Lofts,Kettering,NA,"$975–$1,050","975–1,050","975–1,050",975,"1,050",1012.5,1002+ sqft,1002,2 Beds,2,2 Bath,2 ,Contact,90%,4.5
+St. Clair Lofts,St. Clair,NA,"$1,195–$1,210","1,195–1,210","1,195–1,210","1,195","1,210",1202.5,1225+ sqft,1225,2 Beds,2,2 Bath,2 ,Contact,90%,4.5
+The Promenade At Beavercreek,The Lilac,NA,$915–$965,915–965,915–965,915,965,940,763+ sqft,763,1 Bed,1,1 Bath,1 ,Contact,80%,4
+The Promenade At Beavercreek,The Tulip,NA,$940–$965,940–965,940–965,940,965,952.5,802+ sqft,802,1 Bed,1,1 Bath,1 ,Contact,80%,4
+The Promenade At Beavercreek,The Tulip II,NA,"$1,090–$1,115","1,090–1,115","1,090–1,115","1,090","1,115",1102.5,872+ sqft,872,1 Bed,1,1 Bath,1 ,Contact,80%,4
+The Promenade At Beavercreek,The Aspen,NA,"$1,025–$1,075","1,025–1,075","1,025–1,075","1,025","1,075",1050,1008+ sqft,1008,1 Bed,1,1 Bath,1 ,Contact,80%,4
+The Promenade At Beavercreek,The Tulip III,NA,"$1,050–$1,075","1,050–1,075","1,050–1,075","1,050","1,075",1062.5,1050+ sqft,1050,1 Bed,1,1 Bath,1 ,Contact,80%,4
+The Promenade At Beavercreek,The Tulip III,NA,"$1,050–$1,075","1,050–1,075","1,050–1,075","1,050","1,075",1062.5,1102+ sqft,1102,1 Bed,1,1 Bath,1 ,Contact,80%,4
+The Promenade At Beavercreek,The Cypress,NA,"$1,115–$1,165","1,115–1,165","1,115–1,165","1,115","1,165",1140,1050+ sqft,1050,2 Beds,2,2 Bath,2 ,Contact,80%,4
+The Promenade At Beavercreek,The Sycamore,NA,"$1,140–$1,165","1,140–1,165","1,140–1,165","1,140","1,165",1152.5,1102+ sqft,1102,2 Beds,2,2 Bath,2 ,Contact,80%,4
+The Promenade At Beavercreek,The Sycamore II,NA,"$1,315–$1,340","1,315–1,340","1,315–1,340","1,315","1,340",1327.5,1149+ sqft,1149,2 Beds,2,2 Bath,2 ,Contact,80%,4
+The Promenade At Beavercreek,The Sycamore III,NA,"$1,275–$1,300","1,275–1,300","1,275–1,300","1,275","1,300",1287.5,1299+ sqft,1299,2 Beds,2,2 Bath,2 ,Contact,80%,4
+The Promenade At Beavercreek,The Poplar,NA,"$1,250–$1,300","1,250–1,300","1,250–1,300","1,250","1,300",1275,1308+ sqft,1308,2 Beds,2,2 Bath,2 ,Contact,80%,4
+The Promenade At Beavercreek,The Sycamore III,NA,"$1,275–$1,300","1,275–1,300","1,275–1,300","1,275","1,300",1287.5,1350+ sqft,1350,2 Beds,2,2 Bath,2 ,Contact,80%,4
+Mallard Landing,Bluewing,23162,"$1,065 ",1065,1065,1065,1065,1065,1000 sqft,1000,2 Beds,2,2 Bath,2 ,May 24,90%,4.5
+Mallard Landing,Bluewing,22701,"$1,065 ",1065,1065,1065,1065,1065,1000 sqft,1000,2 Beds,2,2 Bath,2 ,Jun 07,90%,4.5
+Mallard Landing,Mandarin,NA,Please Call,Please Call,Please Call,Please Call,Please Call,NA,1400+ sqft,1400,3 Beds,3,2.5 Bath,2.5 ,Contact,90%,4.5
+Villas Of Kettering,Duplex,NA,$640 ,640,640,640,640,640,750+ sqft,750,2 Beds,2,1 Bath,1 ,Contact,80%,4
+Villas Of Kettering,Upper,NA,$550–$575,550–575,550–575,550,575,562.5,800+ sqft,800,2 Beds,2,1 Bath,1 ,Contact,80%,4
+Villas Of Kettering,Lower,NA,$610–$625,610–625,610–625,610,625,617.5,800+ sqft,800,2 Beds,2,1 Bath,1 ,Contact,80%,4
+Villas Of Kettering,Houses,NA,$795–$840,795–840,795–840,795,840,817.5,1100+ sqft,1100,3 Beds,3,1 Bath,1 ,Contact,80%,4
+Stillwater Landing,Ranch-style apartment,NA,$389–$449,389–449,389–449,389,449,419,288+ sqft,288,Studio,Studio,1 Bath,1 ,1 Available,20%,1
+Stillwater Landing,Ranch-style apartment,NA,$429–$714,429–714,429–714,429,714,571.5,576+ sqft,576,1 Bed,1,1 Bath,1 ,1 Available,20%,1
+Stillwater Landing,Ranch-style apartment,NA,$750–$825,750–825,750–825,750,825,787.5,864+ sqft,864,2 Beds,2,2 Bath,2 ,1 Available,20%,1
+Stillwater Landing,Ranch-style apartment,NA,$724–$856,724–856,724–856,724,856,790,864+ sqft,864,2 Beds,2,1 Bath,1 ,Contact,20%,1
+Chatham Village,The Farmington,NA,$675–$775,675–775,675–775,675,775,725,822+ sqft,822,2 Beds,2,1 Bath,1 ,1 Available,80%,4
+Chatham Village,The Dover,NA,$875–$990,875–990,875–990,875,990,932.5,1151+ sqft,1151,2 Beds,2,1.5 Bath,1.5 ,1 Available,80%,4
+Chatham Village,Dover Deluxe,NA,"$895–$1,050","895–1,050","895–1,050",895,"1,050",972.5,1151+ sqft,1151,2 Beds,2,2.5 Bath,2.5 ,4 Available,80%,4
+Chatham Village,Breckenridge,NA,$610–$630,610–630,610–630,610,630,620,650+ sqft,650,1 Bed,1,1 Bath,1 ,Contact,80%,4
+Chatham Village,Adams,NA,$770–$790,770–790,770–790,770,790,780,990+ sqft,990,2 Beds,2,2 Bath,2 ,Contact,80%,4
+Chatham Village,The Concord,NA,"$990–$1,150","990–1,150","990–1,150",990,"1,150",1070,1257+ sqft,1257,3 Beds,3,2 Bath,2 ,Contact,80%,4
+Chatham Village,Easton,NA,"$995–$1,270","995–1,270","995–1,270",995,"1,270",1132.5,1305+ sqft,1305,3 Beds,3,2.5 Bath,2.5 ,Contact,80%,4
+The Riverstone,Renovated 1 Bedroom,NA,$699 ,699,699,699,699,699,660+ sqft,660,1 Bed,1,1 Bath,1 ,3 Available,NA,NA
+The Riverstone,1 Bedroom,NA,$625 ,625,625,625,625,625,660+ sqft,660,1 Bed,1,1 Bath,1 ,Contact,NA,NA
+Delco Lofts,Kettering,310,"$1,029 ",1029,1029,1029,1029,1029,699 sqft,699,1 Bed,1,1 Bath,1 ,Today,100,5
+Delco Lofts,Deeds,425,"$1,134 ",1134,1134,1134,1134,1134,886 sqft,886,1 Bed,1,1 Bath,1 ,Jun 11,100,5
+Delco Lofts,Talbott,609,"$1,806 ",1806,1806,1806,1806,1806,965 sqft,965,1 Bed,1,1 Bath,1 ,Jun 15,100,5
+Delco Lofts,Wilson,NA,$896–$966,896–966,896–966,896,966,931,548+ sqft,548,Studio,Studio,1 Bath,1 ,Contact,100,5
+Delco Lofts,Remy,NA,"$921–$1,051","921–1,051","921–1,051",921,"1,051",986,568+ sqft,568,Studio,Studio,1 Bath,1 ,Contact,100,5
+Delco Lofts,Dillon,NA,"$1,066–$1,146","1,066–1,146","1,066–1,146","1,066","1,146",1106,705+ sqft,705,1 Bed,1,1 Bath,1 ,Contact,100,5
+Delco Lofts,Atwood,NA,"$1,146–$1,332","1,146–1,332","1,146–1,332","1,146","1,332",1239,807+ sqft,807,1 Bed,1,1 Bath,1 ,Contact,100,5
+Delco Lofts,Hughes,NA,"$1,144–$1,541","1,144–1,541","1,144–1,541","1,144","1,541",1342.5,818+ sqft,818,1 Bed,1,1 Bath,1 ,Contact,100,5
+Delco Lofts,Mandalay,NA,"$1,548–$1,628","1,548–1,628","1,548–1,628","1,548","1,628",1588,1230+ sqft,1230,2 Beds,2,2 Bath,2 ,Contact,100,5
+Delco Lofts,Rockford,NA,"$1,528–$1,878","1,528–1,878","1,528–1,878","1,528","1,878",1703,1252+ sqft,1252,2 Beds,2,2 Bath,2 ,Contact,100,5
+Delco Lofts,Marinelli,NA,"$1,678–$1,928","1,678–1,928","1,678–1,928","1,678","1,928",1803,1276+ sqft,1276,2 Beds,2,2 Bath,2 ,Contact,100,5
+Delco Lofts,Shelby,NA,"$1,784–$2,053","1,784–2,053","1,784–2,053","1,784","2,053",1918.5,1352+ sqft,1352,2 Beds,2,2 Bath,2 ,Contact,100,5
+Delco Lofts,Wood,NA,"$2,227–$2,377","2,227–2,377","2,227–2,377","2,227","2,377",2302,1665+ sqft,1665,2 Beds,2,2 Bath,2 ,Contact,100,5
+Gateway at The Greene,Apartment,NA,"$880–$1,000","880–1,000","880–1,000",880,"1,000",940,515+ sqft,515,1 Bed,1,1 Bath,1 ,2 Available,70%,3.5
+Gateway at The Greene,Apartment,NA,"$980–$1,100","980–1,100","980–1,100",980,"1,100",1040,751+ sqft,751,2 Beds,2,1 Bath,1 ,2 Available,70%,3.5
+Eagle Ridge,Flat,NA,$649–$699,649–699,649–699,649,699,674,570+ sqft,570,1 Bed,1,1 Bath,1 ,Contact,60%,3
+Eagle Ridge,Townhouse,NA,$699–$799,699–799,699–799,699,799,749,840+ sqft,840,2 Beds,2,1 Bath,1 ,Contact,60%,3
+Eagle Ridge,Townhouse,NA,$775–$849,775–849,775–849,775,849,812,1250+ sqft,1250,2 Beds,2,1 Bath,1 ,Contact,60%,3
+Eagle Ridge,Townhouse,NA,$775–$849,775–849,775–849,775,849,812,935+ sqft,935,2 Beds,2,1.5 Bath,1.5 ,Contact,60%,3
+Eagle Ridge,Townhouse,NA,$829–$899,829–899,829–899,829,899,864,1039+ sqft,1039,2 Beds,2,2.5 Bath,2.5 ,Contact,60%,3
+The Commons at Kettering,One Bedroom,NA,$659–$679,659–679,659–679,659,679,669,650+ sqft,650,1 Bed,1,1 Bath,1 ,Contact,80%,4
+The Commons at Kettering,Two Bedroom,NA,$759–$800,759–800,759–800,759,800,779.5,900+ sqft,900,2 Beds,2,1 Bath,1 ,Contact,80%,4
+The Commons at Kettering,Three Bedroom,NA,$879–$900,879–900,879–900,879,900,889.5,1090+ sqft,1090,3 Beds,3,1.5 Bath,1.5 ,Contact,80%,4
+Walden Village,Apartment,NA,$830–$850,830–850,830–850,830,850,840,767+ sqft,767,1 Bed,1,1 Bath,1 ,1 Available,NA,NA
+Walden Village,Apartment,NA,$870 ,870,870,870,870,870,908+ sqft,908,2 Beds,2,2 Bath,2 ,2 Available,NA,NA
+Walden Village,Apartment,NA,$900 ,900,900,900,900,900,978+ sqft,978,2 Beds,2,2 Bath,2 ,2 Available,NA,NA
+Walden Village,Apartment,NA,$950–$975,950–975,950–975,950,975,962.5,1000+ sqft,1000,2 Beds,2,2 Bath,2 ,1 Available,NA,NA
+Walden Village,Apartment,NA,"$990–$1,010","990–1,010","990–1,010",990,"1,010",1000,1094+ sqft,1094,2 Beds,2,2 Bath,2 ,1 Available,NA,NA
+Walden Village,Apartment,NA,$800–$805,800–805,800–805,800,805,802.5,667+ sqft,667,1 Bed,1,1 Bath,1 ,Contact,NA,NA
+Walden Village,Apartment,NA,"$950–$1,035","950–1,035","950–1,035",950,"1,035",992.5,1000+ sqft,1000,2 Beds,2,2 Bath,2 ,Contact,NA,NA
+Walden Village,Apartment,NA,$925–$960,925–960,925–960,925,960,942.5,1025+ sqft,1025,2 Beds,2,2 Bath,2 ,Contact,NA,NA
+Walden Village,Townhome,NA,"$1,125 ",1125,1125,1125,1125,1125,1280+ sqft,1280,3 Beds,3,2 Bath,2 ,Contact,NA,NA
+Salem Woods,1 BED 1 BATH,NA,$500 ,500,500,500,500,500,662+ sqft,662,1 Bed,1,1 Bath,1 ,Contact,80%,4
+Salem Woods,1 BED 1 BATH,NA,$510 ,510,510,510,510,510,700+ sqft,700,1 Bed,1,1 Bath,1 ,Contact,80%,4
+Salem Woods,2 BED 1.5 BATH,NA,$575 ,575,575,575,575,575,889+ sqft,889,2 Beds,2,1.5 Bath,1.5 ,Contact,80%,4
+Salem Woods,2 BED 1.5 BATH TOWNHOUSE,NA,$645 ,645,645,645,645,645,989+ sqft,989,2 Beds,2,1.5 Bath,1.5 ,Contact,80%,4
+Salem Woods,2 BED 1.5 BATH,NA,$575 ,575,575,575,575,575,1013+ sqft,1013,2 Beds,2,1.5 Bath,1.5 ,Contact,80%,4
+Salem Woods,3 BEDROOM TOWNHOUSE,NA,$690 ,690,690,690,690,690,1059+ sqft,1059,3 Beds,3,1.5 Bath,1.5 ,Contact,80%,4
+Windsor Terrace,Townhome,NA,$650 ,650,650,650,650,650,750+ sqft,750,1 Bed,1,1.5 Bath,1.5 ,Contact,30%,1.5
+Windsor Terrace,Townhome,NA,$775 ,775,775,775,775,775,1040+ sqft,1040,2 Beds,2,1.5 Bath,1.5 ,Contact,30%,1.5
+Windsor Terrace,Townhome,NA,$825 ,825,825,825,825,825,1105+ sqft,1105,3 Beds,3,1.5 Bath,1.5 ,Contact,30%,1.5
+Windsor Terrace,Townhome,NA,$875 ,875,875,875,875,875,1170+ sqft,1170,3 Beds,3,1.5 Bath,1.5 ,Contact,30%,1.5
+Flyer Pointe,1 Bedroom - Medium,818-05,$539 ,539,539,539,539,539,525 sqft,525,1 Bed,1,1 Bath,1 ,Today,40%,2
+Flyer Pointe,1 Bedroom - Large,819-10,$559 ,559,559,559,559,559,630 sqft,630,1 Bed,1,1 Bath,1 ,Today,40%,2
+Flyer Pointe,1 Bedroom - Large,819-16,$559 ,559,559,559,559,559,630 sqft,630,1 Bed,1,1 Bath,1 ,Today,40%,2
+Flyer Pointe,1 Bedroom - Large,819-09,$589 ,589,589,589,589,589,630 sqft,630,1 Bed,1,1 Bath,1 ,Apr 10,40%,2
+Flyer Pointe,Studio,NA,$429 ,429,429,429,429,429,240+ sqft,240,Studio,Studio,1 Bath,1 ,Contact,40%,2
+Flyer Pointe,1 Bedroom - Small,NA,$519 ,519,519,519,519,519,430+ sqft,430,1 Bed,1,1 Bath,1 ,Contact,40%,2
+Bridges of Pine Creek,Balsam,NA,Please Call,Please Call,Please Call,Please Call,Please Call,NA,760+ sqft,760,1 Bed,1,1 Bath,1 ,Contact,80%,4
+Bridges of Pine Creek,Frasier,NA,Please Call,Please Call,Please Call,Please Call,Please Call,NA,1190+ sqft,1190,2 Beds,2,1.5 Bath,1.5 ,Contact,80%,4
+Bridges of Pine Creek,Cyprus,NA,$599–$619,599–619,599–619,599,619,609,870+ sqft,870,2 Beds,2,2 Bath,2 ,Contact,80%,4
+Lofts At Willow Creek,Attico,NA,$865–$950,865–950,865–950,865,950,907.5,676+ sqft,676,1 Bed,1,1 Bath,1 ,Contact,80%,4
+Lofts At Willow Creek,Attico2,NA,$979–$994,979–994,979–994,979,994,986.5,698+ sqft,698,1 Bed,1,1 Bath,1 ,Contact,80%,4
+Lofts At Willow Creek,Aventura,NA,$995 ,995,995,995,995,995,812+ sqft,812,1 Bed,1,1 Bath,1 ,Contact,80%,4
+Lofts At Willow Creek,Estilo2,NA,"$1,059–$1,074","1,059–1,074","1,059–1,074","1,059","1,074",1066.5,835+ sqft,835,1 Bed,1,1 Bath,1 ,Contact,80%,4
+Lofts At Willow Creek,Estilo,NA,"$965–$1,030","965–1,030","965–1,030",965,"1,030",997.5,841+ sqft,841,1 Bed,1,1 Bath,1 ,Contact,80%,4
+Lofts At Willow Creek,Mezzanine,NA,"$1,025 ",1025,1025,1025,1025,1025,930+ sqft,930,1 Bed,1,1 Bath,1 ,Contact,80%,4
+Lofts At Willow Creek,Freistatte,NA,"$1,125 ",1125,1125,1125,1125,1125,1062+ sqft,1062,2 Beds,2,2 Bath,2 ,Contact,80%,4
+Lofts At Willow Creek,Pajar,NA,"$1,155–$1,220","1,155–1,220","1,155–1,220","1,155","1,220",1187.5,1125+ sqft,1125,2 Beds,2,2 Bath,2 ,Contact,80%,4
+Lofts At Willow Creek,Rifugio,NA,"$1,165–$1,230","1,165–1,230","1,165–1,230","1,165","1,230",1197.5,1175+ sqft,1175,2 Beds,2,2 Bath,2 ,Contact,80%,4
+Lofts At Willow Creek,Rifugio2,NA,"$1,329–$1,344","1,329–1,344","1,329–1,344","1,329","1,344",1336.5,1208+ sqft,1208,2 Beds,2,2 Bath,2 ,Contact,80%,4
+Lofts At Willow Creek,Oase2,NA,"$1,349–$1,364","1,349–1,364","1,349–1,364","1,349","1,364",1356.5,1232+ sqft,1232,2 Beds,2,2 Bath,2 ,Contact,80%,4
+Lofts At Willow Creek,Oase,NA,"$1,255 ",1255,1255,1255,1255,1255,1238+ sqft,1238,2 Beds,2,2 Bath,2 ,Contact,80%,4
+Lofts At Willow Creek,Rofuto,NA,"$1,195–$1,260","1,195–1,260","1,195–1,260","1,195","1,260",1227.5,1242+ sqft,1242,2 Beds,2,2 Bath,2 ,Contact,80%,4
+Lofts At Willow Creek,Rofuto2,NA,"$1,399–$1,414","1,399–1,414","1,399–1,414","1,399","1,414",1406.5,1266+ sqft,1266,2 Beds,2,2 Bath,2 ,Contact,80%,4
+Lofts At Willow Creek,Sostanza,NA,"$1,475 ",1475,1475,1475,1475,1475,1374+ sqft,1374,2 Beds,2,2 Bath,2 ,Contact,80%,4
+Lofts At Willow Creek,Unico,NA,"$1,495–$1,510","1,495–1,510","1,495–1,510","1,495","1,510",1502.5,1443+ sqft,1443,2 Beds,2,2 Bath,2 ,Contact,80%,4
+Village At Cloud Park,Apartment,NA,From $720,From 720, 720, 720, 720,720,775+ sqft,775,1 Bed,1,1 Bath,1 ,Contact,100,5
+Village At Cloud Park,Garden,NA,$770–$815,770–815,770–815,770,815,792.5,965+ sqft,965,2 Beds,2,2 Bath,2 ,Contact,100,5
+The Cannery Lofts,"Three Bedroom , Three Bath",532,$1680+,1680+,1680+,1680+,1680+,NA,1395 sqft,1395,3 Beds,3,3 Bath,3 ,Today,100,5
+The Cannery Lofts,"Three Bedroom , Three Bath",239,$2245+,2245+,2245+,2245+,2245+,NA,1865 sqft,1865,3 Beds,3,3 Bath,3 ,Today,100,5
+The Cannery Lofts,"Three Bedroom , Three Bath",534,$1680+,1680+,1680+,1680+,1680+,NA,1395 sqft,1395,3 Beds,3,3 Bath,3 ,Jun 10,100,5
+The Cannery Lofts,"Two Bedroom , Two Bath",438,$1520+,1520+,1520+,1520+,1520+,NA,1140 sqft,1140,2 Beds,2,2 Bath,2 ,May 11,100,5
+The Cannery Lofts,"Two Bedroom , Two Bath",233,$1655+,1655+,1655+,1655+,1655+,NA,1180 sqft,1180,2 Beds,2,2 Bath,2 ,May 22,100,5
+The Cannery Lofts,"Two Bedroom , Two Bath",437,$1380+,1380+,1380+,1380+,1380+,NA,960 sqft,960,2 Beds,2,2 Bath,2 ,May 26,100,5
+The Cannery Lofts,"Studio/One Bedroom , One Bath",601,$970+,970+,970+,970+,970+,NA,535 sqft,535,1 Bed,1,1 Bath,1 ,Jun 26,100,5
+Rivers Edge,Cuyahoga,4333-H2,$599 ,599,599,599,599,599,648 sqft,648,1 Bed,1,1 Bath,1 ,Today,70%,3.5
+Rivers Edge,Cuyahoga,4357-B2,$599 ,599,599,599,599,599,648 sqft,648,1 Bed,1,1 Bath,1 ,Today,70%,3.5
+Rivers Edge,Cuyahoga,4343-D2,$579 ,579,579,579,579,579,648 sqft,648,1 Bed,1,1 Bath,1 ,May 05,70%,3.5
+Rivers Edge,Kokosing,4335-J2,$629 ,629,629,629,629,629,750 sqft,750,2 Beds,2,1 Bath,1 ,Today,70%,3.5
+Rivers Edge,Kokosing,4335-S2,$659 ,659,659,659,659,659,750 sqft,750,2 Beds,2,1 Bath,1 ,Today,70%,3.5
+Rivers Edge,Kokosing,4335-K1,$679 ,679,679,679,679,679,750 sqft,750,2 Beds,2,1 Bath,1 ,Today,70%,3.5
+Rivers Edge,Muskingum,4322-I2,$699 ,699,699,699,699,699,889 sqft,889,2 Beds,2,1 Bath,1 ,Today,70%,3.5
+Rivers Edge,Muskingum,4365-H1,$699 ,699,699,699,699,699,889 sqft,889,2 Beds,2,1 Bath,1 ,Apr 15,70%,3.5
+Rivers Edge,Muskingum,4383-M1,$709 ,709,709,709,709,709,889 sqft,889,2 Beds,2,1 Bath,1 ,May 31,70%,3.5
+Rivers Edge,Muskingum,NA,$699–$769,699–769,699–769,699,769,734,889+ sqft,889,2 Beds,2,1 Bath,1 ,3 Available,70%,3.5
+Rivers Edge,Ohio,NA,$699–$799,699–799,699–799,699,799,749,950+ sqft,950,2 Beds,2,1 Bath,1 ,3 Available,70%,3.5
+Rivers Edge,Stillwater,0539-I,$809 ,809,809,809,809,809,961 sqft,961,2 Beds,2,1 Bath,1 ,Today,70%,3.5
+Rivers Edge,Stillwater,0560-R,$809 ,809,809,809,809,809,961 sqft,961,2 Beds,2,1 Bath,1 ,Today,70%,3.5
+Rivers Edge,Stillwater,4310-J,$709 ,709,709,709,709,709,950 sqft,950,2 Beds,2,1 Bath,1 ,May 25,70%,3.5
+Rivers Edge,Mohican,NA,$719–$769,719–769,719–769,719,769,744,870+ sqft,870,2 Beds,2,1.5 Bath,1.5 ,3 Available,70%,3.5
+Rivers Edge,Mohican,0510-B,$719 ,719,719,719,719,719,870 sqft,870,2 Beds,2,1.5 Bath,1.5 ,Today,70%,3.5
+Rivers Edge,Mohican,0510-D,$719 ,719,719,719,719,719,870 sqft,870,2 Beds,2,1.5 Bath,1.5 ,Today,70%,3.5
+Rivers Edge,Mohican,4330-B,$719 ,719,719,719,719,719,870 sqft,870,2 Beds,2,1.5 Bath,1.5 ,Today,70%,3.5
+Rivers Edge,Scioto,4300-B,$779 ,779,779,779,779,779,950 sqft,950,2 Beds,2,1.5 Bath,1.5 ,Today,70%,3.5
+Rivers Edge,Scioto,4310-A,$779 ,779,779,779,779,779,950 sqft,950,2 Beds,2,1.5 Bath,1.5 ,Today,70%,3.5
+Rivers Edge,Scioto,4310-E,$779 ,779,779,779,779,779,950 sqft,950,2 Beds,2,1.5 Bath,1.5 ,Today,70%,3.5
+Rivers Edge,Wabash I,NA,$849–$859,849–859,849–859,849,859,854,1024+ sqft,1024,3 Beds,3,1.5 Bath,1.5 ,3 Available,70%,3.5
+Rivers Edge,Wabash I,4370-B2,$879 ,879,879,879,879,879,1024 sqft,1024,3 Beds,3,1.5 Bath,1.5 ,Today,70%,3.5
+Rivers Edge,Miami,4309-B1,$639 ,639,639,639,639,639,684 sqft,684,1 Bed,1,1 Bath,1 ,Apr 25,70%,3.5
+Rivers Edge,Hocking,4492-G1,$579 ,579,579,579,579,579,648 sqft,648,1 Bed,1,1 Bath,1 ,May 05,70%,3.5
+Rivers Edge,Hocking,4492-E1,$579 ,579,579,579,579,579,648 sqft,648,1 Bed,1,1 Bath,1 ,May 07,70%,3.5
+Rivers Edge,Hocking,4492-E2,$599 ,599,599,599,599,599,648 sqft,648,1 Bed,1,1 Bath,1 ,May 25,70%,3.5
+Rivers Edge,Maumee,4357-A1,$629 ,629,629,629,629,629,648 sqft,648,1 Bed,1,1 Bath,1 ,May 25,70%,3.5
+Rivers Edge,Stillwater - One Bedroom Deluxe,NA,$659 ,659,659,659,659,659,992+ sqft,992,1 Bed,1,1 Bath,1 ,Contact,70%,3.5
+Rivers Edge,Vermilion Townhome,NA,$930 ,930,930,930,930,930,1400+ sqft,1400,2 Beds,2,1.5 Bath,1.5 ,Contact,70%,3.5
+Rivers Edge,Wabash II,NA,$899 ,899,899,899,899,899,1224+ sqft,1224,3 Beds,3,2 Bath,2 ,Contact,70%,3.5
+Rivers Edge,Cedar Townhome,NA,$899 ,899,899,899,899,899,1096+ sqft,1096,3 Beds,3,2.5 Bath,2.5 ,Contact,70%,3.5
+Camellia Court,Studio,NA,$509 ,509,509,509,509,509,288+ sqft,288,Studio,Studio,1 Bath,1 ,Contact,NA,NA
+Camellia Court,Ranch-style apartment,NA,$624–$839,624–839,624–839,624,839,731.5,576+ sqft,576,1 Bed,1,1 Bath,1 ,Contact,NA,NA
+Camellia Court,Ranch-style apartment,NA,$789–$809,789–809,789–809,789,809,799,864+ sqft,864,2 Beds,2,1 Bath,1 ,Contact,NA,NA
+Camellia Court,Ranch-style apartment,NA,Please Call,Please Call,Please Call,Please Call,Please Call,NA,864+ sqft,864,2 Beds,2,2 Bath,2 ,Contact,NA,NA
+Dayton Towers,Efficiency 535sf,NA,$720–$965,720–965,720–965,720,965,842.5,535+ sqft,535,Studio,Studio,1 Bath,1 ,2 Available,NA,NA
+Dayton Towers,Studio 590sf,NA,$724–$904,724–904,724–904,724,904,814,590+ sqft,590,Studio,Studio,1 Bath,1 ,2 Available,NA,NA
+Dayton Towers,1 Bedroom 1 Bath  740sf,NA,"$859–$1,024","859–1,024","859–1,024",859,"1,024",941.5,740+ sqft,740,1 Bed,1,1 Bath,1 ,1 Available,NA,NA
+Dayton Towers,1 Bedroom 1 Bath 825sf,NA,"$894–$1,249","894–1,249","894–1,249",894,"1,249",1071.5,825+ sqft,825,1 Bed,1,1 Bath,1 ,2 Available,NA,NA
+Dayton Towers,1 Bedroom  1 Bath,NA,"$1,004–$1,254","1,004–1,254","1,004–1,254","1,004","1,254",1129,860+ sqft,860,1 Bed,1,1 Bath,1 ,1 Available,NA,NA
+Dayton Towers,2 Bedroom  2 Bath  1075sf,NA,"$1,005–$1,140","1,005–1,140","1,005–1,140","1,005","1,140",1072.5,1075+ sqft,1075,2 Beds,2,2 Bath,2 ,1 Available,NA,NA
+Dayton Towers,2 Bedroom  2 Bath 1150 sf,NA,"$1,095–$1,280","1,095–1,280","1,095–1,280","1,095","1,280",1187.5,1150+ sqft,1150,2 Beds,2,2 Bath,2 ,2 Available,NA,NA
+Dayton Towers,2 Bedroom  2 Bath 1170 sf,NA,Please Call,Please Call,Please Call,Please Call,Please Call,NA,1170+ sqft,1170,2 Beds,2,2 Bath,2 ,Contact,NA,NA
+Pine Run Townhomes,Townhome,NA,$751–$761,751–761,751–761,751,761,756,1000+ sqft,1000,2 Beds,2,1.5 Bath,1.5 ,Contact,80%,4
+Windsor Place,Augustine,NA,$730–$740,730–740,730–740,730,740,735,851+ sqft,851,2 Beds,2,1 Bath,1 ,2 Available,NA,NA
+Windsor Place,Camden,NA,$820–$850,820–850,820–850,820,850,835,1001+ sqft,1001,3 Beds,3,1 Bath,1 ,2 Available,NA,NA
+Preserve at Sagebrook,One Bedroom One Bath,NA,$767–$865,767–865,767–865,767,865,816,780+ sqft,780,1 Bed,1,1 Bath,1 ,2 Available,60%,3
+Preserve at Sagebrook,Two Bedroom Two Bath,NA,$871–$974,871–974,871–974,871,974,922.5,1037+ sqft,1037,2 Beds,2,2 Bath,2 ,2 Available,60%,3
+Preserve at Sagebrook,Three Bedroom Two Bath,NA,"$984–$1,087","984–1,087","984–1,087",984,"1,087",1035.5,1175+ sqft,1175,3 Beds,3,2 Bath,2 ,1 Available,60%,3
+Wexford On The Green,Eagles Nest,NA,$785–$795,785–795,785–795,785,795,790,705+ sqft,705,1 Bed,1,1 Bath,1 ,Contact,100,5
+Wexford On The Green,Fairway Green,NA,$810–$830,810–830,810–830,810,830,820,737+ sqft,737,1 Bed,1,1 Bath,1 ,Contact,100,5
+Wexford On The Green,The Links,NA,$895–$910,895–910,895–910,895,910,902.5,937+ sqft,937,2 Beds,2,1 Bath,1 ,Contact,100,5
+Wexford On The Green,St Andrews,NA,$950–$970,950–970,950–970,950,970,960,1045+ sqft,1045,2 Beds,2,2 Bath,2 ,Contact,100,5
+Wexford On The Green,Augusta,NA,From $950,From 950, 950, 950, 950,950,1055+ sqft,1055,2 Beds,2,2.5 Bath,2.5 ,Contact,100,5
+The Village on Beavercreek Apartments,Flat,NA,$779–$809,779–809,779–809,779,809,794,766+ sqft,766,1 Bed,1,1 Bath,1 ,Contact,100,5
+The Village on Beavercreek Apartments,Flat,NA,$874–$924,874–924,874–924,874,924,899,844+ sqft,844,2 Beds,2,1.5 Bath,1.5 ,Contact,100,5
+The Village At Stonefalls,Garden,NA,$915 ,915,915,915,915,915,816+ sqft,816,1 Bed,1,1 Bath,1 ,Contact,50%,2.5
+The Village At Stonefalls,Garden,NA,$945–$975,945–975,945–975,945,975,960,974+ sqft,974,1 Bed,1,1 Bath,1 ,Contact,50%,2.5
+The Village At Stonefalls,Garden,NA,"$1,135–$1,165","1,135–1,165","1,135–1,165","1,135","1,165",1150,1142+ sqft,1142,2 Beds,2,2 Bath,2 ,Contact,50%,2.5
+The Village At Stonefalls,Townhome,NA,"$1,160–$1,210","1,160–1,210","1,160–1,210","1,160","1,210",1185,1371+ sqft,1371,2 Beds,2,2.5 Bath,2.5 ,Contact,50%,2.5
+The Village At Stonefalls,Loft,NA,"$1,365–$1,415","1,365–1,415","1,365–1,415","1,365","1,415",1390,1478+ sqft,1478,3 Beds,3,2 Bath,2 ,Contact,50%,2.5
+The Village At Stonefalls,Townhome,NA,"$1,380–$1,435","1,380–1,435","1,380–1,435","1,380","1,435",1407.5,1507+ sqft,1507,3 Beds,3,2.5 Bath,2.5 ,Contact,50%,2.5
+Asbury Apartments,Efficiency,NA,To $638,To 638,To 638,To 638,To 638,NA,454+ sqft,454,Studio,Studio,1 Bath,1 ,2 Available,NA,NA
+Asbury Apartments,Apartment,NA,To $733,To 733,To 733,To 733,To 733,NA,355+ sqft,355,1 Bed,1,1 Bath,1 ,2 Available,NA,NA
+Riverside Common Apartments,Townhome,NA,$615 ,615,615,615,615,615,820+ sqft,820,2 Beds,2,1 Bath,1 ,Contact,80%,4
+Riverside Common Apartments,Garden,NA,$590 ,590,590,590,590,590,1020+ sqft,1020,2 Beds,2,1 Bath,1 ,Contact,80%,4
+Riverside Common Apartments,Garden,NA,$715 ,715,715,715,715,715,1023+ sqft,1023,3 Beds,3,1 Bath,1 ,Contact,80%,4
+Riverside Common Apartments,Townhome,NA,$690 ,690,690,690,690,690,1029+ sqft,1029,3 Beds,3,1.5 Bath,1.5 ,Contact,80%,4
+Stillwater Park Apartments,1 Bedroom Renovated,NA,$580 ,580,580,580,580,580,750+ sqft,750,1 Bed,1,1 Bath,1 ,Contact,80%,4
+Stillwater Park Apartments,1 Bedroom Standard,NA,$499 ,499,499,499,499,499,750+ sqft,750,1 Bed,1,1 Bath,1 ,Contact,80%,4
+Stillwater Park Apartments,2 Bedroom Renovated,NA,$680 ,680,680,680,680,680,850+ sqft,850,2 Beds,2,1 Bath,1 ,Contact,80%,4
+Stillwater Park Apartments,2 Bedroom Standard,NA,$599 ,599,599,599,599,599,850+ sqft,850,2 Beds,2,1 Bath,1 ,Contact,80%,4
+Stillwater Park Apartments,2 BR Townhome Standard,NA,$680 ,680,680,680,680,680,1100+ sqft,1100,2 Beds,2,1.5 Bath,1.5 ,Contact,80%,4
+Stillwater Park Apartments,2 BR Townhome Renovated,NA,$780 ,780,780,780,780,780,1100+ sqft,1100,2 Beds,2,1.5 Bath,1.5 ,Contact,80%,4
+Stillwater Park Apartments,3 BR Townhome Standard,NA,$750 ,750,750,750,750,750,1150+ sqft,1150,3 Beds,3,1.5 Bath,1.5 ,Contact,80%,4
+Creekside Villas,2 Bedroom,NA,$672 ,672,672,672,672,672,1025+ sqft,1025,2 Beds,2,1 Bath,1 ,Contact,70%,3.5
+Creekside Villas,3 Bedroom,NA,$730 ,730,730,730,730,730,1130+ sqft,1130,3 Beds,3,1 Bath,1 ,Contact,70%,3.5
+The Knolls,Apartment,NA,$570 ,570,570,570,570,570,680+ sqft,680,1 Bed,1,1 Bath,1 ,Contact,80%,4
+The Knolls,Apartment,NA,$670 ,670,670,670,670,670,930+ sqft,930,2 Beds,2,1.5 Bath,1.5 ,Contact,80%,4
+The Knolls,Garden,NA,$670 ,670,670,670,670,670,980+ sqft,980,2 Beds,2,1.5 Bath,1.5 ,Contact,80%,4
+The Knolls,Apartment,NA,$790 ,790,790,790,790,790,1000+ sqft,1000,3 Beds,3,2 Bath,2 ,Contact,80%,4
+Valerie Woods,Apartment,NA,From $435,From 435, 435, 435, 435,435,580+ sqft,580,1 Bed,1,1 Bath,1 ,Contact,70%,3.5
+Valerie Woods,Apartment,NA,From $465,From 465, 465, 465, 465,465,710+ sqft,710,1 Bed,1,1 Bath,1 ,Contact,70%,3.5
+Valerie Woods,Townhome,NA,From $555,From 555, 555, 555, 555,555,828+ sqft,828,2 Beds,2,1 Bath,1 ,Contact,70%,3.5
+Valerie Woods,Apartment,NA,From $555,From 555, 555, 555, 555,555,828+ sqft,828,2 Beds,2,1 Bath,1 ,Contact,70%,3.5
+Valerie Woods,Apartment,NA,From $585,From 585, 585, 585, 585,585,955+ sqft,955,2 Beds,2,1.5 Bath,1.5 ,Contact,70%,3.5
+Valerie Woods,Apartment,NA,From $625,From 625, 625, 625, 625,625,1218+ sqft,1218,2 Beds,2,1.5 Bath,1.5 ,Contact,70%,3.5
+Valerie Woods,Apartment,NA,From $675,From 675, 675, 675, 675,675,1071+ sqft,1071,3 Beds,3,1 Bath,1 ,Contact,70%,3.5
+Valerie Woods,Apartment,NA,From $695,From 695, 695, 695, 695,695,1218+ sqft,1218,3 Beds,3,1.5 Bath,1.5 ,Contact,70%,3.5
+Fairfield Lakes,Townhome,NA,"$1,100 ",1100,1100,1100,1100,1100,1120+ sqft,1120,2 Beds,2,1.5 Bath,1.5 ,2 Available,NA,NA
+Fairfield Lakes,Townhome,NA,"$1,200–$1,499","1,200–1,499","1,200–1,499","1,200","1,499",1349.5,1360+ sqft,1360,3 Beds,3,2.5 Bath,2.5 ,2 Available,NA,NA
+Centerville Park,The Ember 675 Sq Ft,S2001A,$669 ,669,669,669,669,669,675 sqft,675,1 Bed,1,1 Bath,1 ,Today,70%,3.5
+Centerville Park,The Ember 722 Sq Ft,S2025D,$744 ,744,744,744,744,744,722 sqft,722,1 Bed,1,1 Bath,1 ,Today,70%,3.5
+Centerville Park,The Ember 722 Sq Ft,S2037C,$669 ,669,669,669,669,669,722 sqft,722,1 Bed,1,1 Bath,1 ,Jun 10,70%,3.5
+Centerville Park,The Chelsea 738 Sq Ft,S2107F,$679 ,679,679,679,679,679,738 sqft,738,1 Bed,1,1 Bath,1 ,Today,70%,3.5
+Centerville Park,The Chelsea 738 Sq Ft,S2103E,$679 ,679,679,679,679,679,738 sqft,738,1 Bed,1,1 Bath,1 ,May 10,70%,3.5
+Centerville Park,The Chelsea 738 Sq Ft,S2125B,$699 ,699,699,699,699,699,738 sqft,738,1 Bed,1,1 Bath,1 ,May 10,70%,3.5
+Centerville Park,The Chelsea 738 Sq Ft,S2227E,$679 ,679,679,679,679,679,738 sqft,738,1 Bed,1,1 Bath,1 ,May 31,70%,3.5
+Centerville Park,The Devon 899 Sq Ft,R2064B,$749 ,749,749,749,749,749,899 sqft,899,2 Beds,2,1.5 Bath,1.5 ,Today,70%,3.5
+Centerville Park,The Devon 899 Sq Ft,R2033B,$749 ,749,749,749,749,749,899 sqft,899,2 Beds,2,1.5 Bath,1.5 ,Jun 02,70%,3.5
+Centerville Park,The Chelsea 922 Sq Ft,S2101D,$779 ,779,779,779,779,779,922 sqft,922,2 Beds,2,1.5 Bath,1.5 ,Today,70%,3.5
+Centerville Park,The Chelsea 922 Sq Ft,S2101F,$779 ,779,779,779,779,779,922 sqft,922,2 Beds,2,1.5 Bath,1.5 ,Today,70%,3.5
+Centerville Park,The Chelsea 922 Sq Ft,WT1013C,$779 ,779,779,779,779,779,922 sqft,922,2 Beds,2,1.5 Bath,1.5 ,Today,70%,3.5
+Centerville Park,The Chelsea 922 Sq Ft,S2149B,$799 ,799,799,799,799,799,922 sqft,922,2 Beds,2,1.5 Bath,1.5 ,Today,70%,3.5
+Centerville Park,The Chelsea 922 Sq Ft,S2105A,$799 ,799,799,799,799,799,922 sqft,922,2 Beds,2,1.5 Bath,1.5 ,May 10,70%,3.5
+Centerville Park,The Abbey 985 Sq Ft,KC15,$729 ,729,729,729,729,729,985 sqft,985,2 Beds,2,1.5 Bath,1.5 ,Today,70%,3.5
+Centerville Park,The Abbey 985 Sq Ft,KC17,$729 ,729,729,729,729,729,985 sqft,985,2 Beds,2,1.5 Bath,1.5 ,Today,70%,3.5
+Centerville Park,The Abbey 985 Sq Ft,WW03,$729 ,729,729,729,729,729,985 sqft,985,2 Beds,2,1.5 Bath,1.5 ,Today,70%,3.5
+Centerville Park,The Abbey 985 Sq Ft,WW11,$729 ,729,729,729,729,729,985 sqft,985,2 Beds,2,1.5 Bath,1.5 ,Today,70%,3.5
+Centerville Park,The Abbey 985 Sq Ft,WW19,$729 ,729,729,729,729,729,985 sqft,985,2 Beds,2,1.5 Bath,1.5 ,Today,70%,3.5
+Centerville Park,The Ember 1030 Sq Ft,S2032F,$879 ,879,879,879,879,879,1030 sqft,1030,2 Beds,2,2 Bath,2 ,Today,70%,3.5
+Centerville Park,The Ember 1030 Sq Ft,S2032A,$954 ,954,954,954,954,954,1030 sqft,1030,2 Beds,2,2 Bath,2 ,Today,70%,3.5
+Centerville Park,The Ember 1030 Sq Ft,S2000A,$879 ,879,879,879,879,879,1030 sqft,1030,2 Beds,2,2 Bath,2 ,May 10,70%,3.5
+Centerville Park,The Ember 1030 Sq Ft,S2008B,$879 ,879,879,879,879,879,1030 sqft,1030,2 Beds,2,2 Bath,2 ,May 31,70%,3.5
+Centerville Park,Chelsea 1100 Sq Ft,S2107E,$879 ,879,879,879,879,879,1100 sqft,1100,2 Beds,2,2 Bath,2 ,Today,70%,3.5
+Centerville Park,Chelsea 1100 Sq Ft,WT1009F,$879 ,879,879,879,879,879,1100 sqft,1100,2 Beds,2,2 Bath,2 ,Today,70%,3.5
+Centerville Park,The Ember 734 Sq Ft,S2013D,$669 ,669,669,669,669,669,734 sqft,734,1 Bed,1,1 Bath,1 ,Apr 10,70%,3.5
+Centerville Park,The Baron 881 Sq Ft,KW25,$729 ,729,729,729,729,729,881 sqft,881,1 Bed,1,1 Bath,1 ,Apr 10,70%,3.5
+Centerville Park,The Baron 1050 Sq Ft,T26,$749 ,749,749,749,749,749,1050 sqft,1050,2 Beds,2,1.5 Bath,1.5 ,Apr 10,70%,3.5
+Centerville Park,The Baron 1050 Sq Ft,KW02,$779 ,779,779,779,779,779,1050 sqft,1050,2 Beds,2,1.5 Bath,1.5 ,Apr 10,70%,3.5
+Centerville Park,The Baron 1050 Sq Ft,KW01,$779 ,779,779,779,779,779,1050 sqft,1050,2 Beds,2,1.5 Bath,1.5 ,Apr 30,70%,3.5
+Centerville Park,The Baron 1050 Sq Ft,I2065,$749 ,749,749,749,749,749,1050 sqft,1050,2 Beds,2,1.5 Bath,1.5 ,May 01,70%,3.5
+Centerville Park,The Baron 1050 Sq Ft,I2047,$749 ,749,749,749,749,749,1050 sqft,1050,2 Beds,2,1.5 Bath,1.5 ,May 31,70%,3.5
+Centerville Park,The Devon 1050 Sq Ft,S2067,$799 ,799,799,799,799,799,1050 sqft,1050,2 Beds,2,1.5 Bath,1.5 ,Apr 10,70%,3.5
+Centerville Park,The Devon 1050 Sq Ft,R2009,$799 ,799,799,799,799,799,1050 sqft,1050,2 Beds,2,1.5 Bath,1.5 ,May 10,70%,3.5
+Centerville Park,The Devon 1050 Sq Ft,S2069,$799 ,799,799,799,799,799,1050 sqft,1050,2 Beds,2,1.5 Bath,1.5 ,May 31,70%,3.5
+Centerville Park,The Devon 1137 Sq Ft,S2059,$879 ,879,879,879,879,879,1137 sqft,1137,3 Beds,3,1.5 Bath,1.5 ,Apr 15,70%,3.5
+Centerville Park,The Devon 638 Sq Ft,R2088A,$649 ,649,649,649,649,649,638 sqft,638,1 Bed,1,1 Bath,1 ,May 10,70%,3.5
+Centerville Park,The Devon 682 Sq Ft,R2096D,$659 ,659,659,659,659,659,682 sqft,682,1 Bed,1,1 Bath,1 ,May 24,70%,3.5
+Centerville Park,The Baron 1166 Sq Ft,T09,$899 ,899,899,899,899,899,1166 sqft,1166,3 Beds,3,1.5 Bath,1.5 ,May 31,70%,3.5
+Centerville Park,The Baron 1166 Sq Ft,T05,$899 ,899,899,899,899,899,1166 sqft,1166,3 Beds,3,1.5 Bath,1.5 ,Jun 10,70%,3.5
+Centerville Park,The Baron 1166 Sq Ft,T35,$929 ,929,929,929,929,929,1166 sqft,1166,3 Beds,3,1.5 Bath,1.5 ,Jun 30,70%,3.5
+Centerville Park,The Baron 678 Sq Ft,T01E,$649 ,649,649,649,649,649,678 sqft,678,1 Bed,1,1 Bath,1 ,Jun 10,70%,3.5
+Centerville Park,The Devon 922 Sq Ft,NA,$779 ,779,779,779,779,779,922+ sqft,922,2 Beds,2,1.5 Bath,1.5 ,Contact,70%,3.5
+Cobblegate Apartments,Apartment,NA,$561 ,561,561,561,561,561,850+ sqft,850,2 Beds,2,1 Bath,1 ,Contact,100,5
+Cobblegate Apartments,Apartment,NA,$636 ,636,636,636,636,636,930+ sqft,930,3 Beds,3,1 Bath,1 ,Contact,100,5
+Wayne Estates,Studio,NA,From $485,From 485, 485, 485, 485,485,288+ sqft,288,Studio,Studio,1 Bath,1 ,3 Available,50%,2.5
+Wayne Estates,1 Bedroom,NA,From $590,From 590, 590, 590, 590,590,576+ sqft,576,1 Bed,1,1 Bath,1 ,3 Available,50%,2.5
+Wayne Estates,2 Bedroom,NA,From $760,From 760, 760, 760, 760,760,1020+ sqft,1020,2 Beds,2,1 Bath,1 ,3 Available,50%,2.5
+Wayne Estates,2 Bedroom,NA,$775–$790,775–790,775–790,775,790,782.5,1055+ sqft,1055,2 Beds,2,1 Bath,1 ,4 Available,50%,2.5
+Wayne Estates,2 Bedroom Townhome with Basement,NA,From $860,From 860, 860, 860, 860,860,1090+ sqft,1090,2 Beds,2,1.5 Bath,1.5 ,2 Available,50%,2.5
+Wayne Estates,3 Bedroom Townhome,NA,From $905,From 905, 905, 905, 905,905,1540+ sqft,1540,3 Beds,3,2 Bath,2 ,2 Available,50%,2.5
+Wayne Estates,3 Bedroom Townhome with Basement,NA,From $925,From 925, 925, 925, 925,925,1700+ sqft,1700,3 Beds,3,2.5 Bath,2.5 ,2 Available,50%,2.5
+Wayne Estates,2 Bedroom,NA,From $750,From 750, 750, 750, 750,750,864+ sqft,864,2 Beds,2,1 Bath,1 ,Contact,50%,2.5
+Woodman Park,Floor Plan C,4822-10,$699 ,699,699,699,699,699,970 sqft,970,2 Beds,2,1.5 Bath,1.5 ,Apr 26,50%,2.5
+Woodman Park,Floor Plan B,4801-14,$634 ,634,634,634,634,634,790 sqft,790,2 Beds,2,1 Bath,1 ,May 03,50%,2.5
+Woodman Park,Floor Plan B,4980-01,$629 ,629,629,629,629,629,790 sqft,790,2 Beds,2,1 Bath,1 ,May 05,50%,2.5
+Woodman Park,Floor Plan B,4905-09,$634 ,634,634,634,634,634,790 sqft,790,2 Beds,2,1 Bath,1 ,May 10,50%,2.5
+Woodman Park,Floor Plan A,4945-10,$564 ,564,564,564,564,564,615 sqft,615,1 Bed,1,1 Bath,1 ,May 10,50%,2.5
+Woodman Park,Floor Plan A,4936-04,$544 ,544,544,544,544,544,615 sqft,615,1 Bed,1,1 Bath,1 ,May 18,50%,2.5
+Woodman Park,Floor Plan A,4944-05,$564 ,564,564,564,564,564,615 sqft,615,1 Bed,1,1 Bath,1 ,May 22,50%,2.5
+Woodman Park,Floor Plan D,4825-12,$799 ,799,799,799,799,799,1145 sqft,1145,3 Beds,3,1.5 Bath,1.5 ,May 30,50%,2.5
+Huntley Ridge,Apartment,NA,$575 ,575,575,575,575,575,500+ sqft,500,1 Bed,1,1 Bath,1 ,Contact,NA,NA
+Huntley Ridge,Apartment,NA,$700–$775,700–775,700–775,700,775,737.5,600+ sqft,600,2 Beds,2,1 Bath,1 ,Contact,NA,NA
+Huntley Ridge,Townhome,NA,$830–$850,830–850,830–850,830,850,840,700+ sqft,700,2 Beds,2,1 Bath,1 ,Contact,NA,NA
+Woodland Hills,Garden,NA,$495 ,495,495,495,495,495,662+ sqft,662,1 Bed,1,1 Bath,1 ,Contact,20%,1
+Woodland Hills,Garden,NA,$525 ,525,525,525,525,525,949+ sqft,949,2 Beds,2,1 Bath,1 ,Contact,20%,1
+Woodland Hills,Garden,NA,$550 ,550,550,550,550,550,975+ sqft,975,2 Beds,2,2 Bath,2 ,Contact,20%,1
+Woodland Hills,Garden,NA,$695 ,695,695,695,695,695,1330+ sqft,1330,3 Beds,3,2 Bath,2 ,Contact,20%,1
+Woodland Hills,Garden,NA,$875 ,875,875,875,875,875,1509+ sqft,1509,4 Beds,4,2 Bath,2 ,Contact,20%,1
+Van Buren Village,1 Bedroom,2044L-A,$569 ,569,569,569,569,569,550 sqft,550,1 Bed,1,1 Bath,1 ,Today,NA,NA
+Van Buren Village,1 Bedroom,2057L-B,$569 ,569,569,569,569,569,550 sqft,550,1 Bed,1,1 Bath,1 ,Apr 19,NA,NA
+Van Buren Village,1 Bedroom,1412M-C,$539 ,539,539,539,539,539,550 sqft,550,1 Bed,1,1 Bath,1 ,May 10,NA,NA
+Van Buren Village,2 Bedroom Townhome,1355T,$719 ,719,719,719,719,719,1000 sqft,1000,2 Beds,2,1 Bath,1 ,Apr 13,NA,NA
+Van Buren Village,2 Bedroom Townhome,2051R,$719 ,719,719,719,719,719,1000 sqft,1000,2 Beds,2,1 Bath,1 ,Jul 04,NA,NA
+Van Buren Village,2 Bedroom,1531M-A,$605 ,605,605,605,605,605,550 sqft,550,2 Beds,2,1 Bath,1 ,May 29,NA,NA
+Van Buren Village,2 Bedroom,2040L-A,$605 ,605,605,605,605,605,550 sqft,550,2 Beds,2,1 Bath,1 ,Jun 27,NA,NA
+The Greene,Apartment,NA,"$1,320 ",1320,1320,1320,1320,1320,1161+ sqft,1161,2 Beds,2,2 Bath,2 ,1 Available,NA,NA
+Woodhills,The Chelsea,0166WB,$620 ,620,620,620,620,620,682 sqft,682,1 Bed,1,1 Bath,1 ,Today,60%,3
+Woodhills,The Chelsea,0430CC,$620 ,620,620,620,620,620,682 sqft,682,1 Bed,1,1 Bath,1 ,Apr 20,60%,3
+Woodhills,The Chelsea,0372WB,$630 ,630,630,630,630,630,682 sqft,682,1 Bed,1,1 Bath,1 ,Apr 23,60%,3
+Woodhills,The Sussex,NA,Please Call,Please Call,Please Call,Please Call,Please Call,NA,840+ sqft,840,2 Beds,2,1 Bath,1 ,Contact,60%,3
+Woodhills,The Cambridge,NA,Please Call,Please Call,Please Call,Please Call,Please Call,NA,878+ sqft,878,2 Beds,2,1 Bath,1 ,Contact,60%,3
+Woodhills,The Berwick,NA,Please Call,Please Call,Please Call,Please Call,Please Call,NA,935+ sqft,935,2 Beds,2,1.5 Bath,1.5 ,Contact,60%,3
+Woodhills,The Normandy,NA,Please Call,Please Call,Please Call,Please Call,Please Call,NA,918+ sqft,918,2 Beds,2,2 Bath,2 ,Contact,60%,3
+Woodhills,The Bradford,NA,Please Call,Please Call,Please Call,Please Call,Please Call,NA,1060+ sqft,1060,2 Beds,2,2 Bath,2 ,Contact,60%,3
+Woodhills,The Princeton,NA,Please Call,Please Call,Please Call,Please Call,Please Call,NA,1086+ sqft,1086,2 Beds,2,2 Bath,2 ,Contact,60%,3
+Woodhills,The Whitfield,NA,Please Call,Please Call,Please Call,Please Call,Please Call,NA,1239+ sqft,1239,3 Beds,3,1.5 Bath,1.5 ,Contact,60%,3
+The Wynds,Two Bed One Bath,16,$619 ,619,619,619,619,619,924 sqft,924,2 Beds,2,1 Bath,1 ,May 05,100,5
+The Wynds,One Bed One Bath,NA,Please Call,Please Call,Please Call,Please Call,Please Call,NA,624+ sqft,624,1 Bed,1,1 Bath,1 ,Contact,100,5
+Executive House,Flat,NA,$610–$700,610–700,610–700,610,700,655,532+ sqft,532,1 Bed,1,1 Bath,1 ,Contact,60%,3
+Executive House,Flat,NA,$700–$875,700–875,700–875,700,875,787.5,768+ sqft,768,2 Beds,2,1 Bath,1 ,Contact,60%,3
+Belle Meadows Suites,Flat,NA,$525 ,525,525,525,525,525,720+ sqft,720,1 Bed,1,1 Bath,1 ,Contact,NA,NA
+Belle Meadows Suites,Flat,NA,$650 ,650,650,650,650,650,920+ sqft,920,2 Beds,2,2 Bath,2 ,Contact,NA,NA
+Belle Meadows Suites,Flat,NA,$650–$695,650–695,650–695,650,695,672.5,1020+ sqft,1020,2 Beds,2,2 Bath,2 ,Contact,NA,NA
+Covey Run,Garden,NA,From $835,From 835, 835, 835, 835,835,910+ sqft,910,2 Beds,2,2 Bath,2 ,Contact,NA,NA
+Covey Run,Apartment,NA,From $950,From 950, 950, 950, 950,950,1129+ sqft,1129,3 Beds,3,2 Bath,2 ,Contact,NA,NA
+Dovetree Apartments,Flat,NA,$669–$679,669–679,669–679,669,679,674,683+ sqft,683,1 Bed,1,1 Bath,1 ,Contact,100,5
+Dovetree Apartments,Flat,NA,$739–$794,739–794,739–794,739,794,766.5,850+ sqft,850,2 Beds,2,1 Bath,1 ,Contact,100,5
+Dovetree Apartments,Flat,NA,$794 ,794,794,794,794,794,942+ sqft,942,2 Beds,2,2 Bath,2 ,Contact,100,5
+Ashton Brooke Of Beavercreek,Alberta,NA,$860 ,860,860,860,860,860,795+ sqft,795,1 Bed,1,1 Bath,1 ,Contact,60%,3
+Ashton Brooke Of Beavercreek,Beaumont,NA,$870 ,870,870,870,870,870,820+ sqft,820,1 Bed,1,1 Bath,1 ,Contact,60%,3
+Ashton Brooke Of Beavercreek,Chantel,NA,From $964,From 964, 964, 964, 964,964,1049+ sqft,1049,2 Beds,2,2 Bath,2 ,Contact,60%,3
+Ashton Brooke Of Beavercreek,Demont,NA,From $964,From 964, 964, 964, 964,964,1079+ sqft,1079,2 Beds,2,2 Bath,2 ,Contact,60%,3
+Ashton Brooke Of Beavercreek,Marcel,NA,"From $1,114","From 1,114"," 1,114"," 1,114"," 1,114",1114,1094+ sqft,1094,2 Beds,2,2 Bath,2 ,Contact,60%,3
+Ashton Brooke Of Beavercreek,Nadine,NA,"From $1,124","From 1,124"," 1,124"," 1,124"," 1,124",1124,1104+ sqft,1104,2 Beds,2,2 Bath,2 ,Contact,60%,3
+Ashton Brooke Of Beavercreek,Evaline,NA,"From $1,034","From 1,034"," 1,034"," 1,034"," 1,034",1034,1164+ sqft,1164,2 Beds,2,2 Bath,2 ,Contact,60%,3
+Ashton Brooke Of Beavercreek,Fontaine,NA,"From $1,044","From 1,044"," 1,044"," 1,044"," 1,044",1044,1187+ sqft,1187,2 Beds,2,2 Bath,2 ,Contact,60%,3
+Ashton Brooke Of Beavercreek,Kristophe,NA,"From $1,244","From 1,244"," 1,244"," 1,244"," 1,244",1244,1224+ sqft,1224,2 Beds,2,2 Bath,2 ,Contact,60%,3
+Ashton Brooke Of Beavercreek,Lasalle,NA,"From $1,274","From 1,274"," 1,274"," 1,274"," 1,274",1274,1254+ sqft,1254,2 Beds,2,2 Bath,2 ,Contact,60%,3
+Ashton Brooke Of Beavercreek,Apartment,NA,"$1,230 ",1230,1230,1230,1230,1230,1554+ sqft,1554,3 Beds,3,2 Bath,2 ,Contact,60%,3
+Ashton Brooke Of Beavercreek,Gabrielle,NA,"$1,354–$1,404","1,354–1,404","1,354–1,404","1,354","1,404",1379,1334+ sqft,1334,3 Beds,3,3 Bath,3 ,Contact,60%,3
+Ashton Brooke Of Beavercreek,Isabelle,NA,"From $1,404","From 1,404"," 1,404"," 1,404"," 1,404",1404,1384+ sqft,1384,3 Beds,3,3 Bath,3 ,Contact,60%,3
+Ashton Brooke Of Beavercreek,Juliet,NA,"$1,230 ",1230,1230,1230,1230,1230,1504+ sqft,1504,3 Beds,3,3 Bath,3 ,Contact,60%,3
+Kensington Square,One Bedroom Garden,08-717,$530 ,530,530,530,530,530,751 sqft,751,1 Bed,1,1 Bath,1 ,Today,70%,3.5
+Kensington Square,One Bedroom Garden,14-705,$530 ,530,530,530,530,530,751 sqft,751,1 Bed,1,1 Bath,1 ,Today,70%,3.5
+Kensington Square,One Bedroom Garden,15-731,$530 ,530,530,530,530,530,751 sqft,751,1 Bed,1,1 Bath,1 ,Today,70%,3.5
+Kensington Square,Two Bedroom Garden,06-798,$620 ,620,620,620,620,620,856 sqft,856,2 Beds,2,1 Bath,1 ,Today,70%,3.5
+Kensington Square,Two Bedroom Garden,12-753,$620 ,620,620,620,620,620,856 sqft,856,2 Beds,2,1 Bath,1 ,Today,70%,3.5
+Kensington Square,Two Bedroom Garden,13-787,$620 ,620,620,620,620,620,856 sqft,856,2 Beds,2,1 Bath,1 ,Today,70%,3.5
+Kensington Square,Two Bedroom Townhouse,01-713,$710 ,710,710,710,710,710,1073 sqft,1073,2 Beds,2,1.5 Bath,1.5 ,Today,70%,3.5
+Kensington Square,Two Bedroom Townhouse,16-803,$710 ,710,710,710,710,710,1073 sqft,1073,2 Beds,2,1.5 Bath,1.5 ,Today,70%,3.5
+Kensington Square,Two Bedroom Townhouse,20-772,$710 ,710,710,710,710,710,1073 sqft,1073,2 Beds,2,1.5 Bath,1.5 ,Today,70%,3.5
+Kensington Square,Three Bedroom Townhouse,01-719,$750 ,750,750,750,750,750,1272 sqft,1272,3 Beds,3,1.5 Bath,1.5 ,Today,70%,3.5
+Kensington Square,Three Bedroom Townhouse,02-755,$750 ,750,750,750,750,750,1272 sqft,1272,3 Beds,3,1.5 Bath,1.5 ,Today,70%,3.5
+Kensington Square,Three Bedroom Townhouse,18-726,$790 ,790,790,790,790,790,1912 sqft,1912,3 Beds,3,1.5 Bath,1.5 ,Today,70%,3.5
+Stonecreek Apartments,Apartment,NA,$799 ,799,799,799,799,799,850+ sqft,850,2 Beds,2,1 Bath,1 ,3 Available,100,5
+Stonecreek Apartments,Apartment,NA,$899 ,899,899,899,899,899,950+ sqft,950,3 Beds,3,1 Bath,1 ,1 Available,100,5
+Washington Place,Liberty (Upper),MOT8945,$930 ,930,930,930,930,930,890 sqft,890,2 Beds,2,1 Bath,1 ,Today,80%,4
+Washington Place,Liberty (Lower),SAL1742,"$1,000 ",1000,1000,1000,1000,1000,890 sqft,890,2 Beds,2,1 Bath,1 ,Today,80%,4
+Washington Place,Patriot,AME1992,"$1,120 ",1120,1120,1120,1120,1120,1040 sqft,1040,2 Beds,2,1 Bath,1 ,Today,80%,4
+Washington Place,Patriot,MOT8910,"$1,120 ",1120,1120,1120,1120,1120,1040 sqft,1040,2 Beds,2,1 Bath,1 ,Today,80%,4
+Washington Place,Independence,EVA1940,$740 ,740,740,740,740,740,580 sqft,580,1 Bed,1,1 Bath,1 ,Apr 21,80%,4
+Washington Place,Presidential,EVA1913,"$1,460 ",1460,1460,1460,1460,1460,1490 sqft,1490,3 Beds,3,2.5 Bath,2.5 ,May 31,80%,4
+Washington Place,Freedom (Patio),NA,"$1,235 ",1235,1235,1235,1235,1235,1110+ sqft,1110,2 Beds,2,2 Bath,2 ,Contact,80%,4
+Washington Place,Freedom (Balcony),NA,"$1,160 ",1160,1160,1160,1160,1160,1170+ sqft,1170,2 Beds,2,2 Bath,2 ,Contact,80%,4
+Wilmington Pointe Apartments,1 Bedroom WP North,NA,$545–$565,545–565,545–565,545,565,555,570+ sqft,570,1 Bed,1,1 Bath,1 ,Contact,60%,3
+Wilmington Pointe Apartments,1 Bedroom WP South,NA,$585 ,585,585,585,585,585,680+ sqft,680,1 Bed,1,1 Bath,1 ,Contact,60%,3
+Wilmington Pointe Apartments,2 Bedroom WP South,NA,$630 ,630,630,630,630,630,830+ sqft,830,2 Beds,2,1 Bath,1 ,Contact,60%,3
+Wilmington Pointe Apartments,2 Bedroom WP,NA,$675–$725,675–725,675–725,675,725,700,925+ sqft,925,2 Beds,2,1 Bath,1 ,Contact,60%,3
+Wilmington Pointe Apartments,2 Bedroom WP North,NA,$645–$665,645–665,645–665,645,665,655,875+ sqft,875,2 Beds,2,1.5 Bath,1.5 ,Contact,60%,3
+Sycamore Square,Flat,NA,$610–$630,610–630,610–630,610,630,620,490+ sqft,490,1 Bed,1,1 Bath,1 ,Contact,30%,1.5
+Sycamore Square,Flat,NA,$690–$705,690–705,690–705,690,705,697.5,616+ sqft,616,2 Beds,2,1 Bath,1 ,Contact,30%,1.5
+Sycamore Square,Townhome,NA,$800–$850,800–850,800–850,800,850,825,780+ sqft,780,2 Beds,2,1 Bath,1 ,Contact,30%,1.5
+Studio W Apartments,Renovated Unit,NA,$650 ,650,650,650,650,650,515+ sqft,515,Studio,Studio,1 Bath,1 ,Apr 19,NA,NA
+Westbrooke Village,Birch,NA,$475–$490,475–490,475–490,475,490,482.5,650+ sqft,650,1 Bed,1,1 Bath,1 ,Contact,NA,NA
+Westbrooke Village,Sycamore,NA,$515–$535,515–535,515–535,515,535,525,750+ sqft,750,2 Beds,2,1 Bath,1 ,Contact,NA,NA
+Westbrooke Village,Great Oak,NA,$540–$560,540–560,540–560,540,560,550,850+ sqft,850,2 Beds,2,1 Bath,1 ,Contact,NA,NA
+Bent Tree Apartments,Townhome,NA,$899 ,899,899,899,899,899,1280+ sqft,1280,2 Beds,2,2.5 Bath,2.5 ,Contact,70%,3.5
+Meadows Of Catalpa,Alpine,NA,From $525,From 525, 525, 525, 525,525,637+ sqft,637,1 Bed,1,1 Bath,1 ,Contact,60%,3
+Meadows Of Catalpa,Christy,NA,From $510,From 510, 510, 510, 510,510,639+ sqft,639,1 Bed,1,1 Bath,1 ,Contact,60%,3
+Meadows Of Catalpa,Aspen,NA,From $535,From 535, 535, 535, 535,535,676+ sqft,676,1 Bed,1,1 Bath,1 ,Contact,60%,3
+Meadows Of Catalpa,Breckenridge,NA,From $515,From 515, 515, 515, 515,515,720+ sqft,720,1 Bed,1,1 Bath,1 ,Contact,60%,3
+Meadows Of Catalpa,Birchwood,NA,From $600,From 600, 600, 600, 600,600,920+ sqft,920,1 Bed,1,1 Bath,1 ,Contact,60%,3
+Meadows Of Catalpa,Dumont,NA,From $635,From 635, 635, 635, 635,635,837+ sqft,837,2 Beds,2,1 Bath,1 ,Contact,60%,3
+Meadows Of Catalpa,Boyne,NA,From $635,From 635, 635, 635, 635,635,920+ sqft,920,2 Beds,2,1 Bath,1 ,Contact,60%,3
+Meadows Of Catalpa,Edinburgh,NA,From $635,From 635, 635, 635, 635,635,964+ sqft,964,2 Beds,2,1 Bath,1 ,Contact,60%,3
+Meadows Of Catalpa,Dillon,NA,From $735,From 735, 735, 735, 735,735,929+ sqft,929,2 Beds,2,2 Bath,2 ,Contact,60%,3
+Meadows Of Catalpa,Crest,NA,From $685,From 685, 685, 685, 685,685,1012+ sqft,1012,2 Beds,2,2 Bath,2 ,Contact,60%,3
+Meadows Of Catalpa,Forrester,NA,From $760,From 760, 760, 760, 760,760,1100+ sqft,1100,2 Beds,2,2 Bath,2 ,Contact,60%,3
+Meadows Of Catalpa,Glade,NA,From $785,From 785, 785, 785, 785,785,1210+ sqft,1210,2 Beds,2,2 Bath,2 ,Contact,60%,3
+Falcon Ridge,Apartment,NA,From $495,From 495, 495, 495, 495,495,650+ sqft,650,1 Bed,1,1 Bath,1 ,Contact,NA,NA
+Falcon Ridge,Apartment,NA,From $595,From 595, 595, 595, 595,595,850+ sqft,850,2 Beds,2,1 Bath,1 ,Contact,NA,NA
+Lakewoods Apartments,Studio,NA,From $631,From 631, 631, 631, 631,631,450+ sqft,450,Studio,Studio,1 Bath,1 ,Contact,NA,NA
+Lakewoods Apartments,Apartment,NA,From $631,From 631, 631, 631, 631,631,450+ sqft,450,1 Bed,1,1 Bath,1 ,Contact,NA,NA
+Union Hill Apartments,Apartment,NA,$740–$760,740–760,740–760,740,760,750,908+ sqft,908,2 Beds,2,1 Bath,1 ,1 Available,60%,3
+Union Hill Apartments,Apartment,NA,$790–$810,790–810,790–810,790,810,800,1028+ sqft,1028,2 Beds,2,2 Bath,2 ,3 Available,60%,3
+Pinewood Gardens,Garden,NA,$649 ,649,649,649,649,649,426+ sqft,426,1 Bed,1,1 Bath,1 ,2 Available,NA,NA
+Pinewood Gardens,Townhome,NA,$864 ,864,864,864,864,864,753+ sqft,753,3 Beds,3,1 Bath,1 ,2 Available,NA,NA
+Pinewood Gardens,Townhome,NA,$971 ,971,971,971,971,971,1014+ sqft,1014,4 Beds,4,1.5 Bath,1.5 ,2 Available,NA,NA
+Pinewood Gardens,Garden,NA,$720 ,720,720,720,720,720,474+ sqft,474,2 Beds,2,1 Bath,1 ,Contact,NA,NA
+Indian Lookout,The Ottawas,0741B,$875 ,875,875,875,875,875,1058 sqft,1058,2 Beds,2,2 Bath,2 ,May 01,60%,3
+Indian Lookout,The Ottawas,0941C,$875 ,875,875,875,875,875,1058 sqft,1058,2 Beds,2,2 Bath,2 ,Jun 01,60%,3
+Indian Lookout,The Ottawas,1011B,$875 ,875,875,875,875,875,1058 sqft,1058,2 Beds,2,2 Bath,2 ,Jun 01,60%,3
+Indian Lookout,The Miami,0431E,$750 ,750,750,750,750,750,758 sqft,758,1 Bed,1,1 Bath,1 ,Jun 01,60%,3
+Indian Lookout,The Shawnee,0521A,$850 ,850,850,850,850,850,1048 sqft,1048,2 Beds,2,2 Bath,2 ,Jun 01,60%,3
+Furnished Studio - Dayton - North,Studio,NA,"From $1,157","From 1,157"," 1,157"," 1,157"," 1,157",1157,300+ sqft,300,1 Bed,1,1 Bath,1 ,Contact,NA,NA
+Furnished Studio - Dayton - Fairborn,Studio,NA,"From $1,050","From 1,050"," 1,050"," 1,050"," 1,050",1050,300+ sqft,300,1 Bed,1,1 Bath,1 ,Contact,NA,NA
+Bancroft Apartments,Flat,NA,From $691,From 691, 691, 691, 691,691,768+ sqft,768,2 Beds,2,1 Bath,1 ,3 Available,NA,NA
+Bancroft Apartments,Townhome,NA,From $691,From 691, 691, 691, 691,691,768+ sqft,768,2 Beds,2,1 Bath,1 ,3 Available,NA,NA
+Furnished Studio - Dayton - South,Studio,NA,"From $1,160","From 1,160"," 1,160"," 1,160"," 1,160",1160,300+ sqft,300,1 Bed,1,1 Bath,1 ,Contact,NA,NA
+Amhurst,Hadley,NA,From $736,From 736, 736, 736, 736,736,864+ sqft,864,2 Beds,2,2 Bath,2 ,1 Available,60%,3
+Amhurst,Bristol,NA,$441–$446,441–446,441–446,441,446,443.5,288+ sqft,288,Studio,Studio,1 Bath,1 ,Contact,60%,3
+Amhurst,Hampton,NA,$531–$586,531–586,531–586,531,586,558.5,576+ sqft,576,1 Bed,1,1 Bath,1 ,Contact,60%,3
+Amhurst,Sterling,NA,$691–$716,691–716,691–716,691,716,703.5,864+ sqft,864,2 Beds,2,1 Bath,1 ,Contact,60%,3
+Ketwood Apartments,Ranch-style apartments,NA,From $539,From 539, 539, 539, 539,539,576+ sqft,576,1 Bed,1,1 Bath,1 ,Contact,70%,3.5
+Ketwood Apartments,Ranch-style apartments,NA,From $639,From 639, 639, 639, 639,639,864+ sqft,864,2 Beds,2,1 Bath,1 ,Contact,70%,3.5
+Ketwood Apartments,Ranch-style apartments,NA,From $799,From 799, 799, 799, 799,799,1144+ sqft,1144,3 Beds,3,1 Bath,1 ,Contact,70%,3.5
+Firwood Apartments,1 Bedrooms,NA,$480–$580,480–580,480–580,480,580,530,370+ sqft,370,1 Bed,1,1 Bath,1 ,Contact,NA,NA
+Firwood Apartments,2 Bedrooms,NA,$645–$770,645–770,645–770,645,770,707.5,720+ sqft,720,2 Beds,2,1 Bath,1 ,Contact,NA,NA
+Firwood Apartments,3 Bedroom,NA,$835–$895,835–895,835–895,835,895,865,1068+ sqft,1068,3 Beds,3,1.5 Bath,1.5 ,Contact,NA,NA
+Stonebridge,1 bed 1 bath Andover,801,$659 ,659,659,659,659,659,752 sqft,752,1 Bed,1,1 Bath,1 ,Today,20%,1
+Stonebridge,1 bed 1 bath Andover,818,$789 ,789,789,789,789,789,752 sqft,752,1 Bed,1,1 Bath,1 ,Today,20%,1
+Stonebridge,1 bed 1 bath Andover,1003,$659 ,659,659,659,659,659,752 sqft,752,1 Bed,1,1 Bath,1 ,Apr 19,20%,1
+Stonebridge,2 bed 1 bath Bristol,1109,$719 ,719,719,719,719,719,997 sqft,997,2 Beds,2,1 Bath,1 ,Today,20%,1
+Stonebridge,2 bed 1 bath Bristol,1120,$759 ,759,759,759,759,759,997 sqft,997,2 Beds,2,1 Bath,1 ,Apr 30,20%,1
+Stonebridge,2 bed 1 bath Bristol,1112,$749 ,749,749,749,749,749,997 sqft,997,2 Beds,2,1 Bath,1 ,May 08,20%,1
+Stonebridge,3 bed 2 bath Essex,213,"$1,149 ",1149,1149,1149,1149,1149,1330 sqft,1330,3 Beds,3,2 Bath,2 ,Today,20%,1
+Stonebridge,3 bed 2 bath Essex,513,"$1,149 ",1149,1149,1149,1149,1149,1330 sqft,1330,3 Beds,3,2 Bath,2 ,Jun 05,20%,1
+Stonebridge,3 bed 2 bath Essex,215,"$1,149 ",1149,1149,1149,1149,1149,1330 sqft,1330,3 Beds,3,2 Bath,2 ,Jun 07,20%,1
+Stonebridge,2 bed 2 bath,312,$739 ,739,739,739,739,739,1003 sqft,1003,2 Beds,2,2 Bath,2 ,Apr 12,20%,1
+Stonebridge,2 bed 2 bath,1319,$739 ,739,739,739,739,739,1003 sqft,1003,2 Beds,2,2 Bath,2 ,Apr 17,20%,1
+Stonebridge,2 bed 2 bath,1412,$739 ,739,739,739,739,739,1003 sqft,1003,2 Beds,2,2 Bath,2 ,May 29,20%,1
+Stonebridge,2 bed 1.5 bath,119,$769 ,769,769,769,769,769,1003 sqft,1003,2 Beds,2,1.5 Bath,1.5 ,May 27,20%,1
+Stonebridge,2 bed 1.5 bath,317,$759 ,759,759,759,759,759,1003 sqft,1003,2 Beds,2,1.5 Bath,1.5 ,May 30,20%,1
+Stonebridge,2 bed 1.5 bath,1420,$799 ,799,799,799,799,799,1003 sqft,1003,2 Beds,2,1.5 Bath,1.5 ,May 31,20%,1
+Stonebridge,4 bed 2 bath Fairfax,NA,"$1,259 ",1259,1259,1259,1259,1259,1508+ sqft,1508,4 Beds,4,2 Bath,2 ,Contact,20%,1
+Daytona Village,The Ormond,NA,$599–$639,599–639,599–639,599,639,619,760+ sqft,760,1 Bed,1,1 Bath,1 ,3 Available,70%,3.5
+Daytona Village,The Smyrna,NA,$579–$659,579–659,579–659,579,659,619,800+ sqft,800,1 Bed,1,1 Bath,1 ,2 Available,70%,3.5
+Daytona Village,The Shiloh,NA,$649–$669,649–669,649–669,649,669,659,815+ sqft,815,2 Beds,2,1 Bath,1 ,3 Available,70%,3.5
+Daytona Village,The Flagler,NA,$659–$859,659–859,659–859,659,859,759,875+ sqft,875,2 Beds,2,1 Bath,1 ,1 Available,70%,3.5
+Daytona Village,The Beverly,NA,$719–$749,719–749,719–749,719,749,734,1025+ sqft,1025,2 Beds,2,1 Bath,1 ,Contact,70%,3.5
+Audubon Crossing,1 Bedroom,NA,$616 ,616,616,616,616,616,710+ sqft,710,1 Bed,1,1 Bath,1 ,3 Available,NA,NA
+Audubon Crossing,2 Bedroom,NA,$630–$740,630–740,630–740,630,740,685,925+ sqft,925,2 Beds,2,1 Bath,1 ,13 Available,NA,NA
+Catalpa Crossing,One Bedroom,NA,From $595,From 595, 595, 595, 595,595,650+ sqft,650,1 Bed,1,1 Bath,1 ,2 Available,100,5
+Catalpa Crossing,Two Bedroom Townhome,NA,From $675,From 675, 675, 675, 675,675,905+ sqft,905,2 Beds,2,1.5 Bath,1.5 ,2 Available,100,5
+Catalpa Crossing,Three Bedroom,NA,From $725,From 725, 725, 725, 725,725,1088+ sqft,1088,3 Beds,3,2 Bath,2 ,2 Available,100,5
+Heritage Knoll,Two bed one bath,5544G,$629 ,629,629,629,629,629,864 sqft,864,2 Beds,2,1 Bath,1 ,Jun 11,NA,NA
+Heritage Knoll,One Bed one bath,2185K,$559 ,559,559,559,559,559,612 sqft,612,1 Bed,1,1 Bath,1 ,Jun 25,NA,NA
+Heritage Knoll,Two bed 1.5 bath townhome,NA,$799 ,799,799,799,799,799,1020+ sqft,1020,2 Beds,2,1.5 Bath,1.5 ,Contact,NA,NA
+Heritage Knoll,Three bed 1.5 bath townhome,NA,$869 ,869,869,869,869,869,1312+ sqft,1312,3 Beds,3,1.5 Bath,1.5 ,Contact,NA,NA
+Broadmoor Apartments,Ash,NA,From $449,From 449, 449, 449, 449,449,660+ sqft,660,1 Bed,1,1 Bath,1 ,Contact,80%,4
+Broadmoor Apartments,Burch,NA,From $489,From 489, 489, 489, 489,489,698+ sqft,698,1 Bed,1,1 Bath,1 ,Contact,80%,4
+Broadmoor Apartments,Hickory,NA,From $565,From 565, 565, 565, 565,565,775+ sqft,775,2 Beds,2,1 Bath,1 ,Contact,80%,4
+Broadmoor Apartments,Maple,NA,From $599,From 599, 599, 599, 599,599,825+ sqft,825,2 Beds,2,1 Bath,1 ,Contact,80%,4
+Broadmoor Apartments,Oak,NA,From $625,From 625, 625, 625, 625,625,1030+ sqft,1030,2 Beds,2,2 Bath,2 ,Contact,80%,4
+First Place Luxury Apartments,Apartment,NA,"$1,200–$1,350","1,200–1,350","1,200–1,350","1,200","1,350",1275,1450+ sqft,1450,2 Beds,2,2 Bath,2 ,Contact,NA,NA
+First Place Luxury Apartments,Apartment,NA,"$1,200–$1,650","1,200–1,650","1,200–1,650","1,200","1,650",1425,1290+ sqft,1290,3 Beds,3,2.5 Bath,2.5 ,Contact,NA,NA
+Villas at Arboretum,Two Bedroom with Two Car Attached Garage,NA,$821–$876,821–876,821–876,821,876,848.5,1050+ sqft,1050,2 Beds,2,1.5 Bath,1.5 ,2 Available,20%,1
+Villas at Arboretum,Three Bedroom Townhome with Two Car Attached Garage,NA,"$930–$1,025","930–1,025","930–1,025",930,"1,025",977.5,1100+ sqft,1100,3 Beds,3,1.5 Bath,1.5 ,1 Available,20%,1
+Villas at Arboretum,Three Bedroom Townhome,NA,$915 ,915,915,915,915,915,1100+ sqft,1100,3 Beds,3,1.5 Bath,1.5 ,3 Available,20%,1
+CBert Properties,W. Schantz Ave,NA,$495–$525,495–525,495–525,495,525,510,500+ sqft,500,1 Bed,1,1 Bath,1 ,Contact,40%,2
+CBert Properties,W. Schantz Ave,NA,From $600,From 600, 600, 600, 600,600,700+ sqft,700,2 Beds,2,1 Bath,1 ,Contact,40%,2
+CBert Properties,Heritage Pointe Towhomes,NA,From $745,From 745, 745, 745, 745,745,1400+ sqft,1400,2 Beds,2,2.5 Bath,2.5 ,Contact,40%,2
+Alpine Apartments,1 Bedroom,NA,From $625,From 625, 625, 625, 625,625,640+ sqft,640,1 Bed,1,1 Bath,1 ,1 Available,NA,NA
+Alpine Apartments,2 Bedroom,NA,From $675,From 675, 675, 675, 675,675,1075+ sqft,1075,2 Beds,2,1.5 Bath,1.5 ,2 Available,NA,NA
+East Pointe Apartments,Flat,NA,$544–$554,544–554,544–554,544,554,549,575+ sqft,575,1 Bed,1,1 Bath,1 ,2 Available,70%,3.5
+East Pointe Apartments,Flat,NA,$644–$654,644–654,644–654,644,654,649,750+ sqft,750,2 Beds,2,1 Bath,1 ,2 Available,70%,3.5
+Anna Laura Apartments,Apartment,NA,From $550,From 550, 550, 550, 550,550,NA,NA,1 Bed,1,1 Bath,1 ,Contact,NA,NA
+Anna Laura Apartments,Townhome w/basement,NA,From $825,From 825, 825, 825, 825,825,NA,NA,2 Beds,2,1.5 Bath,1.5 ,Contact,NA,NA
+Greenglen Apartments,Bristol,NA,From $476,From 476, 476, 476, 476,476,288+ sqft,288,Studio,Studio,1 Bath,1 ,Contact,NA,NA
+Greenglen Apartments,Hampton,NA,From $621,From 621, 621, 621, 621,621,576+ sqft,576,1 Bed,1,1 Bath,1 ,Contact,NA,NA
+Greenglen Apartments,Sterling,NA,From $766,From 766, 766, 766, 766,766,864+ sqft,864,2 Beds,2,1 Bath,1 ,Contact,NA,NA
+Greenglen Apartments,Hadley,NA,From $786,From 786, 786, 786, 786,786,864+ sqft,864,2 Beds,2,2 Bath,2 ,Contact,NA,NA
+Pinetree Apartments,Apartment,NA,Please Call,Please Call,Please Call,Please Call,Please Call,NA,NA,NA,1 Bed,1,1 Bath,1 ,Contact,NA,NA
+Pinetree Apartments,Garden,NA,$860 ,860,860,860,860,860,1200+ sqft,1200,2 Beds,2,2 Bath,2 ,Contact,NA,NA
+Pinetree Apartments,Townhome,NA,$960 ,960,960,960,960,960,1300+ sqft,1300,2 Beds,2,2.5 Bath,2.5 ,Contact,NA,NA
+Fox Run,Easton,11509,$749 ,749,749,749,749,749,909 sqft,909,2 Beds,2,1 Bath,1 ,Today,100,5
+Fox Run,Easton,12005,$749 ,749,749,749,749,749,909 sqft,909,2 Beds,2,1 Bath,1 ,Today,100,5
+Fox Run,Easton,26105,$749 ,749,749,749,749,749,909 sqft,909,2 Beds,2,1 Bath,1 ,May 07,100,5
+Fox Run,Sedona,11508,$789 ,789,789,789,789,789,1044 sqft,1044,2 Beds,2,1.5 Bath,1.5 ,Today,100,5
+Fox Run,Sedona,18107,$789 ,789,789,789,789,789,1036 sqft,1036,2 Beds,2,1.5 Bath,1.5 ,Today,100,5
+Fox Run,Sedona,22006,$799 ,799,799,799,799,799,1002 sqft,1002,2 Beds,2,1.5 Bath,1.5 ,Today,100,5
+Timber Ridge,Apartment,NA,From $599,From 599, 599, 599, 599,599,850+ sqft,850,2 Beds,2,1 Bath,1 ,Contact,NA,NA
+Timber Ridge,Apartment,NA,From $679,From 679, 679, 679, 679,679,925+ sqft,925,3 Beds,3,1 Bath,1 ,Contact,NA,NA
+531 Belmonte Park North,531 Belmonte Park North,NA,$879 ,879,879,879,879,879,855+ sqft,855,1 Bed,1,1 Bath,1 ,Contact,NA,NA
+531 Belmonte Park North,531 Belmonte Park North - 1111,NA,$879 ,879,879,879,879,879,855+ sqft,855,1 Bed,1,1 Bath,1 ,Contact,NA,NA
+531 Belmonte Park North,531 Belmonte Park North,NA,$809 ,809,809,809,809,809,855+ sqft,855,1 Bed,1,1 Bath,1 ,Contact,NA,NA
+531 Belmonte Park North,531 Belmonte Park North - 111,NA,$779 ,779,779,779,779,779,855+ sqft,855,1 Bed,1,1 Bath,1 ,Contact,NA,NA
+531 Belmonte Park North,531 Belmonte Park North,NA,$809 ,809,809,809,809,809,855+ sqft,855,1 Bed,1,1 Bath,1 ,Contact,NA,NA
+531 Belmonte Park North,531 Belmonte Park North - 702,NA,$944 ,944,944,944,944,944,1237+ sqft,1237,2 Beds,2,2 Bath,2 ,Contact,NA,NA
+531 Belmonte Park North,531 Belmonte Park North,NA,$909 ,909,909,909,909,909,1237+ sqft,1237,2 Beds,2,2 Bath,2 ,Contact,NA,NA
+531 Belmonte Park North,531 Belmonte Park North,NA,$939 ,939,939,939,939,939,1237+ sqft,1237,2 Beds,2,2 Bath,2 ,Contact,NA,NA
+531 Belmonte Park North,531 Belmonte Park North,NA,$909 ,909,909,909,909,909,1237+ sqft,1237,2 Beds,2,2 Bath,2 ,Contact,NA,NA
+531 Belmonte Park North,531 Belmonte Park North - 409,NA,$909 ,909,909,909,909,909,1237+ sqft,1237,2 Beds,2,2 Bath,2 ,Contact,NA,NA
+531 Belmonte Park North,531 Belmonte Park North,NA,$909 ,909,909,909,909,909,1237+ sqft,1237,2 Beds,2,2 Bath,2 ,Contact,NA,NA
+531 Belmonte Park North,531 Belmonte Park North - 302,NA,$909 ,909,909,909,909,909,1237+ sqft,1237,2 Beds,2,2 Bath,2 ,Contact,NA,NA
+531 Belmonte Park North,531 Belmonte Park North - 204,NA,"$1,269 ",1269,1269,1269,1269,1269,1425+ sqft,1425,3 Beds,3,2 Bath,2 ,Contact,NA,NA
+The Riverfront Grande! 255 N. Main St.,Rental,NA,$750 ,750,750,750,750,750,700+ sqft,700,Studio,Studio,1 Bath,1 ,Contact,NA,NA
+COMING SOON! Spacious 3 Bed 2 Bath Home!,Rental,NA,$800 ,800,800,800,800,800,1840+ sqft,1840,3 Beds,3,2 Bath,2 ,Contact,NA,NA
+Move In Ready 3 Bedroom,Rental,NA,$750 ,750,750,750,750,750,NA,NA,3 Beds,3,1 Bath,1 ,Contact,NA,NA
+2 Bed Apt. in Secured Building,Rental,NA,$595 ,595,595,595,595,595,NA,NA,2 Beds,2,1 Bath,1 ,Contact,NA,NA
+Secured Building 2 Bed Apt.,Rental,NA,$595 ,595,595,595,595,595,NA,NA,2 Beds,2,1 Bath,1 ,Contact,NA,NA
+Very clean 2 Bed Ready for Move In,Rental,NA,$675 ,675,675,675,675,675,858+ sqft,858,2 Beds,2,1 Bath,1 ,Contact,NA,NA
+Charming 3 Bedroom 2 Bath!,Rental,NA,$795 ,795,795,795,795,795,NA,NA,3 Beds,3,2 Bath,2 ,Contact,NA,NA
+Charming 3 Bedroom 2 Bath!,Rental,NA,$795 ,795,795,795,795,795,NA,NA,3 Beds,3,2 Bath,2 ,Contact,NA,NA
+COMING SOON! 1 Bed 1 Bath Updated,Rental,NA,$595 ,595,595,595,595,595,NA,NA,1 Bed,1,1 Bath,1 ,Contact,NA,NA
+COMING SOON! 3 Bed 1 Bath Ranch Home!,Rental,NA,$675 ,675,675,675,675,675,NA,NA,3 Beds,3,1 Bath,1 ,Contact,NA,NA
+COMING SOON! Cute Rambler in a Great Area!,Rental,NA,"$1,095 ",1095,1095,1095,1095,1095,997+ sqft,997,3 Beds,3,1 Bath,1 ,Contact,NA,NA
+"COMING SOON!  3 Bed 2.5 Bath, Corner lot!",Rental,NA,"$1,450 ",1450,1450,1450,1450,1450,1562+ sqft,1562,3 Beds,3,2.5 Bath,2.5 ,Contact,NA,NA
+Affordable Upscale Kettering 3 Bedroom Condo,Rental,NA,$950 ,950,950,950,950,950,NA,NA,3 Beds,3,2 Bath,2 ,Contact,NA,NA
+COMING SOON! Spacious 4 Bed 2 Bath Huber Heights H,Rental,NA,"$1,595 ",1595,1595,1595,1595,1595,NA,NA,4 Beds,4,2.5 Bath,2.5 ,Contact,NA,NA
+556 Telford Ave. Apt A,Rental,NA,$545 ,545,545,545,545,545,700+ sqft,700,1 Bed,1,1 Bath,1 ,Contact,NA,NA
+316 E Pease,Rental,NA,$625 ,625,625,625,625,625,1025+ sqft,1025,1 Bed,1,1 Bath,1 ,Contact,NA,NA
+411 Burns Ave,2 bed 1.0 bath 1107 sqft,NA,$550 ,550,550,550,550,550,1107+ sqft,1107,2 Beds,2,1 Bath,1 ,1 Available,NA,NA
+109 Grimes St,4 bed 2.0 bath 1980 sqft,NA,"$1,095 ",1095,1095,1095,1095,1095,1980+ sqft,1980,4 Beds,4,2 Bath,2 ,1 Available,NA,NA
+316 Superior Ave,1 bed 1.0 bath 550 sqft,NA,$550 ,550,550,550,550,550,550+ sqft,550,1 Bed,1,1 Bath,1 ,1 Available,NA,NA
+475 W Grand Ave,0 bed 1.0 bath 450 sqft,NA,$500 ,500,500,500,500,500,450+ sqft,450,Studio,Studio,1 Bath,1 ,1 Available,NA,NA
+455 Forest Ave,2 bed 1.0 bath,NA,$595 ,595,595,595,595,595,NA,NA,2 Beds,2,1 Bath,1 ,1 Available,NA,NA
+554 Corwin St,3 bed 2.0 bath,NA,$800 ,800,800,800,800,800,NA,NA,3 Beds,3,2 Bath,2 ,1 Available,NA,NA
+423 Alberta St,4 bed 1.0 bath 1900 sqft,NA,$875 ,875,875,875,875,875,1900+ sqft,1900,4 Beds,4,1 Bath,1 ,1 Available,NA,NA
+720 N Keowee St,2 bed 2.0 bath,NA,$575 ,575,575,575,575,575,NA,NA,2 Beds,2,2 Bath,2 ,1 Available,NA,NA
+218 Rockwood Ave,3 bed 1.0 bath 1304 sqft,NA,$600 ,600,600,600,600,600,1304+ sqft,1304,3 Beds,3,1 Bath,1 ,1 Available,NA,NA
+414 Xenia Ave,1 bed 1.0 bath,NA,$475 ,475,475,475,475,475,NA,NA,1 Bed,1,1 Bath,1 ,1 Available,NA,NA
+441 N Broadway St,2 bed 1.5 bath,NA,$675 ,675,675,675,675,675,NA,NA,2 Beds,2,1.5 Bath,1.5 ,1 Available,NA,NA
+736 Superior Ave,1 bed 1.0 bath 550 sqft,NA,$550 ,550,550,550,550,550,550+ sqft,550,1 Bed,1,1 Bath,1 ,1 Available,NA,NA
+140 Lexington Ave,3 bed 2.5 bath 2587 sqft,NA,"$1,395 ",1395,1395,1395,1395,1395,2587+ sqft,2587,3 Beds,3,2.5 Bath,2.5 ,1 Available,NA,NA
+432 W Stewart St,4 bed 2.0 bath 850 sqft,NA,"$1,000 ",1000,1000,1000,1000,1000,850+ sqft,850,4 Beds,4,2 Bath,2 ,1 Available,NA,NA
+933 Steele Ave,3 bed 1.0 bath 1200 sqft,NA,$800 ,800,800,800,800,800,1200+ sqft,1200,3 Beds,3,1 Bath,1 ,1 Available,NA,NA
+25 Sherman St,2 bed 1.0 bath 1166 sqft,NA,$650 ,650,650,650,650,650,1166+ sqft,1166,2 Beds,2,1 Bath,1 ,1 Available,NA,NA
+511 St Paul Ave,3 bed 1.0 bath,NA,$650 ,650,650,650,650,650,NA,NA,3 Beds,3,1 Bath,1 ,1 Available,NA,NA
+503 Hulbert St,2 bed 1.0 bath,NA,$550 ,550,550,550,550,550,NA,NA,2 Beds,2,1 Bath,1 ,1 Available,NA,NA
+17 Mc Kinley St,2 bed 1.0 bath 937 sqft,NA,$625 ,625,625,625,625,625,937+ sqft,937,2 Beds,2,1 Bath,1 ,1 Available,NA,NA
+1000 Xenia Ave,2 bed 1.0 bath,NA,$550 ,550,550,550,550,550,NA,NA,2 Beds,2,1 Bath,1 ,1 Available,NA,NA
+112 Heaton Ave,3 bed 1.0 bath 1364 sqft,NA,$795 ,795,795,795,795,795,1364+ sqft,1364,3 Beds,3,1 Bath,1 ,1 Available,NA,NA
+156 Gunckel Ave,2 bed 1.0 bath 900 sqft,NA,$600 ,600,600,600,600,600,900+ sqft,900,2 Beds,2,1 Bath,1 ,1 Available,NA,NA
+64 Fountain Ave,3 bed 1.0 bath,NA,$600 ,600,600,600,600,600,NA,NA,3 Beds,3,1 Bath,1 ,1 Available,NA,NA
+62 Fountain Ave,3 bed 1.0 bath 1477 sqft,NA,$600 ,600,600,600,600,600,1477+ sqft,1477,3 Beds,3,1 Bath,1 ,1 Available,NA,NA
+410 Delaware Ave,1 bed 1.0 bath,NA,$450 ,450,450,450,450,450,NA,NA,1 Bed,1,1 Bath,1 ,1 Available,NA,NA
+15 Ridge Ave,1 bed 1.0 bath,NA,$475 ,475,475,475,475,475,NA,NA,1 Bed,1,1 Bath,1 ,1 Available,NA,NA
+1715 Warner Ave,2 bed 1.0 bath 1017 sqft,NA,$595 ,595,595,595,595,595,1017+ sqft,1017,2 Beds,2,1 Bath,1 ,1 Available,NA,NA
+126 Edgar Ave,3 bed 1.0 bath 1120 sqft,NA,$675 ,675,675,675,675,675,1120+ sqft,1120,3 Beds,3,1 Bath,1 ,1 Available,NA,NA
+636 St Joseph Ave,3 bed 1.0 bath 1100 sqft,NA,$625 ,625,625,625,625,625,1100+ sqft,1100,3 Beds,3,1 Bath,1 ,1 Available,NA,NA
+1317 Salem Ave,2 bed 1.0 bath 675 sqft,NA,$600 ,600,600,600,600,600,675+ sqft,675,2 Beds,2,1 Bath,1 ,1 Available,NA,NA
+521 Beckman St,2 bed 1.0 bath,NA,$675 ,675,675,675,675,675,NA,NA,2 Beds,2,1 Bath,1 ,1 Available,NA,NA
+1380 Cory Dr,2 bed 1.0 bath,NA,$595 ,595,595,595,595,595,NA,NA,2 Beds,2,1 Bath,1 ,1 Available,NA,NA
+1513 Wyoming St,3 bed 1.0 bath,NA,$700 ,700,700,700,700,700,NA,NA,3 Beds,3,1 Bath,1 ,1 Available,NA,NA
+640 Pritz Ave,3 bed 1.5 bath 1312 sqft,NA,$825 ,825,825,825,825,825,1312+ sqft,1312,3 Beds,3,1.5 Bath,1.5 ,1 Available,NA,NA
+116 Ernst Ave,1 bed 1.0 bath 602 sqft,NA,$465 ,465,465,465,465,465,602+ sqft,602,1 Bed,1,1 Bath,1 ,1 Available,NA,NA
+57 Ernst Ave,2 bed 1.0 bath 894 sqft,NA,$625 ,625,625,625,625,625,894+ sqft,894,2 Beds,2,1 Bath,1 ,1 Available,NA,NA
+38 Willowwood Dr,3 bed 1.0 bath,NA,$850 ,850,850,850,850,850,NA,NA,3 Beds,3,1 Bath,1 ,1 Available,NA,NA
+840 Creighton Ave,3 bed 2.0 bath 1424 sqft,NA,$850 ,850,850,850,850,850,1424+ sqft,1424,3 Beds,3,2 Bath,2 ,1 Available,NA,NA
+2048 Stegman Ave,3 bed 1.0 bath 1350 sqft,NA,$725 ,725,725,725,725,725,1350+ sqft,1350,3 Beds,3,1 Bath,1 ,1 Available,NA,NA
+50 Willowwood Dr,2 bed 1.0 bath,NA,$595 ,595,595,595,595,595,NA,NA,2 Beds,2,1 Bath,1 ,1 Available,NA,NA
+916 Linden Ave,2 bed 1.0 bath 1110 sqft,NA,$725 ,725,725,725,725,725,1110+ sqft,1110,2 Beds,2,1 Bath,1 ,1 Available,NA,NA
+922 Linden Ave,1 bed 1.0 bath 560 sqft,NA,$500 ,500,500,500,500,500,560+ sqft,560,1 Bed,1,1 Bath,1 ,1 Available,NA,NA
+1047 Huffman Ave,2 bed 1.0 bath 1000 sqft,NA,$500 ,500,500,500,500,500,1000+ sqft,1000,2 Beds,2,1 Bath,1 ,1 Available,NA,NA
+635 Hodapp Ave,3 bed 1.5 bath 1418 sqft,NA,$850 ,850,850,850,850,850,1418+ sqft,1418,3 Beds,3,1.5 Bath,1.5 ,1 Available,NA,NA
+1341 Phillips Ave,3 bed 1.0 bath,NA,$650 ,650,650,650,650,650,NA,NA,3 Beds,3,1 Bath,1 ,1 Available,NA,NA
+1343 Phillips Ave,3 bed 1.0 bath,NA,$750 ,750,750,750,750,750,NA,NA,3 Beds,3,1 Bath,1 ,1 Available,NA,NA
+718 Randolph St,2 bed 1.0 bath 944 sqft,NA,$650 ,650,650,650,650,650,944+ sqft,944,2 Beds,2,1 Bath,1 ,1 Available,NA,NA
+143 Laura Ave,2 bed 1.0 bath 960 sqft,NA,$725 ,725,725,725,725,725,960+ sqft,960,2 Beds,2,1 Bath,1 ,1 Available,NA,NA
+400 Sheridan Ave,2 bed 1.0 bath,NA,$650 ,650,650,650,650,650,NA,NA,2 Beds,2,1 Bath,1 ,1 Available,NA,NA
+407 W Norman Ave,2 bed 1.0 bath,NA,$750 ,750,750,750,750,750,NA,NA,2 Beds,2,1 Bath,1 ,1 Available,NA,NA
+2616 Newport Ave,1 bed 1.0 bath 550 sqft,NA,$550 ,550,550,550,550,550,550+ sqft,550,1 Bed,1,1 Bath,1 ,1 Available,NA,NA
+438 Allwen Dr,3 bed 1.5 bath 1488 sqft,NA,$855 ,855,855,855,855,855,1488+ sqft,1488,3 Beds,3,1.5 Bath,1.5 ,1 Available,NA,NA
+1241 Creighton Ave,3 bed 1.5 bath 1560 sqft,NA,$998 ,998,998,998,998,998,1560+ sqft,1560,3 Beds,3,1.5 Bath,1.5 ,1 Available,NA,NA
+47 Marie Ave,2 bed 1.0 bath,NA,$525 ,525,525,525,525,525,NA,NA,2 Beds,2,1 Bath,1 ,1 Available,NA,NA
+344 W Parkwood Dr,2 bed 1.5 bath 1200 sqft,NA,$795 ,795,795,795,795,795,1200+ sqft,1200,2 Beds,2,1.5 Bath,1.5 ,1 Available,NA,NA
+2016 Rustic Rd,1 bed 1.0 bath,NA,$525 ,525,525,525,525,525,NA,NA,1 Bed,1,1 Bath,1 ,1 Available,NA,NA
+2240 Lakeview Ave,3 bed 1.0 bath 1056 sqft,NA,$675 ,675,675,675,675,675,1056+ sqft,1056,3 Beds,3,1 Bath,1 ,1 Available,NA,NA
+1312 Carlisle Ave,2 bed 1.0 bath 1180 sqft,NA,$850 ,850,850,850,850,850,1180+ sqft,1180,2 Beds,2,1 Bath,1 ,1 Available,NA,NA
+420 W Parkwood Dr,1 bed 1.0 bath 550 sqft,NA,$525 ,525,525,525,525,525,550+ sqft,550,1 Bed,1,1 Bath,1 ,1 Available,NA,NA
+22 Marson Dr,2 bed 1.0 bath,NA,$600 ,600,600,600,600,600,NA,NA,2 Beds,2,1 Bath,1 ,1 Available,NA,NA
+428 W Parkwood Dr,3 bed 1.0 bath 1352 sqft,NA,$595 ,595,595,595,595,595,1352+ sqft,1352,3 Beds,3,1 Bath,1 ,1 Available,NA,NA
+311 E Maplewood Ave,2 bed 2.0 bath 828 sqft,NA,$695 ,695,695,695,695,695,828+ sqft,828,2 Beds,2,2 Bath,2 ,1 Available,NA,NA
+816 Kammer Ave,3 bed 1.5 bath 1500 sqft,NA,$775 ,775,775,775,775,775,1500+ sqft,1500,3 Beds,3,1.5 Bath,1.5 ,1 Available,NA,NA
+2039 Emerson Ave,1 bed 1.0 bath,NA,$475 ,475,475,475,475,475,NA,NA,1 Bed,1,1 Bath,1 ,1 Available,NA,NA
+2806 N Main St,1 bed 1.0 bath,NA,$475 ,475,475,475,475,475,NA,NA,1 Bed,1,1 Bath,1 ,1 Available,NA,NA
+332 Kling Dr,3 bed 2.0 bath 1322 sqft,NA,"$1,375 ",1375,1375,1375,1375,1375,1322+ sqft,1322,3 Beds,3,2 Bath,2 ,1 Available,NA,NA
+1932 Auburn Ave,4 bed 2.0 bath 1817 sqft,NA,$800 ,800,800,800,800,800,1817+ sqft,1817,4 Beds,4,2 Bath,2 ,1 Available,NA,NA
+620 Cherry Dr,3 bed 1.0 bath 1260 sqft,NA,$800 ,800,800,800,800,800,1260+ sqft,1260,3 Beds,3,1 Bath,1 ,1 Available,NA,NA
+128 Pointview Ave,2 bed 1.0 bath,NA,$575 ,575,575,575,575,575,NA,NA,2 Beds,2,1 Bath,1 ,1 Available,NA,NA
+47 E Maplewood Ave,1 bed 1.0 bath,NA,$475 ,475,475,475,475,475,NA,NA,1 Bed,1,1 Bath,1 ,1 Available,NA,NA
+37 N Delmar Ave,2 bed 1.0 bath,NA,$675 ,675,675,675,675,675,NA,NA,2 Beds,2,1 Bath,1 ,1 Available,NA,NA
+1332 St Adalbert Ave,2 bed 1.0 bath,NA,$565 ,565,565,565,565,565,NA,NA,2 Beds,2,1 Bath,1 ,1 Available,NA,NA
+2646 Home Ave,2 bed 1.0 bath,NA,$550 ,550,550,550,550,550,NA,NA,2 Beds,2,1 Bath,1 ,1 Available,NA,NA
+257 Valleyview Dr,1 bed 1.0 bath,NA,$475 ,475,475,475,475,475,NA,NA,1 Bed,1,1 Bath,1 ,1 Available,NA,NA
+51 Watervliet Ave,2 bed 1.0 bath 700 sqft,NA,$425 ,425,425,425,425,425,700+ sqft,700,2 Beds,2,1 Bath,1 ,1 Available,NA,NA
+12 S Westview Ave,2 bed 1.0 bath 800 sqft,NA,$450 ,450,450,450,450,450,800+ sqft,800,2 Beds,2,1 Bath,1 ,1 Available,NA,NA
+616 Westwood Ave,2 bed 1.0 bath 638 sqft,NA,$550 ,550,550,550,550,550,638+ sqft,638,2 Beds,2,1 Bath,1 ,1 Available,NA,NA
+1434 N James H McGee Blvd,1 bed 1.0 bath,NA,$450 ,450,450,450,450,450,NA,NA,1 Bed,1,1 Bath,1 ,1 Available,NA,NA
+2002 Elsmere Ave,3 bed 1.0 bath 1000 sqft,NA,$650 ,650,650,650,650,650,1000+ sqft,1000,3 Beds,3,1 Bath,1 ,1 Available,NA,NA
+617 Westwood Ave,3 bed 1.0 bath 1304 sqft,NA,$725 ,725,725,725,725,725,1304+ sqft,1304,3 Beds,3,1 Bath,1 ,1 Available,NA,NA
+2333 Rustic Rd,2 bed 1.0 bath 1000 sqft,NA,$695 ,695,695,695,695,695,1000+ sqft,1000,2 Beds,2,1 Bath,1 ,1 Available,NA,NA
+818 Cherry Dr,2 bed 1.0 bath,NA,$550 ,550,550,550,550,550,NA,NA,2 Beds,2,1 Bath,1 ,1 Available,NA,NA
+112 Cliff St,3 bed 1.5 bath 1516 sqft,NA,$795 ,795,795,795,795,795,1516+ sqft,1516,3 Beds,3,1.5 Bath,1.5 ,1 Available,NA,NA
+24 Fernwood Ave,1 bed 1.0 bath 575 sqft,NA,$450 ,450,450,450,450,450,575+ sqft,575,1 Bed,1,1 Bath,1 ,1 Available,NA,NA
+910 Cherry Dr,1 bed 1.0 bath,NA,$400 ,400,400,400,400,400,NA,NA,1 Bed,1,1 Bath,1 ,1 Available,NA,NA
+2128 Auburn Ave,3 bed 1.0 bath 1145 sqft,NA,$695 ,695,695,695,695,695,1145+ sqft,1145,3 Beds,3,1 Bath,1 ,1 Available,NA,NA
+2525 Germantown St,1 bed 1.0 bath,NA,$550 ,550,550,550,550,550,NA,NA,1 Bed,1,1 Bath,1 ,1 Available,NA,NA
+345 E Bruce Ave,2 bed 1.0 bath 500 sqft,NA,$495 ,495,495,495,495,495,500+ sqft,500,2 Beds,2,1 Bath,1 ,1 Available,NA,NA
+212 E Bruce Ave,2 bed 1.0 bath 830 sqft,NA,$495 ,495,495,495,495,495,830+ sqft,830,2 Beds,2,1 Bath,1 ,1 Available,NA,NA
+53 Knecht Dr,3 bed 1.0 bath 1386 sqft,NA,$800 ,800,800,800,800,800,1386+ sqft,1386,3 Beds,3,1 Bath,1 ,1 Available,NA,NA
+1100 W Fairview Ave,2 bed 1.0 bath 750 sqft,NA,$500 ,500,500,500,500,500,750+ sqft,750,2 Beds,2,1 Bath,1 ,1 Available,NA,NA
+333 W Hillcrest Ave,3 bed 2.0 bath,NA,$795 ,795,795,795,795,795,NA,NA,3 Beds,3,2 Bath,2 ,1 Available,NA,NA
+1038 Cherry Dr,1 bed 1.0 bath 600 sqft,NA,$445 ,445,445,445,445,445,600+ sqft,600,1 Bed,1,1 Bath,1 ,1 Available,NA,NA
+2245 King Ave,4 bed 2.0 bath 1200 sqft,NA,"$1,175 ",1175,1175,1175,1175,1175,1200+ sqft,1200,4 Beds,4,2 Bath,2 ,1 Available,NA,NA
+416 Ashwood Ave,1 bed 1.0 bath 600 sqft,NA,$450 ,450,450,450,450,450,600+ sqft,600,1 Bed,1,1 Bath,1 ,1 Available,NA,NA
+231 Ryburn Ave,2 bed 1.0 bath 850 sqft,NA,$500 ,500,500,500,500,500,850+ sqft,850,2 Beds,2,1 Bath,1 ,1 Available,NA,NA
+1003 Wilmington Ave,1 bed 1.0 bath 716 sqft,116,530,530,530,530,530,530,NA,NA,1 Bed,1,1 Bath,1 ,Today,NA,NA
+1005 Leland Ave,3 bed 1.0 bath 1175 sqft,NA,$750 ,750,750,750,750,750,1175+ sqft,1175,3 Beds,3,1 Bath,1 ,1 Available,NA,NA
+108 Ashwood Ave,4 bed 1.0 bath 850 sqft,NA,"$1,000 ",1000,1000,1000,1000,1000,850+ sqft,850,4 Beds,4,1 Bath,1 ,1 Available,NA,NA
+229 Bellaire Ave,2 bed 1.0 bath 837 sqft,NA,$895 ,895,895,895,895,895,837+ sqft,837,2 Beds,2,1 Bath,1 ,1 Available,NA,NA
+3712 Wayne Ave,2 bed 1.0 bath 760 sqft,NA,$775 ,775,775,775,775,775,760+ sqft,760,2 Beds,2,1 Bath,1 ,1 Available,NA,NA
+1988 Victoria Ave,2 bed 1.0 bath 750 sqft,NA,$600 ,600,600,600,600,600,750+ sqft,750,2 Beds,2,1 Bath,1 ,1 Available,NA,NA
+1704 Huffman Ave,2 bed 1.0 bath 896 sqft,NA,$600 ,600,600,600,600,600,896+ sqft,896,2 Beds,2,1 Bath,1 ,1 Available,NA,NA
+1910 Colonial Village Ln,2 bed 1.0 bath 850 sqft,NA,$600 ,600,600,600,600,600,850+ sqft,850,2 Beds,2,1 Bath,1 ,1 Available,NA,NA
+608 Hampshire Rd,1 bed 1.0 bath 600 sqft,NA,$470 ,470,470,470,470,470,600+ sqft,600,1 Bed,1,1 Bath,1 ,1 Available,NA,NA
+400 N Cherrywood Ave,2 bed 1.0 bath 800 sqft,NA,$550 ,550,550,550,550,550,800+ sqft,800,2 Beds,2,1 Bath,1 ,1 Available,NA,NA
+104 E Siebenthaler Ave,2 bed 1.0 bath 1187 sqft,NA,$650 ,650,650,650,650,650,1187+ sqft,1187,2 Beds,2,1 Bath,1 ,1 Available,NA,NA
+305 Sandhurst Dr,3 bed 1.0 bath 1087 sqft,NA,$700 ,700,700,700,700,700,1087+ sqft,1087,3 Beds,3,1 Bath,1 ,1 Available,NA,NA
+1220 McArthur Ave,1 bed 1.0 bath,NA,$475 ,475,475,475,475,475,NA,NA,1 Bed,1,1 Bath,1 ,1 Available,NA,NA
+109 N Decker Ave,2 bed 1.0 bath 1176 sqft,NA,$725 ,725,725,725,725,725,1176+ sqft,1176,2 Beds,2,1 Bath,1 ,1 Available,NA,NA
+2859 Revere Ave,1 bed 1.0 bath,NA,$595 ,595,595,595,595,595,NA,NA,1 Bed,1,1 Bath,1 ,1 Available,NA,NA
+2018 Fauver Ave,3 bed 1.0 bath 1168 sqft,NA,$845 ,845,845,845,845,845,1168+ sqft,1168,3 Beds,3,1 Bath,1 ,1 Available,NA,NA
+29 S Decker Ave,2 bed 1.0 bath 0 sqft,4,525,525,525,525,525,525,NA,NA,2 Beds,2,1 Bath,1 ,Today,NA,NA
+4024 Woodcliffe Ave,2 bed 1.0 bath,NA,$775 ,775,775,775,775,775,NA,NA,2 Beds,2,1 Bath,1 ,1 Available,NA,NA
+3568 Stanford Pl,2 bed 1.0 bath,NA,$550 ,550,550,550,550,550,NA,NA,2 Beds,2,1 Bath,1 ,1 Available,NA,NA
+109 Redwood Ave,3 bed 1.0 bath 1287 sqft,NA,$825 ,825,825,825,825,825,1287+ sqft,1287,3 Beds,3,1 Bath,1 ,1 Available,NA,NA
+1079 Bertram Ave,3 bed 2.0 bath 1649 sqft,NA,$850 ,850,850,850,850,850,1649+ sqft,1649,3 Beds,3,2 Bath,2 ,1 Available,NA,NA
+3574 Stanford Pl,2 bed 1.0 bath,NA,$550 ,550,550,550,550,550,NA,NA,2 Beds,2,1 Bath,1 ,1 Available,NA,NA
+1523 Doddington Rd,4 bed 2.5 bath 2448 sqft,NA,"$1,799 ",1799,1799,1799,1799,1799,2448+ sqft,2448,4 Beds,4,2.5 Bath,2.5 ,1 Available,NA,NA
+2263 Hepburn Ave,1 bed 1.0 bath 525 sqft,A,500,500,500,500,500,500,NA,NA,1 Bed,1,1 Bath,1 ,Today,NA,NA
+1722 Kings Mill Ct,2 bed 1.5 bath 900 sqft,NA,$655 ,655,655,655,655,655,900+ sqft,900,2 Beds,2,1.5 Bath,1.5 ,1 Available,NA,NA
+2019 Piccadilly Ave,3 bed 1.0 bath,NA,$675 ,675,675,675,675,675,NA,NA,3 Beds,3,1 Bath,1 ,1 Available,NA,NA
+2102 Piccadilly Ave,3 bed 1.0 bath 1020 sqft,NA,$775 ,775,775,775,775,775,1020+ sqft,1020,3 Beds,3,1 Bath,1 ,1 Available,NA,NA
+948 Highridge Ave,2 bed 1.0 bath 725 sqft,NA,$695 ,695,695,695,695,695,725+ sqft,725,2 Beds,2,1 Bath,1 ,1 Available,NA,NA
+2735 Whittier Ave,4 bed 1.5 bath 1416 sqft,NA,"$1,025 ",1025,1025,1025,1025,1025,1416+ sqft,1416,4 Beds,4,1.5 Bath,1.5 ,1 Available,NA,NA
+713 Verona Rd,3 bed 1.0 bath 922 sqft,NA,$745 ,745,745,745,745,745,922+ sqft,922,3 Beds,3,1 Bath,1 ,1 Available,NA,NA
+519 Heather Dr,2 bed 2.0 bath 1100 sqft,NA,$675 ,675,675,675,675,675,1100+ sqft,1100,2 Beds,2,2 Bath,2 ,1 Available,NA,NA
+557 Telford Ave,1 bed 1.0 bath 625 sqft,NA,$575 ,575,575,575,575,575,625+ sqft,625,1 Bed,1,1 Bath,1 ,1 Available,NA,NA
+2823 Calvin Ave,3 bed 1.0 bath 1156 sqft,NA,$700 ,700,700,700,700,700,1156+ sqft,1156,3 Beds,3,1 Bath,1 ,1 Available,NA,NA
+62 W Nottingham Rd,2 bed 1.0 bath,NA,$575 ,575,575,575,575,575,NA,NA,2 Beds,2,1 Bath,1 ,1 Available,NA,NA
+66 W Nottingham Rd,2 bed 1.0 bath 650 sqft,NA,$650 ,650,650,650,650,650,650+ sqft,650,2 Beds,2,1 Bath,1 ,1 Available,NA,NA
+2658 Hazel Ave,1 bed 1.0 bath,NA,$525 ,525,525,525,525,525,NA,NA,1 Bed,1,1 Bath,1 ,1 Available,NA,NA
+4286 Catalpa Dr,1 bed 1.0 bath,NA,$550 ,550,550,550,550,550,NA,NA,1 Bed,1,1 Bath,1 ,1 Available,NA,NA
+4538 W 2nd St,2 bed 1.0 bath 649 sqft,NA,$675 ,675,675,675,675,675,649+ sqft,649,2 Beds,2,1 Bath,1 ,1 Available,NA,NA
+320 Forest Park Dr,1 bed 1.0 bath 0 sqft,106,600,600,600,600,600,600,NA,NA,1 Bed,1,1 Bath,1 ,Today,NA,NA
+2452 Fairport Ave,2 bed 1.0 bath 1010 sqft,NA,$675 ,675,675,675,675,675,1010+ sqft,1010,2 Beds,2,1 Bath,1 ,1 Available,NA,NA
+2747 Springmont Ave,3 bed 1.0 bath 1275 sqft,NA,$900 ,900,900,900,900,900,1275+ sqft,1275,3 Beds,3,1 Bath,1 ,1 Available,NA,NA
+790 Biltmore Pl,3 bed 1.0 bath,NA,"$1,000 ",1000,1000,1000,1000,1000,NA,NA,3 Beds,3,1 Bath,1 ,1 Available,NA,NA
+4406 Waymire Ave,3 bed 1.0 bath 870 sqft,NA,$675 ,675,675,675,675,675,870+ sqft,870,3 Beds,3,1 Bath,1 ,1 Available,NA,NA
+4446 Prescott Ave,3 bed 1.0 bath 1015 sqft,NA,$745 ,745,745,745,745,745,1015+ sqft,1015,3 Beds,3,1 Bath,1 ,1 Available,NA,NA
+4530 Foxton Ct,1 bed 1.0 bath 288 sqft,NA,$550 ,550,550,550,550,550,288+ sqft,288,1 Bed,1,1 Bath,1 ,1 Available,NA,NA
+1631 Watervliet Ave,2 bed 1.0 bath 952 sqft,NA,$775 ,775,775,775,775,775,952+ sqft,952,2 Beds,2,1 Bath,1 ,1 Available,NA,NA
+4529 Waymire Ave,3 bed 1.0 bath 1015 sqft,NA,$695 ,695,695,695,695,695,1015+ sqft,1015,3 Beds,3,1 Bath,1 ,1 Available,NA,NA
+3821 Cavanaugh Rd,3 bed 1.0 bath 1146 sqft,NA,"$1,175 ",1175,1175,1175,1175,1175,1146+ sqft,1146,3 Beds,3,1 Bath,1 ,1 Available,NA,NA
+3550 Golden Meadows Ct,3 bed 2.0 bath 1189 sqft,NA,$850 ,850,850,850,850,850,1189+ sqft,1189,3 Beds,3,2 Bath,2 ,1 Available,NA,NA
+202 Park End Dr,4 bed 2.5 bath,NA,"$1,275 ",1275,1275,1275,1275,1275,NA,NA,4 Beds,4,2.5 Bath,2.5 ,1 Available,NA,NA
+4093 Saylor St,3 bed 1.0 bath,NA,$700 ,700,700,700,700,700,NA,NA,3 Beds,3,1 Bath,1 ,1 Available,NA,NA
+4372 Free Pike,3 bed 1.0 bath 1508 sqft,NA,$850 ,850,850,850,850,850,1508+ sqft,1508,3 Beds,3,1 Bath,1 ,1 Available,NA,NA
+4050 Annapolis Ave,2 bed 1.0 bath 688 sqft,NA,$675 ,675,675,675,675,675,688+ sqft,688,2 Beds,2,1 Bath,1 ,1 Available,NA,NA
+4334 Saylor St,3 bed 1.0 bath 1087 sqft,NA,$800 ,800,800,800,800,800,1087+ sqft,1087,3 Beds,3,1 Bath,1 ,1 Available,NA,NA
+1332 Marot Dr,3 bed 1.0 bath 925 sqft,NA,$700 ,700,700,700,700,700,925+ sqft,925,3 Beds,3,1 Bath,1 ,1 Available,NA,NA
+4203 Thompson Dr,2 bed 1.0 bath 770 sqft,NA,$700 ,700,700,700,700,700,770+ sqft,770,2 Beds,2,1 Bath,1 ,1 Available,NA,NA
+4201 Brunswick Ave,3 bed 1.0 bath 957 sqft,NA,$725 ,725,725,725,725,725,957+ sqft,957,3 Beds,3,1 Bath,1 ,1 Available,NA,NA
+4010 Brenton Dr,3 bed 1.0 bath 1166 sqft,NA,$825 ,825,825,825,825,825,1166+ sqft,1166,3 Beds,3,1 Bath,1 ,1 Available,NA,NA
+14 Napoleon Dr,3 bed 1.0 bath 1501 sqft,NA,"$1,395 ",1395,1395,1395,1395,1395,1501+ sqft,1501,3 Beds,3,1 Bath,1 ,1 Available,NA,NA
+5301 Tucson Dr,3 bed 1.5 bath,NA,$925 ,925,925,925,925,925,NA,NA,3 Beds,3,1.5 Bath,1.5 ,1 Available,NA,NA
+41 Burgess Ave,3 bed 2.0 bath 1400 sqft,NA,"$1,025 ",1025,1025,1025,1025,1025,1400+ sqft,1400,3 Beds,3,2 Bath,2 ,1 Available,NA,NA
+4164 Bridlegate Way,3 bed 2.5 bath 1688 sqft,NA,"$1,595 ",1595,1595,1595,1595,1595,1688+ sqft,1688,3 Beds,3,2.5 Bath,2.5 ,1 Available,NA,NA
+2917 Cunnington Ln,3 bed 1.0 bath 1176 sqft,NA,$895 ,895,895,895,895,895,1176+ sqft,1176,3 Beds,3,1 Bath,1 ,1 Available,NA,NA
+4434 Softwood Ln,3 bed 2.5 bath,NA,"$1,450 ",1450,1450,1450,1450,1450,NA,NA,3 Beds,3,2.5 Bath,2.5 ,1 Available,NA,NA
+5528 Fisher Dr,2 bed 1.0 bath,NA,$625 ,625,625,625,625,625,NA,NA,2 Beds,2,1 Bath,1 ,1 Available,NA,NA
+4500 Waynedale Cir,2 bed 1.0 bath 872 sqft,NA,$602 ,602,602,602,602,602,872+ sqft,872,2 Beds,2,1 Bath,1 ,1 Available,NA,NA
+4530 Bufort Blvd,2 bed 1.0 bath,NA,$602 ,602,602,602,602,602,NA,NA,2 Beds,2,1 Bath,1 ,1 Available,NA,NA
+5353 Dunmore Dr,2 bed 1.0 bath 777 sqft,NA,$625 ,625,625,625,625,625,777+ sqft,777,2 Beds,2,1 Bath,1 ,1 Available,NA,NA
+5341 Naples Dr,4 bed 2.0 bath,NA,"$1,250 ",1250,1250,1250,1250,1250,NA,NA,4 Beds,4,2 Bath,2 ,1 Available,NA,NA
+4840 Powell Rd,3 bed 3.0 bath 1680 sqft,NA,"$1,350 ",1350,1350,1350,1350,1350,1680+ sqft,1680,3 Beds,3,3 Bath,3 ,1 Available,NA,NA
+7837 N Main St,2 bed 1.0 bath,14,625,625,625,625,625,625,NA,NA,2 Beds,2,1 Bath,1 ,Today,NA,NA
+4440 Glenheath Dr,3 bed 2.5 bath 2000 sqft,NA,"$1,595 ",1595,1595,1595,1595,1595,2000+ sqft,2000,3 Beds,3,2.5 Bath,2.5 ,1 Available,NA,NA
+6640 Lovell Ct,4 bed 4.0 bath 1876 sqft,NA,"$1,800 ",1800,1800,1800,1800,1800,1876+ sqft,1876,4 Beds,4,4 Bath,4 ,1 Available,NA,NA
+309 Grand Ave,4 bed 1.0 bath 1137 sqft,NA,$750 ,750,750,750,750,750,1137+ sqft,1137,4 Beds,4,1 Bath,1 ,1 Available,NA,NA
+6224 Janice Pl,3 bed 2.0 bath 1150 sqft,NA,"$1,095 ",1095,1095,1095,1095,1095,1150+ sqft,1150,3 Beds,3,2 Bath,2 ,1 Available,NA,NA
+5634 Olive Tree Dr,4 bed 3.0 bath,NA,"$1,325 ",1325,1325,1325,1325,1325,NA,NA,4 Beds,4,3 Bath,3 ,1 Available,NA,NA
+5640 Coach Dr W,3 bed 2.0 bath,D,950,950,950,950,950,950,NA,NA,3 Beds,3,2 Bath,2 ,Today,NA,NA
+4315 Crownwood Ave,4 bed 2.0 bath,NA,"$1,300 ",1300,1300,1300,1300,1300,NA,NA,4 Beds,4,2 Bath,2 ,1 Available,NA,NA
+7765 Redbank Ln,4 bed 2.0 bath 1624 sqft,NA,"$1,250 ",1250,1250,1250,1250,1250,1624+ sqft,1624,4 Beds,4,2 Bath,2 ,1 Available,NA,NA
+4038 Sugar Ridge Blvd,3 bed 2.0 bath 1684 sqft,NA,"$1,695 ",1695,1695,1695,1695,1695,1684+ sqft,1684,3 Beds,3,2 Bath,2 ,1 Available,NA,NA
+6691 Loblolly Dr,3 bed 2.5 bath 1847 sqft,NA,"$1,395 ",1395,1395,1395,1395,1395,1847+ sqft,1847,3 Beds,3,2.5 Bath,2.5 ,1 Available,NA,NA
+1430 Long Island Ct,3 bed 3.0 bath 1400 sqft,NA,"$1,350 ",1350,1350,1350,1350,1350,1400+ sqft,1400,3 Beds,3,3 Bath,3 ,1 Available,NA,NA
+6527 Charlesgate Rd,4 bed 2.5 bath,NA,"$1,595 ",1595,1595,1595,1595,1595,NA,NA,4 Beds,4,2.5 Bath,2.5 ,1 Available,NA,NA
+1525 Taitwood Dr,4 bed 2.5 bath 2185 sqft,NA,"$2,200 ",2200,2200,2200,2200,2200,2185+ sqft,2185,4 Beds,4,2.5 Bath,2.5 ,1 Available,NA,NA
+2173 Pacer Trail,3 bed 2.5 bath 1884 sqft,NA,"$1,695 ",1695,1695,1695,1695,1695,1884+ sqft,1884,3 Beds,3,2.5 Bath,2.5 ,1 Available,NA,NA
+1588 Glenbeck Ave,1 bed 1.0 bath 650 sqft,NA,$545 ,545,545,545,545,545,650+ sqft,650,1 Bed,1,1 Bath,1 ,1 Available,NA,NA
+4843 Springfield St,1 bed 1.0 bath 504 sqft,NA,$525 ,525,525,525,525,525,504+ sqft,504,1 Bed,1,1 Bath,1 ,1 Available,NA,NA
+4365 Parkway Dr,2 bed 1.0 bath 600 sqft,NA,$575 ,575,575,575,575,575,600+ sqft,600,2 Beds,2,1 Bath,1 ,1 Available,NA,NA
+4369 Parkway Dr,2 bed 1.0 bath 600 sqft,NA,$575 ,575,575,575,575,575,600+ sqft,600,2 Beds,2,1 Bath,1 ,1 Available,NA,NA
+5219 Pitcairn Rd,3 bed 2.0 bath 1248 sqft,NA,"$1,000 ",1000,1000,1000,1000,1000,1248+ sqft,1248,3 Beds,3,2 Bath,2 ,1 Available,NA,NA
+4330 Straight Arrow Rd,3 bed 2.5 bath,NA,"$1,350 ",1350,1350,1350,1350,1350,NA,NA,3 Beds,3,2.5 Bath,2.5 ,1 Available,NA,NA
+5401 Bellefontaine Rd,2 bed 1.0 bath,NA,$575 ,575,575,575,575,575,NA,NA,2 Beds,2,1 Bath,1 ,1 Available,NA,NA
+25 Carma Dr,4 bed 1.0 bath 1296 sqft,NA,$845 ,845,845,845,845,845,1296+ sqft,1296,4 Beds,4,1 Bath,1 ,1 Available,NA,NA
+3128 Alexander Pl,3 bed 2.0 bath 1500 sqft,NA,"$1,225 ",1225,1225,1225,1225,1225,1500+ sqft,1500,3 Beds,3,2 Bath,2 ,1 Available,NA,NA
+6888 Brandt Pike,2 bed 1.0 bath 850 sqft,NA,$525 ,525,525,525,525,525,850+ sqft,850,2 Beds,2,1 Bath,1 ,1 Available,NA,NA
+7311 Harshmanville Rd,3 bed 2.0 bath 1080 sqft,NA,"$1,095 ",1095,1095,1095,1095,1095,1080+ sqft,1080,3 Beds,3,2 Bath,2 ,1 Available,NA,NA
+Oakdale Apartments,"2 bedroom, 1 bath, townhome",NA,NA,NA,NA,NA,NA,NA,NA,NA,2 Beds,2,1 Bath,1 ,NA,NA,NA
+Oakdale Apartments,"2 bedroom, 1 bath, garden",NA,NA,NA,NA,NA,NA,NA,NA,NA,2 Beds,2,1 Bath,1 ,NA,NA,NA
+Oakdale Apartments,"3 bedroom, 1 and 1/2 bath, townhome",NA,NA,NA,NA,NA,NA,NA,NA,NA,3 Beds,3,1.5 Bath,1.5 ,NA,NA,NA
+Almond Village,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1 Bed,1,1 Bath,1 ,NA,NA,NA
+Eagle Ridge Apartments,one bedroom,NA,NA,NA,NA,NA,NA,NA,650+ sqft,650,1 Bed,1,1 Bath,1 ,NA,60%,3
+Eagle Ridge Apartments,two bedroom,NA,NA,NA,NA,NA,NA,NA,850+ sqft,850,2 Beds,2,1 Bath,1 ,NA,60%,3
+Eagle Ridge Apartments,three bedroom,NA,NA,NA,NA,NA,NA,NA,950+ sqft,950,3 Beds,3,2 Bath,2 ,NA,60%,3
+Eagle Ridge Apartments,four bedroom,NA,NA,NA,NA,NA,NA,NA,1150+ sqft,1150,4 Beds,4,2 Bath,2 ,NA,60%,3
+Irongate Manor,1-2 bed,NA,$615–$745,615–745,615–745,615,745,680,NA,NA,1 Bed,1,1 Bath,1 ,NA,60%,3
+Devonshire by Redwood,forestwood,NA,"$1,499 ",1499,1499,1499,1499,1499,1294+ sqft,1294,2 Beds,2,2 Bath,2 ,NA,100,5
+Devonshire by Redwood,meadowood,NA,"$1,674 ",1674,1674,1674,1674,1674,1327+ sqft,1327,2 Beds,2,2 Bath,2 ,NA,100,5
+Devonshire by Redwood,driftwood,NA,"$1,174 ",1174,1174,1174,1174,1174,1127+ sqft,1127,2 Beds,2,2 Bath,2 ,NA,100,5
+Devonshire by Redwood,birchwood,NA,"$1,674 ",1674,1674,1674,1674,1674,1327+ sqft,1327,2 Beds,2,2 Bath,2 ,NA,100,5
+Devonshire by Redwood,rosewood,NA,"$1,499 ",1499,1499,1499,1499,1499,1294+ sqft,1294,2 Beds,2,2 Bath,2 ,NA,100,5
+Overlook Mutual Homes,1 bedroom,NA,$475 ,475,475,475,475,475,NA,NA,1 Bed,1,1 Bath,1 ,NA,NA,NA
+Overlook Mutual Homes,2 bedroom,NA,$485 ,485,485,485,485,485,NA,NA,2 Beds,2,1 Bath,1 ,NA,NA,NA
+Overlook Mutual Homes,3 bedroom,NA,$495 ,495,495,495,495,495,NA,NA,3 Beds,3,1 Bath,1 ,NA,NA,NA
+Lafayette Square,one bedroom,NA,NA,NA,NA,NA,NA,NA,585+ sqft,585,1 Bed,1,1 Bath,1 ,NA,NA,NA
+Lafayette Square,2 bed 1.5 bath,NA,NA,NA,NA,NA,NA,NA,785+ sqft,785,2 Beds,2,1.5 Bath,1.5 ,NA,NA,NA
+Lafayette Square,2 bedroom 1.5 bath townhouse,NA,NA,NA,NA,NA,NA,NA,938+ sqft,938,2 Beds,2,1.5 Bath,1.5 ,NA,NA,NA
+Lafayette Square,2 bedroom,NA,NA,NA,NA,NA,NA,NA,820+ sqft,820,2 Beds,2,2 Bath,2 ,NA,NA,NA
+Trinity Community at Fairwood,type a (one bedroom),NA,NA,NA,NA,NA,NA,NA,576+ sqft,576,1 Bed,1,1 Bath,1 ,NA,60%,3
+Trinity Community at Fairwood,type b (one bedroom),NA,NA,NA,NA,NA,NA,NA,576+ sqft,576,1 Bed,1,1 Bath,1 ,NA,60%,3
+Trinity Community at Fairwood,type a (two bedroom),NA,NA,NA,NA,NA,NA,NA,864+ sqft,864,2 Beds,2,1 Bath,1 ,NA,60%,3
+Trinity Community at Fairwood,type b (two bedroom),NA,NA,NA,NA,NA,NA,NA,810+ sqft,810,2 Beds,2,1 Bath,1 ,NA,60%,3
+Countryside Acres,2 beds,NA,$500–$550,500–550,500–550,500,550,525,NA,NA,2 Beds,2,1 Bath,1 ,NA,100,5
+Villas At Benchrock,the portico,NA,NA,NA,NA,NA,NA,NA,1776+ sqft,1776,2 Beds,2,2 Bath,2 ,NA,80%,4
+Villas At Benchrock,the tornio,NA,NA,NA,NA,NA,NA,NA,1888+ sqft,1888,2 Beds,2,2 Bath,2 ,NA,80%,4
+Villas At Benchrock,the palazzo,NA,NA,NA,NA,NA,NA,NA,1519+ sqft,1519,2 Beds,2,2 Bath,2 ,NA,80%,4
