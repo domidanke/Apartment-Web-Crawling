@@ -1,4 +1,4 @@
 # webScrape
 In this project, I am trying to gather a huge amount of information from apartments around the Dayton Area by using Python in relation to web scraping.
-Afterwards, I will use data analysis tools with python to examine my data!
-Maybe end up using machine learning tools as well.
+My Python script gave me a good overview of how my data should be wrote into a file, and finally into a csv table.
+After executing my notebook code, I rearranged the data table and fine tuned the content of the cells in order to make it possible to use the data for further analysis.
