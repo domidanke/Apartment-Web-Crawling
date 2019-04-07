@@ -1,0 +1,837 @@
+90%#Thirty 43 by the Greene#1 Bed 2nd Floor#3024-2F#$859#600 sqft#1 Bed#1 Bath#&Today#
+90%#Thirty 43 by the Greene#1 Bed 2nd Floor#3024-2A#$859#600 sqft#1 Bed#1 Bath#&Jun 11#
+90%#Thirty 43 by the Greene#2 TH Balcony#2901C#$929#1090 sqft#2 Beds#1.5 Bath#&May 11#
+90%#Thirty 43 by the Greene#2 TH Patio#3038H#$979#1090 sqft#2 Beds#1.5 Bath#&Jun 11#
+90%#Thirty 43 by the Greene#1 Bed 3rd Floor#3024-3D#$889#600 sqft#1 Bed#1 Bath#&Jul 09#
+90%#Thirty 43 by the Greene#1 Bed 1st Floor#1 Bed#1 Bath#$839#600+ sqft#&Contact#
+90%#Thirty 43 by the Greene#2 TH Balcony Phase 1#2 Beds#1.5 Bath#$939#1090+ sqft#&Contact#
+90%#Thirty 43 by the Greene#2TH Balcony WD H-up#2 Beds#1.5 Bath#$959#1090+ sqft#&Contact#
+90%#Thirty 43 by the Greene#2 TH Carport#2 Beds#1.5 Bath#$999#1090+ sqft#&Contact#
+90%#Thirty 43 by the Greene#2 TH Patio WD H-up#2 Beds#1.5 Bath#$979#1090+ sqft#&Contact#
+80%#The Landing#1 Bed 1 Bath#1-901#$1199#601 sqft#1 Bed#1 Bath#&Today#
+80%#The Landing#1 Bed 1 Bath#1-701#$899#601 sqft#1 Bed#1 Bath#&Jun 12#
+80%#The Landing#1 Bed 1 Bath#212LIB#$1049#794 sqft#1 Bed#1 Bath#&Today#
+80%#The Landing#1 Bed 1 Bath#242LIB#$1049#794 sqft#1 Bed#1 Bath#&Today#
+80%#The Landing#1 Bed 1 Bath#272LIB#$1049#794 sqft#1 Bed#1 Bath#&Today#
+80%#The Landing#1 Bed 1 Bath#222LIB#$1049#794 sqft#1 Bed#1 Bath#&Jul 10#
+80%#The Landing#2 Bed 2 Bath#223MON#$1349#1036 sqft#2 Beds#2 Bath#&Today#
+80%#The Landing#2 Bed 2 Bath#307WIL#$1349#1036 sqft#2 Beds#2 Bath#&Today#
+80%#The Landing#2 Bed 2 Bath#315WIL#$1499#1036 sqft#2 Beds#2 Bath#&Today#
+80%#The Landing#2 Bed 2 Bath#233MON#$999#1036 sqft#2 Beds#2 Bath#&Today#
+80%#The Landing#2 Bed 2 Bath#207MON#$1324#1065 sqft#2 Beds#2 Bath#&Today#
+80%#The Landing#2 Bed 2 Bath#1-904#$1399#1065 sqft#2 Beds#2 Bath#&Today#
+80%#The Landing#2 Bed 2 Bath#225MON#$1299#1065 sqft#2 Beds#2 Bath#&Apr 10#
+80%#The Landing#2 Bed 2 Bath#1-102#$1199#1065 sqft#2 Beds#2 Bath#&May 10#
+80%#The Landing#2 Bed 2 Bath#1-604#$1199#1065 sqft#2 Beds#2 Bath#&Jun 12#
+80%#The Landing#2 Bed 2 Bath#306LAW#$1299#1070 sqft#2 Beds#2 Bath#&Today#
+80%#The Landing#2 Bed 2 Bath#307MON#$1299#1070 sqft#2 Beds#2 Bath#&Today#
+80%#The Landing#2 Bed 2 Bath#325MON#$1299#1070 sqft#2 Beds#2 Bath#&Today#
+80%#The Landing#2 Bed 2 Bath#319MON#$999#1070 sqft#2 Beds#2 Bath#&Today#
+80%#The Landing#2 Bed 2.5 Bath#305MON#$1399#1062 sqft#2 Beds#2.5 Bath#&Today#
+80%#The Landing#2 Bed 2.5 Bath#308LAW#$1399#1062 sqft#2 Beds#2.5 Bath#&Today#
+80%#The Landing#2 Bed 2.5 Bath#311MON#$1399#1062 sqft#2 Beds#2.5 Bath#&Today#
+80%#The Landing#2 Bed 2.5 Bath#314LAW#$1399#1062 sqft#2 Beds#2.5 Bath#&Today#
+80%#The Landing#2 Bed 2.5 Bath#317MON#$1399#1062 sqft#2 Beds#2.5 Bath#&Today#
+80%#The Landing#1 Bed 1 Bath#1-206#$1699#1101 sqft#1 Bed#1 Bath#&Apr 09#
+80%#The Landing#1 Bed 1 Bath#1-307#$999#794 sqft#1 Bed#1 Bath#&Apr 10#
+80%#The Landing#3 Bed 2 Bath#1-101#$2499#1079 sqft#3 Beds#2 Bath#&May 10#
+80%#The Landing#2 Bed 2 Bath#1-109#$1999#1060 sqft#2 Beds#2 Bath#&May 14#
+80%#The Landing#1 Bed 1 Bath#1-402#$975#750 sqft#1 Bed#1 Bath#&Jun 12#
+80%#The Landing#1 Bed 1 Bath#1-1102#$999#750 sqft#1 Bed#1 Bath#&Jun 12#
+80%#The Landing#2 Bed 2.5 Bath#219LIB#$1200#1506 sqft#2 Beds#2.5 Bath#&Jul 10#
+80%#The Landing#2 Bed 2 Bath#2 Beds#2 Bath#$1,165#1200+ sqft#&Contact#
+80%#The Landing#2 Bed 2.5 Bath#2 Beds#2.5 Bath#$1,415#1762+ sqft#&Contact#
+80%#The Landing#3 Bed 2.5 Bath#3 Beds#2.5 Bath#$1,485#2005+ sqft#&Contact#
+70%#Yorktown Colony#Hawthorne#2 Beds#1.5 Bath#$790#1062+ sqft#&1 Available#
+70%#Yorktown Colony#Huntington#2 Beds#1.5 Bath#$805#1089+ sqft#&1 Available#
+70%#Yorktown Colony#Remington#3 Beds#1.5 Bath#$930#1253+ sqft#&3 Available#
+70%#Yorktown Colony#Waverly#3 Beds#1.5 Bath#$960#1285+ sqft#&4 Available#
+70%#Yorktown Colony#Wentworth#3 Beds#1.5 Bath#$920–$1,015#1350+ sqft#&1 Available#
+70%#Yorktown Colony#Worthington#4 Beds#2 Bath#$1,075#1350+ sqft#&3 Available#
+70%#Yorktown Colony#Dorchester#2 Beds#2 Bath#$755–$785#922+ sqft#&May 11#
+70%#Yorktown Colony#Buchanan#1 Bed#1 Bath#$599#576+ sqft#&Jun 11#
+70%#Yorktown Colony#Cambridge#1 Bed#1 Bath#$625#635+ sqft#&Jun 12#
+70%#Yorktown Colony#Hanover#2 Beds#1.5 Bath#$735–$765#1037+ sqft#&Jun 13#
+70%#Yorktown Colony#Wellington#3 Beds#2 Bath#$890#1285+ sqft#&Jun 13#
+70%#Yorktown Colony#Bancroft#Studio#1 Bath#$535#486+ sqft#&Jul 06#
+70%#Yorktown Colony#Charleston#2 Beds#1 Bath#$709#864+ sqft#&Jul 11#
+70%#Yorktown Colony#Fairmont#2 Beds#2 Bath#$765#956+ sqft#&Jul 12#
+70%#Yorktown Colony#McKinley#2 Beds#1.5 Bath#$790–$875#1173+ sqft#&Jul 18#
+60%#Georgetown Of Kettering#Fairfax#1 Bed#1 Bath#From $675#750+ sqft#&Contact#
+60%#Georgetown Of Kettering#Franklin#1 Bed#1 Bath#From $675#750+ sqft#&Contact#
+60%#Georgetown Of Kettering#Emerson#1 Bed#1 Bath#From $720#800+ sqft#&Contact#
+60%#Georgetown Of Kettering#Hawthorne#1 Bed#1 Bath#From $792#950+ sqft#&Contact#
+60%#Georgetown Of Kettering#Smithville#1 Bed#1.5 Bath#$792–$815#900+ sqft#&Contact#
+60%#Georgetown Of Kettering#Webster#2 Beds#1 Bath#From $800#950+ sqft#&Contact#
+60%#Georgetown Of Kettering#Essex#2 Beds#1 Bath#From $820#950+ sqft#&Contact#
+60%#Georgetown Of Kettering#Williamsburg#2 Beds#1.5 Bath#$848–$949#1050+ sqft#&Contact#
+60%#Georgetown Of Kettering#Monticello#2 Beds#1.5 Bath#From $999#1225+ sqft#&Contact#
+60%#Georgetown Of Kettering#Columbia#2 Beds#2 Bath#From $924#1225+ sqft#&Contact#
+60%#Georgetown Of Kettering#Astor#2 Beds#2 Bath#From $999#1225+ sqft#&Contact#
+60%#Georgetown Of Kettering#Danbury#2 Beds#2 Bath#From $999#1281+ sqft#&Contact#
+60%#Georgetown Of Kettering#Addison#3 Beds#1.5 Bath#$1,045–$1,180#1300+ sqft#&Contact#
+60%#Georgetown Of Kettering#Princeton#3 Beds#2.5 Bath#From $1,025#1100+ sqft#&Contact#
+60%#Georgetown Of Kettering#Hampton#3 Beds#2.5 Bath#From $1,200#1500+ sqft#&Contact#
+60%#Georgetown Of Kettering#Granville#3 Beds#3 Bath#From $1,299#1300+ sqft#&Contact#
+90%#Fieldstone#The Orchid I#685H#$1099#1046 sqft#2 Beds#2 Bath#&May 07#
+90%#Fieldstone#The Aster I#1 Bed#1 Bath#$789#597+ sqft#&Contact#
+90%#Fieldstone#The Aster II#1 Bed#1 Bath#$799#604+ sqft#&Contact#
+90%#Fieldstone#The Aster III#1 Bed#1 Bath#$809#666+ sqft#&Contact#
+90%#Fieldstone#The Aster IV#1 Bed#1 Bath#$1,658#674+ sqft#&Contact#
+90%#Fieldstone#The Lilac#1 Bed#1 Bath#$839#677+ sqft#&Contact#
+90%#Fieldstone#The Lilac I#1 Bed#1 Bath#$879#707+ sqft#&Contact#
+90%#Fieldstone#The Lilac II#1 Bed#1 Bath#$949#757+ sqft#&Contact#
+90%#Fieldstone#The Clover II#2 Beds#2 Bath#$969#974+ sqft#&Contact#
+90%#Fieldstone#The Clover III#2 Beds#2 Bath#$979#1037+ sqft#&Contact#
+90%#Fieldstone#The Clover IV#2 Beds#2 Bath#$999#1068+ sqft#&Contact#
+90%#Fieldstone#The Orchid II#2 Beds#2 Bath#$1,149#1117+ sqft#&Contact#
+90%#Fieldstone#The Heather#3 Beds#2 Bath#$1,239–$1,320#1198+ sqft#&Contact#
+100#Water Street Apartments#Orville#525-301#$1915#1256 sqft#3 Beds#2 Bath#&Today#
+100#Water Street Apartments#Orville#541-106#$1865#1256 sqft#3 Beds#2 Bath#&May 15#
+100#Water Street Apartments#Orville#525-201#$2068#1256 sqft#3 Beds#2 Bath#&Jun 12#
+100#Water Street Apartments#Jackson#1 Bed#1 Bath#$880–$954#533+ sqft#&Contact#
+100#Water Street Apartments#Greene#1 Bed#1 Bath#$980#658+ sqft#&Contact#
+100#Water Street Apartments#Armstrong#1 Bed#1 Bath#$1,030–$1,084#694+ sqft#&Contact#
+100#Water Street Apartments#Carter#1 Bed#1 Bath#$1,030–$1,084#699+ sqft#&Contact#
+100#Water Street Apartments#Wilber#1 Bed#1 Bath#$1,254–$1,354#804+ sqft#&Contact#
+100#Water Street Apartments#Bombeck#1 Bed#1 Bath#$1,120–$1,254#811+ sqft#&Contact#
+100#Water Street Apartments#Oakley#1 Bed#1 Bath#$1,330#827+ sqft#&Contact#
+100#Water Street Apartments#Hamilton#1 Bed#1 Bath#$1,145#876+ sqft#&Contact#
+100#Water Street Apartments#Fisher#1 Bed#1 Bath#$1,280–$1,389#950+ sqft#&Contact#
+100#Water Street Apartments#Schmidt#2 Beds#2 Bath#$1,295#923+ sqft#&Contact#
+100#Water Street Apartments#Stanton#2 Beds#2 Bath#$1,315#952+ sqft#&Contact#
+100#Water Street Apartments#Milton#2 Beds#2 Bath#$1,574–$1,674#1011+ sqft#&Contact#
+100#Water Street Apartments#Parson#2 Beds#2 Bath#$1,500#1040+ sqft#&Contact#
+100#Water Street Apartments#Sherman#2 Beds#2 Bath#$1,350–$1,374#1052+ sqft#&Contact#
+100#Water Street Apartments#Patterson#2 Beds#2 Bath#$1,475–$1,590#1156+ sqft#&Contact#
+100#Water Street Apartments#Sinclair#2 Beds#2 Bath#$1,545–$1,674#1165+ sqft#&Contact#
+100#Water Street Apartments#Webster#2 Beds#2 Bath#$1,740–$1,840#1200+ sqft#&Contact#
+100#Water Street Apartments#Woodward I#2 Beds#2 Bath#$1,874–$1,950#1242+ sqft#&Contact#
+100#Water Street Apartments#Wright#2 Beds#2 Bath#$1,825#1271+ sqft#&Contact#
+100#Water Street Apartments#Woodward II#2 Beds#2 Bath#$1,874#1305+ sqft#&Contact#
+60%#Oakwood Apartments#Apartment#2 Beds#2 Bath#$745–$765#1000+ sqft#&3 Available#
+NA#The Voyageur Apartments#One Bedroom#1755A#$664#700 sqft#1 Bed#1 Bath#&Today#
+NA#The Voyageur Apartments#One Bedroom#1756C#$664#700 sqft#1 Bed#1 Bath#&Today#
+NA#The Voyageur Apartments#One Bedroom#820D#$664#700 sqft#1 Bed#1 Bath#&Today#
+NA#The Voyageur Apartments#Two Bedroom Townhome#831#$783#1000 sqft#2 Beds#1.5 Bath#&Today#
+NA#The Voyageur Apartments#Two Bedroom Townhome#846#$783#1000 sqft#2 Beds#1.5 Bath#&Today#
+NA#The Voyageur Apartments#Two Bedroom Townhome#919#$783#1000 sqft#2 Beds#1.5 Bath#&Today#
+NA#The Voyageur Apartments#Two Bedroom Townhome - Platinum#836#$825#1000 sqft#2 Beds#1.5 Bath#&Today#
+NA#The Voyageur Apartments#Two Bedroom Townhome - Platinum#937#$825#1000 sqft#2 Beds#1.5 Bath#&Today#
+NA#The Voyageur Apartments#Three Bedroom Townhome#1810#$894#1200 sqft#3 Beds#2 Bath#&Today#
+NA#The Voyageur Apartments#Three Bedroom Townhome#1833#$894#1200 sqft#3 Beds#2 Bath#&Today#
+NA#The Voyageur Apartments#Three Bedroom Townhome#1806#$894#1200 sqft#3 Beds#2 Bath#&Apr 30#
+NA#The Voyageur Apartments#One Bedroom - Platinum#1 Bed#1 Bath#$715#700+ sqft#&Contact#
+NA#The Voyageur Apartments#Three Bedroom Townhome - Platinum#3 Beds#2 Bath#$975#1200+ sqft#&Contact#
+90%#St. Clair Lofts#Carillon#1 Bed#1 Bath#$775#492+ sqft#&Contact#
+90%#St. Clair Lofts#Patterson#1 Bed#1 Bath#$799–$840#604+ sqft#&Contact#
+90%#St. Clair Lofts#Small Merchant#1 Bed#1 Bath#$839#667+ sqft#&Contact#
+90%#St. Clair Lofts#Large Merchant#1 Bed#1 Bath#$910#755+ sqft#&Contact#
+90%#St. Clair Lofts#Delco#2 Beds#2 Bath#$905–$945#875+ sqft#&Contact#
+90%#St. Clair Lofts#Buckeye#2 Beds#2 Bath#$975–$990#995+ sqft#&Contact#
+90%#St. Clair Lofts#Kettering#2 Beds#2 Bath#$975–$1,050#1002+ sqft#&Contact#
+90%#St. Clair Lofts#St. Clair#2 Beds#2 Bath#$1,195–$1,210#1225+ sqft#&Contact#
+80%#The Promenade At Beavercreek#The Lilac#1 Bed#1 Bath#$915–$965#763+ sqft#&Contact#
+80%#The Promenade At Beavercreek#The Tulip#1 Bed#1 Bath#$940–$965#802+ sqft#&Contact#
+80%#The Promenade At Beavercreek#The Tulip II#1 Bed#1 Bath#$1,090–$1,115#872+ sqft#&Contact#
+80%#The Promenade At Beavercreek#The Aspen#1 Bed#1 Bath#$1,025–$1,075#1008+ sqft#&Contact#
+80%#The Promenade At Beavercreek#The Tulip III#1 Bed#1 Bath#$1,050–$1,075#1050+ sqft#&Contact#
+80%#The Promenade At Beavercreek#The Tulip III#1 Bed#1 Bath#$1,050–$1,075#1102+ sqft#&Contact#
+80%#The Promenade At Beavercreek#The Cypress#2 Beds#2 Bath#$1,115–$1,165#1050+ sqft#&Contact#
+80%#The Promenade At Beavercreek#The Sycamore#2 Beds#2 Bath#$1,140–$1,165#1102+ sqft#&Contact#
+80%#The Promenade At Beavercreek#The Sycamore II#2 Beds#2 Bath#$1,315–$1,340#1149+ sqft#&Contact#
+80%#The Promenade At Beavercreek#The Sycamore III#2 Beds#2 Bath#$1,275–$1,300#1299+ sqft#&Contact#
+80%#The Promenade At Beavercreek#The Poplar#2 Beds#2 Bath#$1,250–$1,300#1308+ sqft#&Contact#
+80%#The Promenade At Beavercreek#The Sycamore III#2 Beds#2 Bath#$1,275–$1,300#1350+ sqft#&Contact#
+90%#Mallard Landing#Bluewing#23162#$1065#1000 sqft#2 Beds#2 Bath#&May 24#
+90%#Mallard Landing#Bluewing#22701#$1065#1000 sqft#2 Beds#2 Bath#&Jun 07#
+90%#Mallard Landing#Mandarin#3 Beds#2.5 Bath#Please Call#1400+ sqft#&Contact#
+80%#Villas Of Kettering#Duplex#2 Beds#1 Bath#$640#750+ sqft#&Contact#
+80%#Villas Of Kettering#Upper#2 Beds#1 Bath#$550–$575#800+ sqft#&Contact#
+80%#Villas Of Kettering#Lower#2 Beds#1 Bath#$610–$625#800+ sqft#&Contact#
+80%#Villas Of Kettering#Houses#3 Beds#1 Bath#$795–$840#1100+ sqft#&Contact#
+20%#Stillwater Landing#Ranch-style apartment#Studio#1 Bath#$389–$449#288+ sqft#&1 Available#
+20%#Stillwater Landing#Ranch-style apartment#1 Bed#1 Bath#$429–$714#576+ sqft#&1 Available#
+20%#Stillwater Landing#Ranch-style apartment#2 Beds#2 Bath#$750–$825#864+ sqft#&1 Available#
+20%#Stillwater Landing#Ranch-style apartment#2 Beds#1 Bath#$724–$856#864+ sqft#&Contact#
+80%#Chatham Village#The Farmington#2 Beds#1 Bath#$675–$775#822+ sqft#&1 Available#
+80%#Chatham Village#The Dover#2 Beds#1.5 Bath#$875–$990#1151+ sqft#&1 Available#
+80%#Chatham Village#Dover Deluxe#2 Beds#2.5 Bath#$895–$1,050#1151+ sqft#&4 Available#
+80%#Chatham Village#Breckenridge#1 Bed#1 Bath#$610–$630#650+ sqft#&Contact#
+80%#Chatham Village#Adams#2 Beds#2 Bath#$770–$790#990+ sqft#&Contact#
+80%#Chatham Village#The Concord#3 Beds#2 Bath#$990–$1,150#1257+ sqft#&Contact#
+80%#Chatham Village#Easton#3 Beds#2.5 Bath#$995–$1,270#1305+ sqft#&Contact#
+NA#The Riverstone#Renovated 1 Bedroom#1 Bed#1 Bath#$699#660+ sqft#&3 Available#
+NA#The Riverstone#1 Bedroom#1 Bed#1 Bath#$625#660+ sqft#&Contact#
+100#Delco Lofts#Kettering#310#$1029#699 sqft#1 Bed#1 Bath#&Today#
+100#Delco Lofts#Deeds#425#$1134#886 sqft#1 Bed#1 Bath#&Jun 11#
+100#Delco Lofts#Talbott#609#$1806#965 sqft#1 Bed#1 Bath#&Jun 15#
+100#Delco Lofts#Wilson#Studio#1 Bath#$896–$966#548+ sqft#&Contact#
+100#Delco Lofts#Remy#Studio#1 Bath#$921–$1,051#568+ sqft#&Contact#
+100#Delco Lofts#Dillon#1 Bed#1 Bath#$1,066–$1,146#705+ sqft#&Contact#
+100#Delco Lofts#Atwood#1 Bed#1 Bath#$1,146–$1,332#807+ sqft#&Contact#
+100#Delco Lofts#Hughes#1 Bed#1 Bath#$1,144–$1,541#818+ sqft#&Contact#
+100#Delco Lofts#Mandalay#2 Beds#2 Bath#$1,548–$1,628#1230+ sqft#&Contact#
+100#Delco Lofts#Rockford#2 Beds#2 Bath#$1,528–$1,878#1252+ sqft#&Contact#
+100#Delco Lofts#Marinelli#2 Beds#2 Bath#$1,678–$1,928#1276+ sqft#&Contact#
+100#Delco Lofts#Shelby#2 Beds#2 Bath#$1,784–$2,053#1352+ sqft#&Contact#
+100#Delco Lofts#Wood#2 Beds#2 Bath#$2,227–$2,377#1665+ sqft#&Contact#
+70%#Gateway at The Greene#Apartment#1 Bed#1 Bath#$880–$1,000#515+ sqft#&2 Available#
+70%#Gateway at The Greene#Apartment#2 Beds#1 Bath#$980–$1,100#751+ sqft#&2 Available#
+60%#Eagle Ridge#Flat#1 Bed#1 Bath#$649–$699#570+ sqft#&Contact#
+60%#Eagle Ridge#Townhouse#2 Beds#1 Bath#$699–$799#840+ sqft#&Contact#
+60%#Eagle Ridge#Townhouse#2 Beds#1 Bath#$775–$849#1250+ sqft#&Contact#
+60%#Eagle Ridge#Townhouse#2 Beds#1.5 Bath#$775–$849#935+ sqft#&Contact#
+60%#Eagle Ridge#Townhouse#2 Beds#2.5 Bath#$829–$899#1039+ sqft#&Contact#
+80%#The Commons at Kettering#One Bedroom#1 Bed#1 Bath#$659–$679#650+ sqft#&Contact#
+80%#The Commons at Kettering#Two Bedroom#2 Beds#1 Bath#$759–$800#900+ sqft#&Contact#
+80%#The Commons at Kettering#Three Bedroom#3 Beds#1.5 Bath#$879–$900#1090+ sqft#&Contact#
+NA#Walden Village#Apartment#1 Bed#1 Bath#$830–$850#767+ sqft#&1 Available#
+NA#Walden Village#Apartment#2 Beds#2 Bath#$870#908+ sqft#&2 Available#
+NA#Walden Village#Apartment#2 Beds#2 Bath#$900#978+ sqft#&2 Available#
+NA#Walden Village#Apartment#2 Beds#2 Bath#$950–$975#1000+ sqft#&1 Available#
+NA#Walden Village#Apartment#2 Beds#2 Bath#$990–$1,010#1094+ sqft#&1 Available#
+NA#Walden Village#Apartment#1 Bed#1 Bath#$800–$805#667+ sqft#&Contact#
+NA#Walden Village#Apartment#2 Beds#2 Bath#$950–$1,035#1000+ sqft#&Contact#
+NA#Walden Village#Apartment#2 Beds#2 Bath#$925–$960#1025+ sqft#&Contact#
+NA#Walden Village#Townhome#3 Beds#2 Bath#$1,125#1280+ sqft#&Contact#
+80%#Salem Woods#1 BED 1 BATH#1 Bed#1 Bath#$500#662+ sqft#&Contact#
+80%#Salem Woods#1 BED 1 BATH#1 Bed#1 Bath#$510#700+ sqft#&Contact#
+80%#Salem Woods#2 BED 1.5 BATH#2 Beds#1.5 Bath#$575#889+ sqft#&Contact#
+80%#Salem Woods#2 BED 1.5 BATH TOWNHOUSE#2 Beds#1.5 Bath#$645#989+ sqft#&Contact#
+80%#Salem Woods#2 BED 1.5 BATH#2 Beds#1.5 Bath#$575#1013+ sqft#&Contact#
+80%#Salem Woods#3 BEDROOM TOWNHOUSE#3 Beds#1.5 Bath#$690#1059+ sqft#&Contact#
+30%#Windsor Terrace#Townhome#1 Bed#1.5 Bath#$650#750+ sqft#&Contact#
+30%#Windsor Terrace#Townhome#2 Beds#1.5 Bath#$775#1040+ sqft#&Contact#
+30%#Windsor Terrace#Townhome#3 Beds#1.5 Bath#$825#1105+ sqft#&Contact#
+30%#Windsor Terrace#Townhome#3 Beds#1.5 Bath#$875#1170+ sqft#&Contact#
+40%#Flyer Pointe#1 Bedroom - Medium#818-05#$539#525 sqft#1 Bed#1 Bath#&Today#
+40%#Flyer Pointe#1 Bedroom - Large#819-10#$559#630 sqft#1 Bed#1 Bath#&Today#
+40%#Flyer Pointe#1 Bedroom - Large#819-16#$559#630 sqft#1 Bed#1 Bath#&Today#
+40%#Flyer Pointe#1 Bedroom - Large#819-09#$589#630 sqft#1 Bed#1 Bath#&Apr 10#
+40%#Flyer Pointe#Studio#Studio#1 Bath#$429#240+ sqft#&Contact#
+40%#Flyer Pointe#1 Bedroom - Small#1 Bed#1 Bath#$519#430+ sqft#&Contact#
+80%#Bridges of Pine Creek#Balsam#1 Bed#1 Bath#Please Call#760+ sqft#&Contact#
+80%#Bridges of Pine Creek#Frasier#2 Beds#1.5 Bath#Please Call#1190+ sqft#&Contact#
+80%#Bridges of Pine Creek#Cyprus#2 Beds#2 Bath#$599–$619#870+ sqft#&Contact#
+80%#Lofts At Willow Creek#Attico#1 Bed#1 Bath#$865–$950#676+ sqft#&Contact#
+80%#Lofts At Willow Creek#Attico2#1 Bed#1 Bath#$979–$994#698+ sqft#&Contact#
+80%#Lofts At Willow Creek#Aventura#1 Bed#1 Bath#$995#812+ sqft#&Contact#
+80%#Lofts At Willow Creek#Estilo2#1 Bed#1 Bath#$1,059–$1,074#835+ sqft#&Contact#
+80%#Lofts At Willow Creek#Estilo#1 Bed#1 Bath#$965–$1,030#841+ sqft#&Contact#
+80%#Lofts At Willow Creek#Mezzanine#1 Bed#1 Bath#$1,025#930+ sqft#&Contact#
+80%#Lofts At Willow Creek#Freistatte#2 Beds#2 Bath#$1,125#1062+ sqft#&Contact#
+80%#Lofts At Willow Creek#Pajar#2 Beds#2 Bath#$1,155–$1,220#1125+ sqft#&Contact#
+80%#Lofts At Willow Creek#Rifugio#2 Beds#2 Bath#$1,165–$1,230#1175+ sqft#&Contact#
+80%#Lofts At Willow Creek#Rifugio2#2 Beds#2 Bath#$1,329–$1,344#1208+ sqft#&Contact#
+80%#Lofts At Willow Creek#Oase2#2 Beds#2 Bath#$1,349–$1,364#1232+ sqft#&Contact#
+80%#Lofts At Willow Creek#Oase#2 Beds#2 Bath#$1,255#1238+ sqft#&Contact#
+80%#Lofts At Willow Creek#Rofuto#2 Beds#2 Bath#$1,195–$1,260#1242+ sqft#&Contact#
+80%#Lofts At Willow Creek#Rofuto2#2 Beds#2 Bath#$1,399–$1,414#1266+ sqft#&Contact#
+80%#Lofts At Willow Creek#Sostanza#2 Beds#2 Bath#$1,475#1374+ sqft#&Contact#
+80%#Lofts At Willow Creek#Unico#2 Beds#2 Bath#$1,495–$1,510#1443+ sqft#&Contact#
+100#Village At Cloud Park#Apartment#1 Bed#1 Bath#From $720#775+ sqft#&Contact#
+100#Village At Cloud Park#Garden#2 Beds#2 Bath#$770–$815#965+ sqft#&Contact#
+100#The Cannery Lofts#Three Bedroom , Three Bath#532#$1680+#1395 sqft#3 Beds#3 Bath#&Today#
+100#The Cannery Lofts#Three Bedroom , Three Bath#239#$2245+#1865 sqft#3 Beds#3 Bath#&Today#
+100#The Cannery Lofts#Three Bedroom , Three Bath#534#$1680+#1395 sqft#3 Beds#3 Bath#&Jun 10#
+100#The Cannery Lofts#Two Bedroom , Two Bath#438#$1520+#1140 sqft#2 Beds#2 Bath#&May 11#
+100#The Cannery Lofts#Two Bedroom , Two Bath#233#$1655+#1180 sqft#2 Beds#2 Bath#&May 22#
+100#The Cannery Lofts#Two Bedroom , Two Bath#437#$1380+#960 sqft#2 Beds#2 Bath#&May 26#
+100#The Cannery Lofts#Studio/One Bedroom , One Bath#601#$970+#535 sqft#1 Bed#1 Bath#&Jun 26#
+70%#Rivers Edge#Cuyahoga#4333-H2#$599#648 sqft#1 Bed#1 Bath#&Today#
+70%#Rivers Edge#Cuyahoga#4357-B2#$599#648 sqft#1 Bed#1 Bath#&Today#
+70%#Rivers Edge#Cuyahoga#4343-D2#$579#648 sqft#1 Bed#1 Bath#&May 05#
+70%#Rivers Edge#Kokosing#4335-J2#$629#750 sqft#2 Beds#1 Bath#&Today#
+70%#Rivers Edge#Kokosing#4335-S2#$659#750 sqft#2 Beds#1 Bath#&Today#
+70%#Rivers Edge#Kokosing#4335-K1#$679#750 sqft#2 Beds#1 Bath#&Today#
+70%#Rivers Edge#Muskingum#4322-I2#$699#889 sqft#2 Beds#1 Bath#&Today#
+70%#Rivers Edge#Muskingum#4365-H1#$699#889 sqft#2 Beds#1 Bath#&Apr 15#
+70%#Rivers Edge#Muskingum#4383-M1#$709#889 sqft#2 Beds#1 Bath#&May 31#
+70%#Rivers Edge#Muskingum#2 Beds#1 Bath#$699–$769#889+ sqft#&3 Available#
+70%#Rivers Edge#Ohio#2 Beds#1 Bath#$699–$799#950+ sqft#&3 Available#
+70%#Rivers Edge#Stillwater#0539-I#$809#961 sqft#2 Beds#1 Bath#&Today#
+70%#Rivers Edge#Stillwater#0560-R#$809#961 sqft#2 Beds#1 Bath#&Today#
+70%#Rivers Edge#Stillwater#4310-J#$709#950 sqft#2 Beds#1 Bath#&May 25#
+70%#Rivers Edge#Mohican#2 Beds#1.5 Bath#$719–$769#870+ sqft#&3 Available#
+70%#Rivers Edge#Mohican#0510-B#$719#870 sqft#2 Beds#1.5 Bath#&Today#
+70%#Rivers Edge#Mohican#0510-D#$719#870 sqft#2 Beds#1.5 Bath#&Today#
+70%#Rivers Edge#Mohican#4330-B#$719#870 sqft#2 Beds#1.5 Bath#&Today#
+70%#Rivers Edge#Scioto#4300-B#$779#950 sqft#2 Beds#1.5 Bath#&Today#
+70%#Rivers Edge#Scioto#4310-A#$779#950 sqft#2 Beds#1.5 Bath#&Today#
+70%#Rivers Edge#Scioto#4310-E#$779#950 sqft#2 Beds#1.5 Bath#&Today#
+70%#Rivers Edge#Wabash I#3 Beds#1.5 Bath#$849–$859#1024+ sqft#&3 Available#
+70%#Rivers Edge#Wabash I#4370-B2#$879#1024 sqft#3 Beds#1.5 Bath#&Today#
+70%#Rivers Edge#Miami#4309-B1#$639#684 sqft#1 Bed#1 Bath#&Apr 25#
+70%#Rivers Edge#Hocking#4492-G1#$579#648 sqft#1 Bed#1 Bath#&May 05#
+70%#Rivers Edge#Hocking#4492-E1#$579#648 sqft#1 Bed#1 Bath#&May 07#
+70%#Rivers Edge#Hocking#4492-E2#$599#648 sqft#1 Bed#1 Bath#&May 25#
+70%#Rivers Edge#Maumee#4357-A1#$629#648 sqft#1 Bed#1 Bath#&May 25#
+70%#Rivers Edge#Stillwater - One Bedroom Deluxe#1 Bed#1 Bath#$659#992+ sqft#&Contact#
+70%#Rivers Edge#Vermilion Townhome#2 Beds#1.5 Bath#$930#1400+ sqft#&Contact#
+70%#Rivers Edge#Wabash II#3 Beds#2 Bath#$899#1224+ sqft#&Contact#
+70%#Rivers Edge#Cedar Townhome#3 Beds#2.5 Bath#$899#1096+ sqft#&Contact#
+NA#Camellia Court#Studio#Studio#1 Bath#$509#288+ sqft#&Contact#
+NA#Camellia Court#Ranch-style apartment#1 Bed#1 Bath#$624–$839#576+ sqft#&Contact#
+NA#Camellia Court#Ranch-style apartment#2 Beds#1 Bath#$789–$809#864+ sqft#&Contact#
+NA#Camellia Court#Ranch-style apartment#2 Beds#2 Bath#Please Call#864+ sqft#&Contact#
+NA#Dayton Towers#Efficiency 535sf#Studio#1 Bath#$720–$965#535+ sqft#&2 Available#
+NA#Dayton Towers#Studio 590sf#Studio#1 Bath#$724–$904#590+ sqft#&2 Available#
+NA#Dayton Towers#1 Bedroom 1 Bath  740sf#1 Bed#1 Bath#$859–$1,024#740+ sqft#&1 Available#
+NA#Dayton Towers#1 Bedroom 1 Bath 825sf#1 Bed#1 Bath#$894–$1,249#825+ sqft#&2 Available#
+NA#Dayton Towers#1 Bedroom  1 Bath#1 Bed#1 Bath#$1,004–$1,254#860+ sqft#&1 Available#
+NA#Dayton Towers#2 Bedroom  2 Bath  1075sf#2 Beds#2 Bath#$1,005–$1,140#1075+ sqft#&1 Available#
+NA#Dayton Towers#2 Bedroom  2 Bath 1150 sf#2 Beds#2 Bath#$1,095–$1,280#1150+ sqft#&2 Available#
+NA#Dayton Towers#2 Bedroom  2 Bath 1170 sf#2 Beds#2 Bath#Please Call#1170+ sqft#&Contact#
+80%#Pine Run Townhomes#Townhome#2 Beds#1.5 Bath#$751–$761#1000+ sqft#&Contact#
+NA#Windsor Place#Augustine#2 Beds#1 Bath#$730–$740#851+ sqft#&2 Available#
+NA#Windsor Place#Camden#3 Beds#1 Bath#$820–$850#1001+ sqft#&2 Available#
+60%#Preserve at Sagebrook#One Bedroom One Bath#1 Bed#1 Bath#$767–$865#780+ sqft#&2 Available#
+60%#Preserve at Sagebrook#Two Bedroom Two Bath#2 Beds#2 Bath#$871–$974#1037+ sqft#&2 Available#
+60%#Preserve at Sagebrook#Three Bedroom Two Bath#3 Beds#2 Bath#$984–$1,087#1175+ sqft#&1 Available#
+100#Wexford On The Green#Eagles Nest#1 Bed#1 Bath#$785–$795#705+ sqft#&Contact#
+100#Wexford On The Green#Fairway Green#1 Bed#1 Bath#$810–$830#737+ sqft#&Contact#
+100#Wexford On The Green#The Links#2 Beds#1 Bath#$895–$910#937+ sqft#&Contact#
+100#Wexford On The Green#St Andrews#2 Beds#2 Bath#$950–$970#1045+ sqft#&Contact#
+100#Wexford On The Green#Augusta#2 Beds#2.5 Bath#From $950#1055+ sqft#&Contact#
+100#The Village on Beavercreek Apartments#Flat#1 Bed#1 Bath#$779–$809#766+ sqft#&Contact#
+100#The Village on Beavercreek Apartments#Flat#2 Beds#1.5 Bath#$874–$924#844+ sqft#&Contact#
+50%#The Village At Stonefalls#Garden#1 Bed#1 Bath#$915#816+ sqft#&Contact#
+50%#The Village At Stonefalls#Garden#1 Bed#1 Bath#$945–$975#974+ sqft#&Contact#
+50%#The Village At Stonefalls#Garden#2 Beds#2 Bath#$1,135–$1,165#1142+ sqft#&Contact#
+50%#The Village At Stonefalls#Townhome#2 Beds#2.5 Bath#$1,160–$1,210#1371+ sqft#&Contact#
+50%#The Village At Stonefalls#Loft#3 Beds#2 Bath#$1,365–$1,415#1478+ sqft#&Contact#
+50%#The Village At Stonefalls#Townhome#3 Beds#2.5 Bath#$1,380–$1,435#1507+ sqft#&Contact#
+NA#Asbury Apartments#Efficiency#Studio#1 Bath#To $638#454+ sqft#&2 Available#
+NA#Asbury Apartments#Apartment#1 Bed#1 Bath#To $733#355+ sqft#&2 Available#
+80%#Riverside Common Apartments#Townhome#2 Beds#1 Bath#$615#820+ sqft#&Contact#
+80%#Riverside Common Apartments#Garden#2 Beds#1 Bath#$590#1020+ sqft#&Contact#
+80%#Riverside Common Apartments#Garden#3 Beds#1 Bath#$715#1023+ sqft#&Contact#
+80%#Riverside Common Apartments#Townhome#3 Beds#1.5 Bath#$690#1029+ sqft#&Contact#
+80%#Stillwater Park Apartments#1 Bedroom Renovated#1 Bed#1 Bath#$580#750+ sqft#&Contact#
+80%#Stillwater Park Apartments#1 Bedroom Standard#1 Bed#1 Bath#$499#750+ sqft#&Contact#
+80%#Stillwater Park Apartments#2 Bedroom Renovated#2 Beds#1 Bath#$680#850+ sqft#&Contact#
+80%#Stillwater Park Apartments#2 Bedroom Standard#2 Beds#1 Bath#$599#850+ sqft#&Contact#
+80%#Stillwater Park Apartments#2 BR Townhome Standard#2 Beds#1.5 Bath#$680#1100+ sqft#&Contact#
+80%#Stillwater Park Apartments#2 BR Townhome Renovated#2 Beds#1.5 Bath#$780#1100+ sqft#&Contact#
+80%#Stillwater Park Apartments#3 BR Townhome Standard#3 Beds#1.5 Bath#$750#1150+ sqft#&Contact#
+70%#Creekside Villas#2 Bedroom#2 Beds#1 Bath#$672#1025+ sqft#&Contact#
+70%#Creekside Villas#3 Bedroom#3 Beds#1 Bath#$730#1130+ sqft#&Contact#
+80%#The Knolls#Apartment#1 Bed#1 Bath#$570#680+ sqft#&Contact#
+80%#The Knolls#Apartment#2 Beds#1.5 Bath#$670#930+ sqft#&Contact#
+80%#The Knolls#Garden#2 Beds#1.5 Bath#$670#980+ sqft#&Contact#
+80%#The Knolls#Apartment#3 Beds#2 Bath#$790#1000+ sqft#&Contact#
+70%#Valerie Woods#Apartment#1 Bed#1 Bath#From $435#580+ sqft#&Contact#
+70%#Valerie Woods#Apartment#1 Bed#1 Bath#From $465#710+ sqft#&Contact#
+70%#Valerie Woods#Townhome#2 Beds#1 Bath#From $555#828+ sqft#&Contact#
+70%#Valerie Woods#Apartment#2 Beds#1 Bath#From $555#828+ sqft#&Contact#
+70%#Valerie Woods#Apartment#2 Beds#1.5 Bath#From $585#955+ sqft#&Contact#
+70%#Valerie Woods#Apartment#2 Beds#1.5 Bath#From $625#1218+ sqft#&Contact#
+70%#Valerie Woods#Apartment#3 Beds#1 Bath#From $675#1071+ sqft#&Contact#
+70%#Valerie Woods#Apartment#3 Beds#1.5 Bath#From $695#1218+ sqft#&Contact#
+NA#Fairfield Lakes#Townhome#2 Beds#1.5 Bath#$1,100#1120+ sqft#&2 Available#
+NA#Fairfield Lakes#Townhome#3 Beds#2.5 Bath#$1,200–$1,499#1360+ sqft#&2 Available#
+70%#Centerville Park#The Ember 675 Sq Ft#S2001A#$669#675 sqft#1 Bed#1 Bath#&Today#
+70%#Centerville Park#The Ember 722 Sq Ft#S2025D#$744#722 sqft#1 Bed#1 Bath#&Today#
+70%#Centerville Park#The Ember 722 Sq Ft#S2037C#$669#722 sqft#1 Bed#1 Bath#&Jun 10#
+70%#Centerville Park#The Chelsea 738 Sq Ft#S2107F#$679#738 sqft#1 Bed#1 Bath#&Today#
+70%#Centerville Park#The Chelsea 738 Sq Ft#S2103E#$679#738 sqft#1 Bed#1 Bath#&May 10#
+70%#Centerville Park#The Chelsea 738 Sq Ft#S2125B#$699#738 sqft#1 Bed#1 Bath#&May 10#
+70%#Centerville Park#The Chelsea 738 Sq Ft#S2227E#$679#738 sqft#1 Bed#1 Bath#&May 31#
+70%#Centerville Park#The Devon 899 Sq Ft#R2064B#$749#899 sqft#2 Beds#1.5 Bath#&Today#
+70%#Centerville Park#The Devon 899 Sq Ft#R2033B#$749#899 sqft#2 Beds#1.5 Bath#&Jun 02#
+70%#Centerville Park#The Chelsea 922 Sq Ft#S2101D#$779#922 sqft#2 Beds#1.5 Bath#&Today#
+70%#Centerville Park#The Chelsea 922 Sq Ft#S2101F#$779#922 sqft#2 Beds#1.5 Bath#&Today#
+70%#Centerville Park#The Chelsea 922 Sq Ft#WT1013C#$779#922 sqft#2 Beds#1.5 Bath#&Today#
+70%#Centerville Park#The Chelsea 922 Sq Ft#S2149B#$799#922 sqft#2 Beds#1.5 Bath#&Today#
+70%#Centerville Park#The Chelsea 922 Sq Ft#S2105A#$799#922 sqft#2 Beds#1.5 Bath#&May 10#
+70%#Centerville Park#The Abbey 985 Sq Ft#KC15#$729#985 sqft#2 Beds#1.5 Bath#&Today#
+70%#Centerville Park#The Abbey 985 Sq Ft#KC17#$729#985 sqft#2 Beds#1.5 Bath#&Today#
+70%#Centerville Park#The Abbey 985 Sq Ft#WW03#$729#985 sqft#2 Beds#1.5 Bath#&Today#
+70%#Centerville Park#The Abbey 985 Sq Ft#WW11#$729#985 sqft#2 Beds#1.5 Bath#&Today#
+70%#Centerville Park#The Abbey 985 Sq Ft#WW19#$729#985 sqft#2 Beds#1.5 Bath#&Today#
+70%#Centerville Park#The Ember 1030 Sq Ft#S2032F#$879#1030 sqft#2 Beds#2 Bath#&Today#
+70%#Centerville Park#The Ember 1030 Sq Ft#S2032A#$954#1030 sqft#2 Beds#2 Bath#&Today#
+70%#Centerville Park#The Ember 1030 Sq Ft#S2000A#$879#1030 sqft#2 Beds#2 Bath#&May 10#
+70%#Centerville Park#The Ember 1030 Sq Ft#S2008B#$879#1030 sqft#2 Beds#2 Bath#&May 31#
+70%#Centerville Park#Chelsea 1100 Sq Ft#S2107E#$879#1100 sqft#2 Beds#2 Bath#&Today#
+70%#Centerville Park#Chelsea 1100 Sq Ft#WT1009F#$879#1100 sqft#2 Beds#2 Bath#&Today#
+70%#Centerville Park#The Ember 734 Sq Ft#S2013D#$669#734 sqft#1 Bed#1 Bath#&Apr 10#
+70%#Centerville Park#The Baron 881 Sq Ft#KW25#$729#881 sqft#1 Bed#1 Bath#&Apr 10#
+70%#Centerville Park#The Baron 1050 Sq Ft#T26#$749#1050 sqft#2 Beds#1.5 Bath#&Apr 10#
+70%#Centerville Park#The Baron 1050 Sq Ft#KW02#$779#1050 sqft#2 Beds#1.5 Bath#&Apr 10#
+70%#Centerville Park#The Baron 1050 Sq Ft#KW01#$779#1050 sqft#2 Beds#1.5 Bath#&Apr 30#
+70%#Centerville Park#The Baron 1050 Sq Ft#I2065#$749#1050 sqft#2 Beds#1.5 Bath#&May 01#
+70%#Centerville Park#The Baron 1050 Sq Ft#I2047#$749#1050 sqft#2 Beds#1.5 Bath#&May 31#
+70%#Centerville Park#The Devon 1050 Sq Ft#S2067#$799#1050 sqft#2 Beds#1.5 Bath#&Apr 10#
+70%#Centerville Park#The Devon 1050 Sq Ft#R2009#$799#1050 sqft#2 Beds#1.5 Bath#&May 10#
+70%#Centerville Park#The Devon 1050 Sq Ft#S2069#$799#1050 sqft#2 Beds#1.5 Bath#&May 31#
+70%#Centerville Park#The Devon 1137 Sq Ft#S2059#$879#1137 sqft#3 Beds#1.5 Bath#&Apr 15#
+70%#Centerville Park#The Devon 638 Sq Ft#R2088A#$649#638 sqft#1 Bed#1 Bath#&May 10#
+70%#Centerville Park#The Devon 682 Sq Ft#R2096D#$659#682 sqft#1 Bed#1 Bath#&May 24#
+70%#Centerville Park#The Baron 1166 Sq Ft#T09#$899#1166 sqft#3 Beds#1.5 Bath#&May 31#
+70%#Centerville Park#The Baron 1166 Sq Ft#T05#$899#1166 sqft#3 Beds#1.5 Bath#&Jun 10#
+70%#Centerville Park#The Baron 1166 Sq Ft#T35#$929#1166 sqft#3 Beds#1.5 Bath#&Jun 30#
+70%#Centerville Park#The Baron 678 Sq Ft#T01E#$649#678 sqft#1 Bed#1 Bath#&Jun 10#
+70%#Centerville Park#The Devon 922 Sq Ft#2 Beds#1.5 Bath#$779#922+ sqft#&Contact#
+100#Cobblegate Apartments#Apartment#2 Beds#1 Bath#$561#850+ sqft#&Contact#
+100#Cobblegate Apartments#Apartment#3 Beds#1 Bath#$636#930+ sqft#&Contact#
+50%#Wayne Estates#Studio#Studio#1 Bath#From $485#288+ sqft#&3 Available#
+50%#Wayne Estates#1 Bedroom#1 Bed#1 Bath#From $590#576+ sqft#&3 Available#
+50%#Wayne Estates#2 Bedroom#2 Beds#1 Bath#From $760#1020+ sqft#&3 Available#
+50%#Wayne Estates#2 Bedroom#2 Beds#1 Bath#$775–$790#1055+ sqft#&4 Available#
+50%#Wayne Estates#2 Bedroom Townhome with Basement#2 Beds#1.5 Bath#From $860#1090+ sqft#&2 Available#
+50%#Wayne Estates#3 Bedroom Townhome#3 Beds#2 Bath#From $905#1540+ sqft#&2 Available#
+50%#Wayne Estates#3 Bedroom Townhome with Basement#3 Beds#2.5 Bath#From $925#1700+ sqft#&2 Available#
+50%#Wayne Estates#2 Bedroom#2 Beds#1 Bath#From $750#864+ sqft#&Contact#
+50%#Woodman Park#Floor Plan C#4822-10#$699#970 sqft#2 Beds#1.5 Bath#&Apr 26#
+50%#Woodman Park#Floor Plan B#4801-14#$634#790 sqft#2 Beds#1 Bath#&May 03#
+50%#Woodman Park#Floor Plan B#4980-01#$629#790 sqft#2 Beds#1 Bath#&May 05#
+50%#Woodman Park#Floor Plan B#4905-09#$634#790 sqft#2 Beds#1 Bath#&May 10#
+50%#Woodman Park#Floor Plan A#4945-10#$564#615 sqft#1 Bed#1 Bath#&May 10#
+50%#Woodman Park#Floor Plan A#4936-04#$544#615 sqft#1 Bed#1 Bath#&May 18#
+50%#Woodman Park#Floor Plan A#4944-05#$564#615 sqft#1 Bed#1 Bath#&May 22#
+50%#Woodman Park#Floor Plan D#4825-12#$799#1145 sqft#3 Beds#1.5 Bath#&May 30#
+NA#Huntley Ridge#Apartment#1 Bed#1 Bath#$575#500+ sqft#&Contact#
+NA#Huntley Ridge#Apartment#2 Beds#1 Bath#$700–$775#600+ sqft#&Contact#
+NA#Huntley Ridge#Townhome#2 Beds#1 Bath#$830–$850#700+ sqft#&Contact#
+20%#Woodland Hills#Garden#1 Bed#1 Bath#$495#662+ sqft#&Contact#
+20%#Woodland Hills#Garden#2 Beds#1 Bath#$525#949+ sqft#&Contact#
+20%#Woodland Hills#Garden#2 Beds#2 Bath#$550#975+ sqft#&Contact#
+20%#Woodland Hills#Garden#3 Beds#2 Bath#$695#1330+ sqft#&Contact#
+20%#Woodland Hills#Garden#4 Beds#2 Bath#$875#1509+ sqft#&Contact#
+NA#Van Buren Village#1 Bedroom#2044L-A#$569#550 sqft#1 Bed#1 Bath#&Today#
+NA#Van Buren Village#1 Bedroom#2057L-B#$569#550 sqft#1 Bed#1 Bath#&Apr 19#
+NA#Van Buren Village#1 Bedroom#1412M-C#$539#550 sqft#1 Bed#1 Bath#&May 10#
+NA#Van Buren Village#2 Bedroom Townhome#1355T#$719#1000 sqft#2 Beds#1 Bath#&Apr 13#
+NA#Van Buren Village#2 Bedroom Townhome#2051R#$719#1000 sqft#2 Beds#1 Bath#&Jul 04#
+NA#Van Buren Village#2 Bedroom#1531M-A#$605#550 sqft#2 Beds#1 Bath#&May 29#
+NA#Van Buren Village#2 Bedroom#2040L-A#$605#550 sqft#2 Beds#1 Bath#&Jun 27#
+NA#The Greene#Apartment#2 Beds#2 Bath#$1,320#1161+ sqft#&1 Available#
+60%#Woodhills#The Chelsea#0166WB#$620#682 sqft#1 Bed#1 Bath#&Today#
+60%#Woodhills#The Chelsea#0430CC#$620#682 sqft#1 Bed#1 Bath#&Apr 20#
+60%#Woodhills#The Chelsea#0372WB#$630#682 sqft#1 Bed#1 Bath#&Apr 23#
+60%#Woodhills#The Sussex#2 Beds#1 Bath#Please Call#840+ sqft#&Contact#
+60%#Woodhills#The Cambridge#2 Beds#1 Bath#Please Call#878+ sqft#&Contact#
+60%#Woodhills#The Berwick#2 Beds#1.5 Bath#Please Call#935+ sqft#&Contact#
+60%#Woodhills#The Normandy#2 Beds#2 Bath#Please Call#918+ sqft#&Contact#
+60%#Woodhills#The Bradford#2 Beds#2 Bath#Please Call#1060+ sqft#&Contact#
+60%#Woodhills#The Princeton#2 Beds#2 Bath#Please Call#1086+ sqft#&Contact#
+60%#Woodhills#The Whitfield#3 Beds#1.5 Bath#Please Call#1239+ sqft#&Contact#
+100#The Wynds#Two Bed One Bath#016#$619#924 sqft#2 Beds#1 Bath#&May 05#
+100#The Wynds#One Bed One Bath#1 Bed#1 Bath#Please Call#624+ sqft#&Contact#
+60%#Executive House#Flat#1 Bed#1 Bath#$610–$700#532+ sqft#&Contact#
+60%#Executive House#Flat#2 Beds#1 Bath#$700–$875#768+ sqft#&Contact#
+NA#Belle Meadows Suites#Flat#1 Bed#1 Bath#$525#720+ sqft#&Contact#
+NA#Belle Meadows Suites#Flat#2 Beds#2 Bath#$650#920+ sqft#&Contact#
+NA#Belle Meadows Suites#Flat#2 Beds#2 Bath#$650–$695#1020+ sqft#&Contact#
+NA#Covey Run#Garden#2 Beds#2 Bath#From $835#910+ sqft#&Contact#
+NA#Covey Run#Apartment#3 Beds#2 Bath#From $950#1129+ sqft#&Contact#
+100#Dovetree Apartments#Flat#1 Bed#1 Bath#$669–$679#683+ sqft#&Contact#
+100#Dovetree Apartments#Flat#2 Beds#1 Bath#$739–$794#850+ sqft#&Contact#
+100#Dovetree Apartments#Flat#2 Beds#2 Bath#$794#942+ sqft#&Contact#
+60%#Ashton Brooke Of Beavercreek#Alberta#1 Bed#1 Bath#$860#795+ sqft#&Contact#
+60%#Ashton Brooke Of Beavercreek#Beaumont#1 Bed#1 Bath#$870#820+ sqft#&Contact#
+60%#Ashton Brooke Of Beavercreek#Chantel#2 Beds#2 Bath#From $964#1049+ sqft#&Contact#
+60%#Ashton Brooke Of Beavercreek#Demont#2 Beds#2 Bath#From $964#1079+ sqft#&Contact#
+60%#Ashton Brooke Of Beavercreek#Marcel#2 Beds#2 Bath#From $1,114#1094+ sqft#&Contact#
+60%#Ashton Brooke Of Beavercreek#Nadine#2 Beds#2 Bath#From $1,124#1104+ sqft#&Contact#
+60%#Ashton Brooke Of Beavercreek#Evaline#2 Beds#2 Bath#From $1,034#1164+ sqft#&Contact#
+60%#Ashton Brooke Of Beavercreek#Fontaine#2 Beds#2 Bath#From $1,044#1187+ sqft#&Contact#
+60%#Ashton Brooke Of Beavercreek#Kristophe#2 Beds#2 Bath#From $1,244#1224+ sqft#&Contact#
+60%#Ashton Brooke Of Beavercreek#Lasalle#2 Beds#2 Bath#From $1,274#1254+ sqft#&Contact#
+60%#Ashton Brooke Of Beavercreek#Apartment#3 Beds#2 Bath#$1,230#1554+ sqft#&Contact#
+60%#Ashton Brooke Of Beavercreek#Gabrielle#3 Beds#3 Bath#$1,354–$1,404#1334+ sqft#&Contact#
+60%#Ashton Brooke Of Beavercreek#Isabelle#3 Beds#3 Bath#From $1,404#1384+ sqft#&Contact#
+60%#Ashton Brooke Of Beavercreek#Juliet#3 Beds#3 Bath#$1,230#1504+ sqft#&Contact#
+70%#Kensington Square#One Bedroom Garden#08-717#$530#751 sqft#1 Bed#1 Bath#&Today#
+70%#Kensington Square#One Bedroom Garden#14-705#$530#751 sqft#1 Bed#1 Bath#&Today#
+70%#Kensington Square#One Bedroom Garden#15-731#$530#751 sqft#1 Bed#1 Bath#&Today#
+70%#Kensington Square#Two Bedroom Garden#06-798#$620#856 sqft#2 Beds#1 Bath#&Today#
+70%#Kensington Square#Two Bedroom Garden#12-753#$620#856 sqft#2 Beds#1 Bath#&Today#
+70%#Kensington Square#Two Bedroom Garden#13-787#$620#856 sqft#2 Beds#1 Bath#&Today#
+70%#Kensington Square#Two Bedroom Townhouse#01-713#$710#1073 sqft#2 Beds#1.5 Bath#&Today#
+70%#Kensington Square#Two Bedroom Townhouse#16-803#$710#1073 sqft#2 Beds#1.5 Bath#&Today#
+70%#Kensington Square#Two Bedroom Townhouse#20-772#$710#1073 sqft#2 Beds#1.5 Bath#&Today#
+70%#Kensington Square#Three Bedroom Townhouse#01-719#$750#1272 sqft#3 Beds#1.5 Bath#&Today#
+70%#Kensington Square#Three Bedroom Townhouse#02-755#$750#1272 sqft#3 Beds#1.5 Bath#&Today#
+70%#Kensington Square#Three Bedroom Townhouse#18-726#$790#1912 sqft#3 Beds#1.5 Bath#&Today#
+100#Stonecreek Apartments#Apartment#2 Beds#1 Bath#$799#850+ sqft#&3 Available#
+100#Stonecreek Apartments#Apartment#3 Beds#1 Bath#$899#950+ sqft#&1 Available#
+80%#Washington Place#Liberty (Upper)#MOT8945#$930#890 sqft#2 Beds#1 Bath#&Today#
+80%#Washington Place#Liberty (Lower)#SAL1742#$1000#890 sqft#2 Beds#1 Bath#&Today#
+80%#Washington Place#Patriot#AME1992#$1120#1040 sqft#2 Beds#1 Bath#&Today#
+80%#Washington Place#Patriot#MOT8910#$1120#1040 sqft#2 Beds#1 Bath#&Today#
+80%#Washington Place#Independence#EVA1940#$740#580 sqft#1 Bed#1 Bath#&Apr 21#
+80%#Washington Place#Presidential#EVA1913#$1460#1490 sqft#3 Beds#2.5 Bath#&May 31#
+80%#Washington Place#Freedom (Patio)#2 Beds#2 Bath#$1,235#1110+ sqft#&Contact#
+80%#Washington Place#Freedom (Balcony)#2 Beds#2 Bath#$1,160#1170+ sqft#&Contact#
+60%#Wilmington Pointe Apartments#1 Bedroom WP North#1 Bed#1 Bath#$545–$565#570+ sqft#&Contact#
+60%#Wilmington Pointe Apartments#1 Bedroom WP South#1 Bed#1 Bath#$585#680+ sqft#&Contact#
+60%#Wilmington Pointe Apartments#2 Bedroom WP South#2 Beds#1 Bath#$630#830+ sqft#&Contact#
+60%#Wilmington Pointe Apartments#2 Bedroom WP#2 Beds#1 Bath#$675–$725#925+ sqft#&Contact#
+60%#Wilmington Pointe Apartments#2 Bedroom WP North#2 Beds#1.5 Bath#$645–$665#875+ sqft#&Contact#
+30%#Sycamore Square#Flat#1 Bed#1 Bath#$610–$630#490+ sqft#&Contact#
+30%#Sycamore Square#Flat#2 Beds#1 Bath#$690–$705#616+ sqft#&Contact#
+30%#Sycamore Square#Townhome#2 Beds#1 Bath#$800–$850#780+ sqft#&Contact#
+NA#Studio W Apartments#Renovated Unit#Studio#1 Bath#$650#515+ sqft#&Apr 19#
+NA#Westbrooke Village#Birch#1 Bed#1 Bath#$475–$490#650+ sqft#&Contact#
+NA#Westbrooke Village#Sycamore#2 Beds#1 Bath#$515–$535#750+ sqft#&Contact#
+NA#Westbrooke Village#Great Oak#2 Beds#1 Bath#$540–$560#850+ sqft#&Contact#
+70%#Bent Tree Apartments#Townhome#2 Beds#2.5 Bath#$899#1280+ sqft#&Contact#
+60%#Meadows Of Catalpa#Alpine#1 Bed#1 Bath#From $525#637+ sqft#&Contact#
+60%#Meadows Of Catalpa#Christy#1 Bed#1 Bath#From $510#639+ sqft#&Contact#
+60%#Meadows Of Catalpa#Aspen#1 Bed#1 Bath#From $535#676+ sqft#&Contact#
+60%#Meadows Of Catalpa#Breckenridge#1 Bed#1 Bath#From $515#720+ sqft#&Contact#
+60%#Meadows Of Catalpa#Birchwood#1 Bed#1 Bath#From $600#920+ sqft#&Contact#
+60%#Meadows Of Catalpa#Dumont#2 Beds#1 Bath#From $635#837+ sqft#&Contact#
+60%#Meadows Of Catalpa#Boyne#2 Beds#1 Bath#From $635#920+ sqft#&Contact#
+60%#Meadows Of Catalpa#Edinburgh#2 Beds#1 Bath#From $635#964+ sqft#&Contact#
+60%#Meadows Of Catalpa#Dillon#2 Beds#2 Bath#From $735#929+ sqft#&Contact#
+60%#Meadows Of Catalpa#Crest#2 Beds#2 Bath#From $685#1012+ sqft#&Contact#
+60%#Meadows Of Catalpa#Forrester#2 Beds#2 Bath#From $760#1100+ sqft#&Contact#
+60%#Meadows Of Catalpa#Glade#2 Beds#2 Bath#From $785#1210+ sqft#&Contact#
+NA#Falcon Ridge#Apartment#1 Bed#1 Bath#From $495#650+ sqft#&Contact#
+NA#Falcon Ridge#Apartment#2 Beds#1 Bath#From $595#850+ sqft#&Contact#
+NA#Lakewoods Apartments#Studio#Studio#1 Bath#From $631#450+ sqft#&Contact#
+NA#Lakewoods Apartments#Apartment#1 Bed#1 Bath#From $631#450+ sqft#&Contact#
+60%#Union Hill Apartments#Apartment#2 Beds#1 Bath#$740–$760#908+ sqft#&1 Available#
+60%#Union Hill Apartments#Apartment#2 Beds#2 Bath#$790–$810#1028+ sqft#&3 Available#
+NA#Pinewood Gardens#Garden#1 Bed#1 Bath#$649#426+ sqft#&2 Available#
+NA#Pinewood Gardens#Townhome#3 Beds#1 Bath#$864#753+ sqft#&2 Available#
+NA#Pinewood Gardens#Townhome#4 Beds#1.5 Bath#$971#1014+ sqft#&2 Available#
+NA#Pinewood Gardens#Garden#2 Beds#1 Bath#$720#474+ sqft#&Contact#
+60%#Indian Lookout#The Ottawas#0741B#$875#1058 sqft#2 Beds#2 Bath#&May 01#
+60%#Indian Lookout#The Ottawas#0941C#$875#1058 sqft#2 Beds#2 Bath#&Jun 01#
+60%#Indian Lookout#The Ottawas#1011B#$875#1058 sqft#2 Beds#2 Bath#&Jun 01#
+60%#Indian Lookout#The Miami#0431E#$750#758 sqft#1 Bed#1 Bath#&Jun 01#
+60%#Indian Lookout#The Shawnee#0521A#$850#1048 sqft#2 Beds#2 Bath#&Jun 01#
+NA#Furnished Studio - Dayton - North#Studio#1 Bed#1 Bath#From $1,157#300+ sqft#&Contact#
+NA#Furnished Studio - Dayton - Fairborn#Studio#1 Bed#1 Bath#From $1,050#300+ sqft#&Contact#
+NA#Bancroft Apartments#Flat#2 Beds#1 Bath#From $691#768+ sqft#&3 Available#
+NA#Bancroft Apartments#Townhome#2 Beds#1 Bath#From $691#768+ sqft#&3 Available#
+NA#Furnished Studio - Dayton - South#Studio#1 Bed#1 Bath#From $1,160#300+ sqft#&Contact#
+60%#Amhurst#Hadley#2 Beds#2 Bath#From $736#864+ sqft#&1 Available#
+60%#Amhurst#Bristol#Studio#1 Bath#$441–$446#288+ sqft#&Contact#
+60%#Amhurst#Hampton#1 Bed#1 Bath#$531–$586#576+ sqft#&Contact#
+60%#Amhurst#Sterling#2 Beds#1 Bath#$691–$716#864+ sqft#&Contact#
+70%#Ketwood Apartments#Ranch-style apartments#1 Bed#1 Bath#From $539#576+ sqft#&Contact#
+70%#Ketwood Apartments#Ranch-style apartments#2 Beds#1 Bath#From $639#864+ sqft#&Contact#
+70%#Ketwood Apartments#Ranch-style apartments#3 Beds#1 Bath#From $799#1144+ sqft#&Contact#
+NA#Firwood Apartments#1 Bedrooms#1 Bed#1 Bath#$480–$580#370+ sqft#&Contact#
+NA#Firwood Apartments#2 Bedrooms#2 Beds#1 Bath#$645–$770#720+ sqft#&Contact#
+NA#Firwood Apartments#3 Bedroom#3 Beds#1.5 Bath#$835–$895#1068+ sqft#&Contact#
+20%#Stonebridge#1 bed 1 bath Andover#0801#$659#752 sqft#1 Bed#1 Bath#&Today#
+20%#Stonebridge#1 bed 1 bath Andover#0818#$789#752 sqft#1 Bed#1 Bath#&Today#
+20%#Stonebridge#1 bed 1 bath Andover#1003#$659#752 sqft#1 Bed#1 Bath#&Apr 19#
+20%#Stonebridge#2 bed 1 bath Bristol#1109#$719#997 sqft#2 Beds#1 Bath#&Today#
+20%#Stonebridge#2 bed 1 bath Bristol#1120#$759#997 sqft#2 Beds#1 Bath#&Apr 30#
+20%#Stonebridge#2 bed 1 bath Bristol#1112#$749#997 sqft#2 Beds#1 Bath#&May 08#
+20%#Stonebridge#3 bed 2 bath Essex#0213#$1149#1330 sqft#3 Beds#2 Bath#&Today#
+20%#Stonebridge#3 bed 2 bath Essex#0513#$1149#1330 sqft#3 Beds#2 Bath#&Jun 05#
+20%#Stonebridge#3 bed 2 bath Essex#0215#$1149#1330 sqft#3 Beds#2 Bath#&Jun 07#
+20%#Stonebridge#2 bed 2 bath#0312#$739#1003 sqft#2 Beds#2 Bath#&Apr 12#
+20%#Stonebridge#2 bed 2 bath#1319#$739#1003 sqft#2 Beds#2 Bath#&Apr 17#
+20%#Stonebridge#2 bed 2 bath#1412#$739#1003 sqft#2 Beds#2 Bath#&May 29#
+20%#Stonebridge#2 bed 1.5 bath#0119#$769#1003 sqft#2 Beds#1.5 Bath#&May 27#
+20%#Stonebridge#2 bed 1.5 bath#0317#$759#1003 sqft#2 Beds#1.5 Bath#&May 30#
+20%#Stonebridge#2 bed 1.5 bath#1420#$799#1003 sqft#2 Beds#1.5 Bath#&May 31#
+20%#Stonebridge#4 bed 2 bath Fairfax#4 Beds#2 Bath#$1,259#1508+ sqft#&Contact#
+70%#Daytona Village#The Ormond#1 Bed#1 Bath#$599–$639#760+ sqft#&3 Available#
+70%#Daytona Village#The Smyrna#1 Bed#1 Bath#$579–$659#800+ sqft#&2 Available#
+70%#Daytona Village#The Shiloh#2 Beds#1 Bath#$649–$669#815+ sqft#&3 Available#
+70%#Daytona Village#The Flagler#2 Beds#1 Bath#$659–$859#875+ sqft#&1 Available#
+70%#Daytona Village#The Beverly#2 Beds#1 Bath#$719–$749#1025+ sqft#&Contact#
+NA#Audubon Crossing#1 Bedroom#1 Bed#1 Bath#$616#710+ sqft#&3 Available#
+NA#Audubon Crossing#2 Bedroom#2 Beds#1 Bath#$630–$740#925+ sqft#&13 Available#
+100#Catalpa Crossing#One Bedroom#1 Bed#1 Bath#From $595#650+ sqft#&2 Available#
+100#Catalpa Crossing#Two Bedroom Townhome#2 Beds#1.5 Bath#From $675#905+ sqft#&2 Available#
+100#Catalpa Crossing#Three Bedroom#3 Beds#2 Bath#From $725#1088+ sqft#&2 Available#
+NA#Heritage Knoll#Two bed one bath#5544G#$629#864 sqft#2 Beds#1 Bath#&Jun 11#
+NA#Heritage Knoll#One Bed one bath#2185K#$559#612 sqft#1 Bed#1 Bath#&Jun 25#
+NA#Heritage Knoll#Two bed 1.5 bath townhome#2 Beds#1.5 Bath#$799#1020+ sqft#&Contact#
+NA#Heritage Knoll#Three bed 1.5 bath townhome#3 Beds#1.5 Bath#$869#1312+ sqft#&Contact#
+80%#Broadmoor Apartments#Ash#1 Bed#1 Bath#From $449#660+ sqft#&Contact#
+80%#Broadmoor Apartments#Burch#1 Bed#1 Bath#From $489#698+ sqft#&Contact#
+80%#Broadmoor Apartments#Hickory#2 Beds#1 Bath#From $565#775+ sqft#&Contact#
+80%#Broadmoor Apartments#Maple#2 Beds#1 Bath#From $599#825+ sqft#&Contact#
+80%#Broadmoor Apartments#Oak#2 Beds#2 Bath#From $625#1030+ sqft#&Contact#
+NA#First Place Luxury Apartments#Apartment#2 Beds#2 Bath#$1,200–$1,350#1450+ sqft#&Contact#
+NA#First Place Luxury Apartments#Apartment#3 Beds#2.5 Bath#$1,200–$1,650#1290+ sqft#&Contact#
+20%#Villas at Arboretum#Two Bedroom with Two Car Attached Garage#2 Beds#1.5 Bath#$821–$876#1050+ sqft#&2 Available#
+20%#Villas at Arboretum#Three Bedroom Townhome with Two Car Attached Garage#3 Beds#1.5 Bath#$930–$1,025#1100+ sqft#&1 Available#
+20%#Villas at Arboretum#Three Bedroom Townhome#3 Beds#1.5 Bath#$915#1100+ sqft#&3 Available#
+40%#CBert Properties#W. Schantz Ave#1 Bed#1 Bath#$495–$525#500+ sqft#&Contact#
+40%#CBert Properties#W. Schantz Ave#2 Beds#1 Bath#From $600#700+ sqft#&Contact#
+40%#CBert Properties#Heritage Pointe Towhomes#2 Beds#2.5 Bath#From $745#1400+ sqft#&Contact#
+NA#Alpine Apartments#1 Bedroom#1 Bed#1 Bath#From $625#640+ sqft#&1 Available#
+NA#Alpine Apartments#2 Bedroom#2 Beds#1.5 Bath#From $675#1075+ sqft#&2 Available#
+70%#East Pointe Apartments#Flat#1 Bed#1 Bath#$544–$554#575+ sqft#&2 Available#
+70%#East Pointe Apartments#Flat#2 Beds#1 Bath#$644–$654#750+ sqft#&2 Available#
+NA#Anna Laura Apartments#Apartment#1 Bed#1 Bath#From $550#&Contact#
+NA#Anna Laura Apartments#Townhome w/basement#2 Beds#1.5 Bath#From $825#&Contact#
+NA#Greenglen Apartments#Bristol#Studio#1 Bath#From $476#288+ sqft#&Contact#
+NA#Greenglen Apartments#Hampton#1 Bed#1 Bath#From $621#576+ sqft#&Contact#
+NA#Greenglen Apartments#Sterling#2 Beds#1 Bath#From $766#864+ sqft#&Contact#
+NA#Greenglen Apartments#Hadley#2 Beds#2 Bath#From $786#864+ sqft#&Contact#
+NA#Pinetree Apartments#Apartment#1 Bed#1 Bath#Please Call#&Contact#
+NA#Pinetree Apartments#Garden#2 Beds#2 Bath#$860#1200+ sqft#&Contact#
+NA#Pinetree Apartments#Townhome#2 Beds#2.5 Bath#$960#1300+ sqft#&Contact#
+100#Fox Run#Easton#11509#$749#909 sqft#2 Beds#1 Bath#&Today#
+100#Fox Run#Easton#12005#$749#909 sqft#2 Beds#1 Bath#&Today#
+100#Fox Run#Easton#26105#$749#909 sqft#2 Beds#1 Bath#&May 07#
+100#Fox Run#Sedona#11508#$789#1044 sqft#2 Beds#1.5 Bath#&Today#
+100#Fox Run#Sedona#18107#$789#1036 sqft#2 Beds#1.5 Bath#&Today#
+100#Fox Run#Sedona#22006#$799#1002 sqft#2 Beds#1.5 Bath#&Today#
+NA#Timber Ridge#Apartment#2 Beds#1 Bath#From $599#850+ sqft#&Contact#
+NA#Timber Ridge#Apartment#3 Beds#1 Bath#From $679#925+ sqft#&Contact#
+NA#531 Belmonte Park North#531 Belmonte Park North#1 Bed#1 Bath#$879#855+ sqft#&Contact#
+NA#531 Belmonte Park North#531 Belmonte Park North - 1111#1 Bed#1 Bath#$879#855+ sqft#&Contact#
+NA#531 Belmonte Park North#531 Belmonte Park North#1 Bed#1 Bath#$809#855+ sqft#&Contact#
+NA#531 Belmonte Park North#531 Belmonte Park North - 111#1 Bed#1 Bath#$779#855+ sqft#&Contact#
+NA#531 Belmonte Park North#531 Belmonte Park North#1 Bed#1 Bath#$809#855+ sqft#&Contact#
+NA#531 Belmonte Park North#531 Belmonte Park North - 702#2 Beds#2 Bath#$944#1237+ sqft#&Contact#
+NA#531 Belmonte Park North#531 Belmonte Park North#2 Beds#2 Bath#$909#1237+ sqft#&Contact#
+NA#531 Belmonte Park North#531 Belmonte Park North#2 Beds#2 Bath#$939#1237+ sqft#&Contact#
+NA#531 Belmonte Park North#531 Belmonte Park North#2 Beds#2 Bath#$909#1237+ sqft#&Contact#
+NA#531 Belmonte Park North#531 Belmonte Park North - 409#2 Beds#2 Bath#$909#1237+ sqft#&Contact#
+NA#531 Belmonte Park North#531 Belmonte Park North#2 Beds#2 Bath#$909#1237+ sqft#&Contact#
+NA#531 Belmonte Park North#531 Belmonte Park North - 302#2 Beds#2 Bath#$909#1237+ sqft#&Contact#
+NA#531 Belmonte Park North#531 Belmonte Park North - 204#3 Beds#2 Bath#$1,269#1425+ sqft#&Contact#
+NA#The Riverfront Grande! 255 N. Main St.#Rental#Studio#1 Bath#$750#700+ sqft#&Contact#
+NA#COMING SOON! Spacious 3 Bed 2 Bath Home!#Rental#3 Beds#2 Bath#$800#1840+ sqft#&Contact#
+NA#Move In Ready 3 Bedroom#Rental#3 Beds#1 Bath#$750#&Contact#
+NA#2 Bed Apt. in Secured Building#Rental#2 Beds#1 Bath#$595#&Contact#
+NA#Secured Building 2 Bed Apt.#Rental#2 Beds#1 Bath#$595#&Contact#
+NA#Very clean 2 Bed Ready for Move In#Rental#2 Beds#1 Bath#$675#858+ sqft#&Contact#
+NA#Charming 3 Bedroom 2 Bath!#Rental#3 Beds#2 Bath#$795#&Contact#
+NA#Charming 3 Bedroom 2 Bath!#Rental#3 Beds#2 Bath#$795#&Contact#
+NA#COMING SOON! 1 Bed 1 Bath Updated#Rental#1 Bed#1 Bath#$595#&Contact#
+NA#COMING SOON! 3 Bed 1 Bath Ranch Home!#Rental#3 Beds#1 Bath#$675#&Contact#
+NA#COMING SOON! Cute Rambler in a Great Area!#Rental#3 Beds#1 Bath#$1,095#997+ sqft#&Contact#
+NA#COMING SOON!  3 Bed 2.5 Bath, Corner lot!#Rental#3 Beds#2.5 Bath#$1,450#1562+ sqft#&Contact#
+NA#Affordable Upscale Kettering 3 Bedroom Condo#Rental#3 Beds#2 Bath#$950#&Contact#
+NA#COMING SOON! Spacious 4 Bed 2 Bath Huber Heights H#Rental#4 Beds#2.5 Bath#$1,595#&Contact#
+NA#556 Telford Ave. Apt A#Rental#1 Bed#1 Bath#$545#700+ sqft#&Contact#
+NA#316 E Pease#Rental#1 Bed#1 Bath#$625#1025+ sqft#&Contact#
+NA#411 Burns Ave#2 bed 1.0 bath 1107 sqft#2 Beds#1 Bath#$550#1107+ sqft#&1 Available#
+NA#109 Grimes St#4 bed 2.0 bath 1980 sqft#4 Beds#2 Bath#$1,095#1980+ sqft#&1 Available#
+NA#316 Superior Ave#1 bed 1.0 bath 550 sqft#1 Bed#1 Bath#$550#550+ sqft#&1 Available#
+NA#475 W Grand Ave#0 bed 1.0 bath 450 sqft#Studio#1 Bath#$500#450+ sqft#&1 Available#
+NA#455 Forest Ave#2 bed 1.0 bath#2 Beds#1 Bath#$595#&1 Available#
+NA#554 Corwin St#3 bed 2.0 bath#3 Beds#2 Bath#$800#&1 Available#
+NA#423 Alberta St#4 bed 1.0 bath 1900 sqft#4 Beds#1 Bath#$875#1900+ sqft#&1 Available#
+NA#720 N Keowee St#2 bed 2.0 bath#2 Beds#2 Bath#$575#&1 Available#
+NA#218 Rockwood Ave#3 bed 1.0 bath 1304 sqft#3 Beds#1 Bath#$600#1304+ sqft#&1 Available#
+NA#414 Xenia Ave#1 bed 1.0 bath#1 Bed#1 Bath#$475#&1 Available#
+NA#441 N Broadway St#2 bed 1.5 bath#2 Beds#1.5 Bath#$675#&1 Available#
+NA#736 Superior Ave#1 bed 1.0 bath 550 sqft#1 Bed#1 Bath#$550#550+ sqft#&1 Available#
+NA#140 Lexington Ave#3 bed 2.5 bath 2587 sqft#3 Beds#2.5 Bath#$1,395#2587+ sqft#&1 Available#
+NA#432 W Stewart St#4 bed 2.0 bath 850 sqft#4 Beds#2 Bath#$1,000#850+ sqft#&1 Available#
+NA#933 Steele Ave#3 bed 1.0 bath 1200 sqft#3 Beds#1 Bath#$800#1200+ sqft#&1 Available#
+NA#25 Sherman St#2 bed 1.0 bath 1166 sqft#2 Beds#1 Bath#$650#1166+ sqft#&1 Available#
+NA#511 St Paul Ave#3 bed 1.0 bath#3 Beds#1 Bath#$650#&1 Available#
+NA#503 Hulbert St#2 bed 1.0 bath#2 Beds#1 Bath#$550#&1 Available#
+NA#17 Mc Kinley St#2 bed 1.0 bath 937 sqft#2 Beds#1 Bath#$625#937+ sqft#&1 Available#
+NA#1000 Xenia Ave#2 bed 1.0 bath#2 Beds#1 Bath#$550#&1 Available#
+NA#112 Heaton Ave#3 bed 1.0 bath 1364 sqft#3 Beds#1 Bath#$795#1364+ sqft#&1 Available#
+NA#156 Gunckel Ave#2 bed 1.0 bath 900 sqft#2 Beds#1 Bath#$600#900+ sqft#&1 Available#
+NA#64 Fountain Ave#3 bed 1.0 bath#3 Beds#1 Bath#$600#&1 Available#
+NA#62 Fountain Ave#3 bed 1.0 bath 1477 sqft#3 Beds#1 Bath#$600#1477+ sqft#&1 Available#
+NA#410 Delaware Ave#1 bed 1.0 bath#1 Bed#1 Bath#$450#&1 Available#
+NA#15 Ridge Ave#1 bed 1.0 bath#1 Bed#1 Bath#$475#&1 Available#
+NA#1715 Warner Ave#2 bed 1.0 bath 1017 sqft#2 Beds#1 Bath#$595#1017+ sqft#&1 Available#
+NA#126 Edgar Ave#3 bed 1.0 bath 1120 sqft#3 Beds#1 Bath#$675#1120+ sqft#&1 Available#
+NA#636 St Joseph Ave#3 bed 1.0 bath 1100 sqft#3 Beds#1 Bath#$625#1100+ sqft#&1 Available#
+NA#1317 Salem Ave#2 bed 1.0 bath 675 sqft#2 Beds#1 Bath#$600#675+ sqft#&1 Available#
+NA#521 Beckman St#2 bed 1.0 bath#2 Beds#1 Bath#$675#&1 Available#
+NA#1380 Cory Dr#2 bed 1.0 bath#2 Beds#1 Bath#$595#&1 Available#
+NA#1513 Wyoming St#3 bed 1.0 bath#3 Beds#1 Bath#$700#&1 Available#
+NA#640 Pritz Ave#3 bed 1.5 bath 1312 sqft#3 Beds#1.5 Bath#$825#1312+ sqft#&1 Available#
+NA#116 Ernst Ave#1 bed 1.0 bath 602 sqft#1 Bed#1 Bath#$465#602+ sqft#&1 Available#
+NA#57 Ernst Ave#2 bed 1.0 bath 894 sqft#2 Beds#1 Bath#$625#894+ sqft#&1 Available#
+NA#38 Willowwood Dr#3 bed 1.0 bath#3 Beds#1 Bath#$850#&1 Available#
+NA#840 Creighton Ave#3 bed 2.0 bath 1424 sqft#3 Beds#2 Bath#$850#1424+ sqft#&1 Available#
+NA#2048 Stegman Ave#3 bed 1.0 bath 1350 sqft#3 Beds#1 Bath#$725#1350+ sqft#&1 Available#
+NA#50 Willowwood Dr#2 bed 1.0 bath#2 Beds#1 Bath#$595#&1 Available#
+NA#916 Linden Ave#2 bed 1.0 bath 1110 sqft#2 Beds#1 Bath#$725#1110+ sqft#&1 Available#
+NA#922 Linden Ave#1 bed 1.0 bath 560 sqft#1 Bed#1 Bath#$500#560+ sqft#&1 Available#
+NA#1047 Huffman Ave#2 bed 1.0 bath 1000 sqft#2 Beds#1 Bath#$500#1000+ sqft#&1 Available#
+NA#635 Hodapp Ave#3 bed 1.5 bath 1418 sqft#3 Beds#1.5 Bath#$850#1418+ sqft#&1 Available#
+NA#1341 Phillips Ave#3 bed 1.0 bath#3 Beds#1 Bath#$650#&1 Available#
+NA#1343 Phillips Ave#3 bed 1.0 bath#3 Beds#1 Bath#$750#&1 Available#
+NA#718 Randolph St#2 bed 1.0 bath 944 sqft#2 Beds#1 Bath#$650#944+ sqft#&1 Available#
+NA#143 Laura Ave#2 bed 1.0 bath 960 sqft#2 Beds#1 Bath#$725#960+ sqft#&1 Available#
+NA#400 Sheridan Ave#2 bed 1.0 bath#2 Beds#1 Bath#$650#&1 Available#
+NA#407 W Norman Ave#2 bed 1.0 bath#2 Beds#1 Bath#$750#&1 Available#
+NA#2616 Newport Ave#1 bed 1.0 bath 550 sqft#1 Bed#1 Bath#$550#550+ sqft#&1 Available#
+NA#438 Allwen Dr#3 bed 1.5 bath 1488 sqft#3 Beds#1.5 Bath#$855#1488+ sqft#&1 Available#
+NA#1241 Creighton Ave#3 bed 1.5 bath 1560 sqft#3 Beds#1.5 Bath#$998#1560+ sqft#&1 Available#
+NA#47 Marie Ave#2 bed 1.0 bath#2 Beds#1 Bath#$525#&1 Available#
+NA#344 W Parkwood Dr#2 bed 1.5 bath 1200 sqft#2 Beds#1.5 Bath#$795#1200+ sqft#&1 Available#
+NA#2016 Rustic Rd#1 bed 1.0 bath#1 Bed#1 Bath#$525#&1 Available#
+NA#2240 Lakeview Ave#3 bed 1.0 bath 1056 sqft#3 Beds#1 Bath#$675#1056+ sqft#&1 Available#
+NA#1312 Carlisle Ave#2 bed 1.0 bath 1180 sqft#2 Beds#1 Bath#$850#1180+ sqft#&1 Available#
+NA#420 W Parkwood Dr#1 bed 1.0 bath 550 sqft#1 Bed#1 Bath#$525#550+ sqft#&1 Available#
+NA#22 Marson Dr#2 bed 1.0 bath#2 Beds#1 Bath#$600#&1 Available#
+NA#428 W Parkwood Dr#3 bed 1.0 bath 1352 sqft#3 Beds#1 Bath#$595#1352+ sqft#&1 Available#
+NA#311 E Maplewood Ave#2 bed 2.0 bath 828 sqft#2 Beds#2 Bath#$695#828+ sqft#&1 Available#
+NA#816 Kammer Ave#3 bed 1.5 bath 1500 sqft#3 Beds#1.5 Bath#$775#1500+ sqft#&1 Available#
+NA#2039 Emerson Ave#1 bed 1.0 bath#1 Bed#1 Bath#$475#&1 Available#
+NA#2806 N Main St#1 bed 1.0 bath#1 Bed#1 Bath#$475#&1 Available#
+NA#332 Kling Dr#3 bed 2.0 bath 1322 sqft#3 Beds#2 Bath#$1,375#1322+ sqft#&1 Available#
+NA#1932 Auburn Ave#4 bed 2.0 bath 1817 sqft#4 Beds#2 Bath#$800#1817+ sqft#&1 Available#
+NA#620 Cherry Dr#3 bed 1.0 bath 1260 sqft#3 Beds#1 Bath#$800#1260+ sqft#&1 Available#
+NA#128 Pointview Ave#2 bed 1.0 bath#2 Beds#1 Bath#$575#&1 Available#
+NA#47 E Maplewood Ave#1 bed 1.0 bath#1 Bed#1 Bath#$475#&1 Available#
+NA#37 N Delmar Ave#2 bed 1.0 bath#2 Beds#1 Bath#$675#&1 Available#
+NA#1332 St Adalbert Ave#2 bed 1.0 bath#2 Beds#1 Bath#$565#&1 Available#
+NA#2646 Home Ave#2 bed 1.0 bath#2 Beds#1 Bath#$550#&1 Available#
+NA#257 Valleyview Dr#1 bed 1.0 bath#1 Bed#1 Bath#$475#&1 Available#
+NA#51 Watervliet Ave#2 bed 1.0 bath 700 sqft#2 Beds#1 Bath#$425#700+ sqft#&1 Available#
+NA#12 S Westview Ave#2 bed 1.0 bath 800 sqft#2 Beds#1 Bath#$450#800+ sqft#&1 Available#
+NA#616 Westwood Ave#2 bed 1.0 bath 638 sqft#2 Beds#1 Bath#$550#638+ sqft#&1 Available#
+NA#1434 N James H McGee Blvd#1 bed 1.0 bath#1 Bed#1 Bath#$450#&1 Available#
+NA#2002 Elsmere Ave#3 bed 1.0 bath 1000 sqft#3 Beds#1 Bath#$650#1000+ sqft#&1 Available#
+NA#617 Westwood Ave#3 bed 1.0 bath 1304 sqft#3 Beds#1 Bath#$725#1304+ sqft#&1 Available#
+NA#2333 Rustic Rd#2 bed 1.0 bath 1000 sqft#2 Beds#1 Bath#$695#1000+ sqft#&1 Available#
+NA#818 Cherry Dr#2 bed 1.0 bath#2 Beds#1 Bath#$550#&1 Available#
+NA#112 Cliff St#3 bed 1.5 bath 1516 sqft#3 Beds#1.5 Bath#$795#1516+ sqft#&1 Available#
+NA#24 Fernwood Ave#1 bed 1.0 bath 575 sqft#1 Bed#1 Bath#$450#575+ sqft#&1 Available#
+NA#910 Cherry Dr#1 bed 1.0 bath#1 Bed#1 Bath#$400#&1 Available#
+NA#2128 Auburn Ave#3 bed 1.0 bath 1145 sqft#3 Beds#1 Bath#$695#1145+ sqft#&1 Available#
+NA#2525 Germantown St#1 bed 1.0 bath#1 Bed#1 Bath#$550#&1 Available#
+NA#345 E Bruce Ave#2 bed 1.0 bath 500 sqft#2 Beds#1 Bath#$495#500+ sqft#&1 Available#
+NA#212 E Bruce Ave#2 bed 1.0 bath 830 sqft#2 Beds#1 Bath#$495#830+ sqft#&1 Available#
+NA#53 Knecht Dr#3 bed 1.0 bath 1386 sqft#3 Beds#1 Bath#$800#1386+ sqft#&1 Available#
+NA#1100 W Fairview Ave#2 bed 1.0 bath 750 sqft#2 Beds#1 Bath#$500#750+ sqft#&1 Available#
+NA#333 W Hillcrest Ave#3 bed 2.0 bath#3 Beds#2 Bath#$795#&1 Available#
+NA#1038 Cherry Dr#1 bed 1.0 bath 600 sqft#1 Bed#1 Bath#$445#600+ sqft#&1 Available#
+NA#2245 King Ave#4 bed 2.0 bath 1200 sqft#4 Beds#2 Bath#$1,175#1200+ sqft#&1 Available#
+NA#416 Ashwood Ave#1 bed 1.0 bath 600 sqft#1 Bed#1 Bath#$450#600+ sqft#&1 Available#
+NA#231 Ryburn Ave#2 bed 1.0 bath 850 sqft#2 Beds#1 Bath#$500#850+ sqft#&1 Available#
+NA#1003 Wilmington Ave#1 bed 1.0 bath 716 sqft#116#530##1 Bed#1 Bath#&Today#
+NA#1005 Leland Ave#3 bed 1.0 bath 1175 sqft#3 Beds#1 Bath#$750#1175+ sqft#&1 Available#
+NA#108 Ashwood Ave#4 bed 1.0 bath 850 sqft#4 Beds#1 Bath#$1,000#850+ sqft#&1 Available#
+NA#229 Bellaire Ave#2 bed 1.0 bath 837 sqft#2 Beds#1 Bath#$895#837+ sqft#&1 Available#
+NA#3712 Wayne Ave#2 bed 1.0 bath 760 sqft#2 Beds#1 Bath#$775#760+ sqft#&1 Available#
+NA#1988 Victoria Ave#2 bed 1.0 bath 750 sqft#2 Beds#1 Bath#$600#750+ sqft#&1 Available#
+NA#1704 Huffman Ave#2 bed 1.0 bath 896 sqft#2 Beds#1 Bath#$600#896+ sqft#&1 Available#
+NA#1910 Colonial Village Ln#2 bed 1.0 bath 850 sqft#2 Beds#1 Bath#$600#850+ sqft#&1 Available#
+NA#608 Hampshire Rd#1 bed 1.0 bath 600 sqft#1 Bed#1 Bath#$470#600+ sqft#&1 Available#
+NA#400 N Cherrywood Ave#2 bed 1.0 bath 800 sqft#2 Beds#1 Bath#$550#800+ sqft#&1 Available#
+NA#104 E Siebenthaler Ave#2 bed 1.0 bath 1187 sqft#2 Beds#1 Bath#$650#1187+ sqft#&1 Available#
+NA#305 Sandhurst Dr#3 bed 1.0 bath 1087 sqft#3 Beds#1 Bath#$700#1087+ sqft#&1 Available#
+NA#1220 McArthur Ave#1 bed 1.0 bath#1 Bed#1 Bath#$475#&1 Available#
+NA#109 N Decker Ave#2 bed 1.0 bath 1176 sqft#2 Beds#1 Bath#$725#1176+ sqft#&1 Available#
+NA#2859 Revere Ave#1 bed 1.0 bath#1 Bed#1 Bath#$595#&1 Available#
+NA#2018 Fauver Ave#3 bed 1.0 bath 1168 sqft#3 Beds#1 Bath#$845#1168+ sqft#&1 Available#
+NA#29 S Decker Ave#2 bed 1.0 bath 0 sqft#4#525##2 Beds#1 Bath#&Today#
+NA#4024 Woodcliffe Ave#2 bed 1.0 bath#2 Beds#1 Bath#$775#&1 Available#
+NA#3568 Stanford Pl#2 bed 1.0 bath#2 Beds#1 Bath#$550#&1 Available#
+NA#109 Redwood Ave#3 bed 1.0 bath 1287 sqft#3 Beds#1 Bath#$825#1287+ sqft#&1 Available#
+NA#1079 Bertram Ave#3 bed 2.0 bath 1649 sqft#3 Beds#2 Bath#$850#1649+ sqft#&1 Available#
+NA#3574 Stanford Pl#2 bed 1.0 bath#2 Beds#1 Bath#$550#&1 Available#
+NA#1523 Doddington Rd#4 bed 2.5 bath 2448 sqft#4 Beds#2.5 Bath#$1,799#2448+ sqft#&1 Available#
+NA#2263 Hepburn Ave#1 bed 1.0 bath 525 sqft#A#500##1 Bed#1 Bath#&Today#
+NA#1722 Kings Mill Ct#2 bed 1.5 bath 900 sqft#2 Beds#1.5 Bath#$655#900+ sqft#&1 Available#
+NA#2019 Piccadilly Ave#3 bed 1.0 bath#3 Beds#1 Bath#$675#&1 Available#
+NA#2102 Piccadilly Ave#3 bed 1.0 bath 1020 sqft#3 Beds#1 Bath#$775#1020+ sqft#&1 Available#
+NA#948 Highridge Ave#2 bed 1.0 bath 725 sqft#2 Beds#1 Bath#$695#725+ sqft#&1 Available#
+NA#2735 Whittier Ave#4 bed 1.5 bath 1416 sqft#4 Beds#1.5 Bath#$1,025#1416+ sqft#&1 Available#
+NA#713 Verona Rd#3 bed 1.0 bath 922 sqft#3 Beds#1 Bath#$745#922+ sqft#&1 Available#
+NA#519 Heather Dr#2 bed 2.0 bath 1100 sqft#2 Beds#2 Bath#$675#1100+ sqft#&1 Available#
+NA#557 Telford Ave#1 bed 1.0 bath 625 sqft#1 Bed#1 Bath#$575#625+ sqft#&1 Available#
+NA#2823 Calvin Ave#3 bed 1.0 bath 1156 sqft#3 Beds#1 Bath#$700#1156+ sqft#&1 Available#
+NA#62 W Nottingham Rd#2 bed 1.0 bath#2 Beds#1 Bath#$575#&1 Available#
+NA#66 W Nottingham Rd#2 bed 1.0 bath 650 sqft#2 Beds#1 Bath#$650#650+ sqft#&1 Available#
+NA#2658 Hazel Ave#1 bed 1.0 bath#1 Bed#1 Bath#$525#&1 Available#
+NA#4286 Catalpa Dr#1 bed 1.0 bath#1 Bed#1 Bath#$550#&1 Available#
+NA#4538 W 2nd St#2 bed 1.0 bath 649 sqft#2 Beds#1 Bath#$675#649+ sqft#&1 Available#
+NA#320 Forest Park Dr#1 bed 1.0 bath 0 sqft#106#600##1 Bed#1 Bath#&Today#
+NA#2452 Fairport Ave#2 bed 1.0 bath 1010 sqft#2 Beds#1 Bath#$675#1010+ sqft#&1 Available#
+NA#2747 Springmont Ave#3 bed 1.0 bath 1275 sqft#3 Beds#1 Bath#$900#1275+ sqft#&1 Available#
+NA#790 Biltmore Pl#3 bed 1.0 bath#3 Beds#1 Bath#$1,000#&1 Available#
+NA#4406 Waymire Ave#3 bed 1.0 bath 870 sqft#3 Beds#1 Bath#$675#870+ sqft#&1 Available#
+NA#4446 Prescott Ave#3 bed 1.0 bath 1015 sqft#3 Beds#1 Bath#$745#1015+ sqft#&1 Available#
+NA#4530 Foxton Ct#1 bed 1.0 bath 288 sqft#1 Bed#1 Bath#$550#288+ sqft#&1 Available#
+NA#1631 Watervliet Ave#2 bed 1.0 bath 952 sqft#2 Beds#1 Bath#$775#952+ sqft#&1 Available#
+NA#4529 Waymire Ave#3 bed 1.0 bath 1015 sqft#3 Beds#1 Bath#$695#1015+ sqft#&1 Available#
+NA#3821 Cavanaugh Rd#3 bed 1.0 bath 1146 sqft#3 Beds#1 Bath#$1,175#1146+ sqft#&1 Available#
+NA#3550 Golden Meadows Ct#3 bed 2.0 bath 1189 sqft#3 Beds#2 Bath#$850#1189+ sqft#&1 Available#
+NA#202 Park End Dr#4 bed 2.5 bath#4 Beds#2.5 Bath#$1,275#&1 Available#
+NA#4093 Saylor St#3 bed 1.0 bath#3 Beds#1 Bath#$700#&1 Available#
+NA#4372 Free Pike#3 bed 1.0 bath 1508 sqft#3 Beds#1 Bath#$850#1508+ sqft#&1 Available#
+NA#4050 Annapolis Ave#2 bed 1.0 bath 688 sqft#2 Beds#1 Bath#$675#688+ sqft#&1 Available#
+NA#4334 Saylor St#3 bed 1.0 bath 1087 sqft#3 Beds#1 Bath#$800#1087+ sqft#&1 Available#
+NA#1332 Marot Dr#3 bed 1.0 bath 925 sqft#3 Beds#1 Bath#$700#925+ sqft#&1 Available#
+NA#4203 Thompson Dr#2 bed 1.0 bath 770 sqft#2 Beds#1 Bath#$700#770+ sqft#&1 Available#
+NA#4201 Brunswick Ave#3 bed 1.0 bath 957 sqft#3 Beds#1 Bath#$725#957+ sqft#&1 Available#
+NA#4010 Brenton Dr#3 bed 1.0 bath 1166 sqft#3 Beds#1 Bath#$825#1166+ sqft#&1 Available#
+NA#14 Napoleon Dr#3 bed 1.0 bath 1501 sqft#3 Beds#1 Bath#$1,395#1501+ sqft#&1 Available#
+NA#5301 Tucson Dr#3 bed 1.5 bath#3 Beds#1.5 Bath#$925#&1 Available#
+NA#41 Burgess Ave#3 bed 2.0 bath 1400 sqft#3 Beds#2 Bath#$1,025#1400+ sqft#&1 Available#
+NA#4164 Bridlegate Way#3 bed 2.5 bath 1688 sqft#3 Beds#2.5 Bath#$1,595#1688+ sqft#&1 Available#
+NA#2917 Cunnington Ln#3 bed 1.0 bath 1176 sqft#3 Beds#1 Bath#$895#1176+ sqft#&1 Available#
+NA#4434 Softwood Ln#3 bed 2.5 bath#3 Beds#2.5 Bath#$1,450#&1 Available#
+NA#5528 Fisher Dr#2 bed 1.0 bath#2 Beds#1 Bath#$625#&1 Available#
+NA#4500 Waynedale Cir#2 bed 1.0 bath 872 sqft#2 Beds#1 Bath#$602#872+ sqft#&1 Available#
+NA#4530 Bufort Blvd#2 bed 1.0 bath#2 Beds#1 Bath#$602#&1 Available#
+NA#5353 Dunmore Dr#2 bed 1.0 bath 777 sqft#2 Beds#1 Bath#$625#777+ sqft#&1 Available#
+NA#5341 Naples Dr#4 bed 2.0 bath#4 Beds#2 Bath#$1,250#&1 Available#
+NA#4840 Powell Rd#3 bed 3.0 bath 1680 sqft#3 Beds#3 Bath#$1,350#1680+ sqft#&1 Available#
+NA#7837 N Main St#2 bed 1.0 bath#14#625##2 Beds#1 Bath#&Today#
+NA#4440 Glenheath Dr#3 bed 2.5 bath 2000 sqft#3 Beds#2.5 Bath#$1,595#2000+ sqft#&1 Available#
+NA#6640 Lovell Ct#4 bed 4.0 bath 1876 sqft#4 Beds#4 Bath#$1,800#1876+ sqft#&1 Available#
+NA#309 Grand Ave#4 bed 1.0 bath 1137 sqft#4 Beds#1 Bath#$750#1137+ sqft#&1 Available#
+NA#6224 Janice Pl#3 bed 2.0 bath 1150 sqft#3 Beds#2 Bath#$1,095#1150+ sqft#&1 Available#
+NA#5634 Olive Tree Dr#4 bed 3.0 bath#4 Beds#3 Bath#$1,325#&1 Available#
+NA#5640 Coach Dr W#3 bed 2.0 bath#D#950##3 Beds#2 Bath#&Today#
+NA#4315 Crownwood Ave#4 bed 2.0 bath#4 Beds#2 Bath#$1,300#&1 Available#
+NA#7765 Redbank Ln#4 bed 2.0 bath 1624 sqft#4 Beds#2 Bath#$1,250#1624+ sqft#&1 Available#
+NA#4038 Sugar Ridge Blvd#3 bed 2.0 bath 1684 sqft#3 Beds#2 Bath#$1,695#1684+ sqft#&1 Available#
+NA#6691 Loblolly Dr#3 bed 2.5 bath 1847 sqft#3 Beds#2.5 Bath#$1,395#1847+ sqft#&1 Available#
+NA#1430 Long Island Ct#3 bed 3.0 bath 1400 sqft#3 Beds#3 Bath#$1,350#1400+ sqft#&1 Available#
+NA#6527 Charlesgate Rd#4 bed 2.5 bath#4 Beds#2.5 Bath#$1,595#&1 Available#
+NA#1525 Taitwood Dr#4 bed 2.5 bath 2185 sqft#4 Beds#2.5 Bath#$2,200#2185+ sqft#&1 Available#
+NA#2173 Pacer Trail#3 bed 2.5 bath 1884 sqft#3 Beds#2.5 Bath#$1,695#1884+ sqft#&1 Available#
+NA#1588 Glenbeck Ave#1 bed 1.0 bath 650 sqft#1 Bed#1 Bath#$545#650+ sqft#&1 Available#
+NA#4843 Springfield St#1 bed 1.0 bath 504 sqft#1 Bed#1 Bath#$525#504+ sqft#&1 Available#
+NA#4365 Parkway Dr#2 bed 1.0 bath 600 sqft#2 Beds#1 Bath#$575#600+ sqft#&1 Available#
+NA#4369 Parkway Dr#2 bed 1.0 bath 600 sqft#2 Beds#1 Bath#$575#600+ sqft#&1 Available#
+NA#5219 Pitcairn Rd#3 bed 2.0 bath 1248 sqft#3 Beds#2 Bath#$1,000#1248+ sqft#&1 Available#
+NA#4330 Straight Arrow Rd#3 bed 2.5 bath#3 Beds#2.5 Bath#$1,350#&1 Available#
+NA#5401 Bellefontaine Rd#2 bed 1.0 bath#2 Beds#1 Bath#$575#&1 Available#
+NA#25 Carma Dr#4 bed 1.0 bath 1296 sqft#4 Beds#1 Bath#$845#1296+ sqft#&1 Available#
+NA#3128 Alexander Pl#3 bed 2.0 bath 1500 sqft#3 Beds#2 Bath#$1,225#1500+ sqft#&1 Available#
+NA#6888 Brandt Pike#2 bed 1.0 bath 850 sqft#2 Beds#1 Bath#$525#850+ sqft#&1 Available#
+NA#7311 Harshmanville Rd#3 bed 2.0 bath 1080 sqft#3 Beds#2 Bath#$1,095#1080+ sqft#&1 Available#
+NA#Oakdale Apartments#2 bedroom, 1 bath, townhome#2 Beds#1 Bath##&#
+NA#Oakdale Apartments#2 bedroom, 1 bath, garden#2 Beds#1 Bath##&#
+NA#Oakdale Apartments#3 bedroom, 1 and 1/2 bath, townhome#3 Beds#1.5 Bath##&#
+NA#Almond Village##1 Bed#1 Bath##&#
+60%#Eagle Ridge Apartments#one bedroom#1 Bed#1 Bath#650+ sqft#&#
+60%#Eagle Ridge Apartments#two bedroom#2 Beds#1 Bath#850+ sqft#&#
+60%#Eagle Ridge Apartments#three bedroom#3 Beds#2 Bath#950+ sqft#&#
+60%#Eagle Ridge Apartments#four bedroom#4 Beds#2 Bath#1150+ sqft#&#
+60%#Irongate Manor#1-2 bed#1 Bed#1 Bath#$615–$745#&#
+100#Devonshire by Redwood#forestwood#2 Beds#2 Bath#$1,499#1294+ sqft#&#
+100#Devonshire by Redwood#meadowood#2 Beds#2 Bath#$1,674#1327+ sqft#&#
+100#Devonshire by Redwood#driftwood#2 Beds#2 Bath#$1,174#1127+ sqft#&#
+100#Devonshire by Redwood#birchwood#2 Beds#2 Bath#$1,674#1327+ sqft#&#
+100#Devonshire by Redwood#rosewood#2 Beds#2 Bath#$1,499#1294+ sqft#&#
+NA#Overlook Mutual Homes#1 bedroom#1 Bed#1 Bath#$475#&#
+NA#Overlook Mutual Homes#2 bedroom#2 Beds#1 Bath#$485#&#
+NA#Overlook Mutual Homes#3 bedroom#3 Beds#1 Bath#$495#&#
+NA#Lafayette Square#one bedroom#1 Bed#1 Bath#585+ sqft#&#
+NA#Lafayette Square#2 bed 1.5 bath#2 Beds#1.5 Bath#785+ sqft#&#
+NA#Lafayette Square#2 bedroom 1.5 bath townhouse#2 Beds#1.5 Bath#938+ sqft#&#
+NA#Lafayette Square#2 bedroom#2 Beds#2 Bath#820+ sqft#&#
+60%#Trinity Community at Fairwood#type a (one bedroom)#1 Bed#1 Bath#576+ sqft#&#
+60%#Trinity Community at Fairwood#type b (one bedroom)#1 Bed#1 Bath#576+ sqft#&#
+60%#Trinity Community at Fairwood#type a (two bedroom)#2 Beds#1 Bath#864+ sqft#&#
+60%#Trinity Community at Fairwood#type b (two bedroom)#2 Beds#1 Bath#810+ sqft#&#
+100#Countryside Acres#2 beds#2 Beds#1 Bath#$500–$550#&#
+80%#Villas At Benchrock#the portico#2 Beds#2 Bath#1776+ sqft#&#
+80%#Villas At Benchrock#the tornio#2 Beds#2 Bath#1888+ sqft#&#
+80%#Villas At Benchrock#the palazzo#2 Beds#2 Bath#1519+ sqft#&#
